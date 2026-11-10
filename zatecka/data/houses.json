@@ -1,0 +1,227 @@
+{
+ "110": {
+  "kind": "restaurace pivovaru (čp. 110)",
+  "side_cs": "SZ",
+  "orient": "1",
+  "placement": "GIS",
+  "n_photo": 3,
+  "n_plan": 1,
+  "n_card": 2
+ },
+ "437": {
+  "kind": "třípodlažní dům v areálu pivovaru",
+  "side_cs": "SZ",
+  "orient": "2",
+  "placement": "GIS",
+  "n_photo": 2,
+  "n_plan": 1,
+  "n_card": 1
+ },
+ "1041": {
+  "kind": "pivovar (areál, věž)",
+  "side_cs": "SZ",
+  "orient": "–",
+  "placement": "GIS",
+  "n_photo": 5,
+  "n_plan": 1,
+  "n_card": 3
+ },
+ "995": {
+  "kind": "vila (neobarokní)",
+  "side_cs": "SZ",
+  "orient": "4",
+  "placement": "GIS",
+  "n_photo": 5,
+  "n_plan": 1,
+  "n_card": 5
+ },
+ "930": {
+  "kind": "vila",
+  "side_cs": "SZ",
+  "orient": "5",
+  "placement": "GIS",
+  "n_photo": 5,
+  "n_plan": 1,
+  "n_card": 5
+ },
+ "1360": {
+  "kind": "reálné gymnázium / muzeum",
+  "side_cs": "SZ",
+  "orient": "–",
+  "placement": "GIS",
+  "n_photo": 8,
+  "n_plan": 1,
+  "n_card": 1
+ },
+ "774": {
+  "kind": "třípodlažní činžovní dům",
+  "side_cs": "JV",
+  "orient": "1",
+  "placement": "GIS",
+  "n_photo": 2,
+  "n_plan": 1,
+  "n_card": 2
+ },
+ "770": {
+  "kind": "dvoupodlažní dům",
+  "side_cs": "JV",
+  "orient": "2",
+  "placement": "GIS",
+  "n_photo": 4,
+  "n_plan": 1,
+  "n_card": 4
+ },
+ "699": {
+  "kind": "nárožní dům s obchodem POTRAVINY",
+  "side_cs": "JV",
+  "orient": "3",
+  "placement": "GIS",
+  "n_photo": 5,
+  "n_plan": 1,
+  "n_card": 5
+ },
+ "453": {
+  "kind": "dvoupodlažní dům s mansardou (dvojice s 879)",
+  "side_cs": "JV",
+  "orient": "4",
+  "placement": "GIS",
+  "n_photo": 2,
+  "n_plan": 1,
+  "n_card": 1
+ },
+ "879": {
+  "kind": "dvoupodlažní dům (dvojice s 453)",
+  "side_cs": "JV",
+  "orient": "5",
+  "placement": "GIS",
+  "n_photo": 4,
+  "n_plan": 1,
+  "n_card": 3
+ },
+ "1019": {
+  "kind": "třípodlažní část dvojdomu (s 1006)",
+  "side_cs": "JV",
+  "orient": "6",
+  "placement": "GIS",
+  "n_photo": 2,
+  "n_plan": 1,
+  "n_card": 2
+ },
+ "1006": {
+  "kind": "nárožní třípodlažní dům PROBST (s 1019)",
+  "side_cs": "JV",
+  "orient": "7",
+  "placement": "GIS",
+  "n_photo": 6,
+  "n_plan": 2,
+  "n_card": 4
+ },
+ "2073": {
+  "kind": "novostavba 1960s, bytový dům",
+  "side_cs": "JV",
+  "orient": "– (Na střelišti)",
+  "placement": "GIS",
+  "n_photo": 1,
+  "n_plan": 0,
+  "n_card": 1
+ },
+ "1918": {
+  "kind": "vila (3 podlaží + podkroví)",
+  "side_cs": "JV",
+  "orient": "10",
+  "placement": "hypotéza",
+  "n_photo": 5,
+  "n_plan": 1,
+  "n_card": 5
+ },
+ "1906": {
+  "kind": "polovina dvojdomu 1906/1907",
+  "side_cs": "JV",
+  "orient": "11",
+  "placement": "hypotéza",
+  "n_photo": 3,
+  "n_plan": 1,
+  "n_card": 3
+ },
+ "1907": {
+  "kind": "polovina dvojdomu 1906/1907",
+  "side_cs": "JV",
+  "orient": "12",
+  "placement": "hypotéza",
+  "n_photo": 3,
+  "n_plan": 1,
+  "n_card": 3
+ },
+ "1914": {
+  "kind": "polovina dvojdomu 1914/1915",
+  "side_cs": "JV",
+  "orient": "13",
+  "placement": "hypotéza",
+  "n_photo": 4,
+  "n_plan": 1,
+  "n_card": 4
+ },
+ "1915": {
+  "kind": "polovina dvojdomu 1914/1915",
+  "side_cs": "JV",
+  "orient": "14",
+  "placement": "hypotéza",
+  "n_photo": 4,
+  "n_plan": 1,
+  "n_card": 4
+ },
+ "1903": {
+  "kind": "polovina dvojdomu 1903/1904",
+  "side_cs": "JV",
+  "orient": "15",
+  "placement": "hypotéza",
+  "n_photo": 4,
+  "n_plan": 1,
+  "n_card": 4
+ },
+ "1904": {
+  "kind": "polovina dvojdomu 1903/1904",
+  "side_cs": "JV",
+  "orient": "16",
+  "placement": "hypotéza",
+  "n_photo": 5,
+  "n_plan": 1,
+  "n_card": 5
+ },
+ "1899": {
+  "kind": "polovina dvojdomu 1899/1901",
+  "side_cs": "JV",
+  "orient": "17",
+  "placement": "hypotéza",
+  "n_photo": 2,
+  "n_plan": 1,
+  "n_card": 2
+ },
+ "1901": {
+  "kind": "polovina dvojdomu 1899/1901",
+  "side_cs": "JV",
+  "orient": "18",
+  "placement": "hypotéza",
+  "n_photo": 2,
+  "n_plan": 1,
+  "n_card": 2
+ },
+ "1867": {
+  "kind": "vila (2 podlaží + mansardové podkroví)",
+  "side_cs": "JV",
+  "orient": "19",
+  "placement": "hypotéza",
+  "n_photo": 6,
+  "n_plan": 1,
+  "n_card": 6
+ },
+ "1872": {
+  "kind": "vila (poslední zbořená)",
+  "side_cs": "JV",
+  "orient": "20",
+  "placement": "hypotéza",
+  "n_photo": 8,
+  "n_plan": 1,
+  "n_card": 8
+ }
+}

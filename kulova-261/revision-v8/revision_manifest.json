@@ -1,0 +1,18 @@
+{
+  "version": "v8",
+  "parent": "kulova_cp261_v7_2026-09-26",
+  "scope": "Colour correction and full-resolution web display",
+  "historical_status": "model_hypothesis",
+  "locked": false,
+  "geometry_unchanged": true,
+  "new_image_generation": false,
+  "prior_inpainting": "v7 protected downpipe removal retained",
+  "texture": "textures/registered_facade.png",
+  "model": "models/cp261_v8.glb",
+  "visual_qa": "qa/visual_qa.json",
+  "material_evidence": "evidence/color_adjustment.json",
+  "web_default_texture": [
+    2048,
+    2048
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source_version": "v8",
+  "source_polygons": "35..135 inclusive",
+  "original_visible_geometry_and_uv_restored": true,
+  "retained": "All v9 objects including closed dormer shell and repaired stairs",
+  "checks": {
+    "boundary_edges": 0,
+    "non_manifold_edges": 0,
+    "removed_internal_caps": 19
+  },
+  "visual_passed": false
+}

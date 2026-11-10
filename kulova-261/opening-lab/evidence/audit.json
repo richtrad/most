@@ -1,0 +1,26 @@
+{
+  "geometry": {
+    "changed_objects": [
+      "CP_261_Masonry_With_Openings",
+      "CP_261_Frames_Sills_And_Cornices",
+      "CP_261_Glazing_And_Doors",
+      "CP_261_Timber_Frames",
+      "CP_261_Individual_Photographic_Panes"
+    ],
+    "unchanged_objects": 10,
+    "changed_images": [],
+    "degenerate_uv_triangles": 0,
+    "glb_sha256": "af0b8f518a5fbb12e790c41f79fda6c014d99135d045dd48f8aba53194958c64",
+    "embedded_images": 8
+  },
+  "inpaint": {
+    "changed_objects": [],
+    "unchanged_objects": 15,
+    "changed_images": [
+      "registered_facade.png"
+    ],
+    "degenerate_uv_triangles": 0,
+    "glb_sha256": "381c56afe18f031ce4ed10886b856c4d681814ac9224d7775bfad1a7557358f2",
+    "embedded_images": 8
+  }
+}

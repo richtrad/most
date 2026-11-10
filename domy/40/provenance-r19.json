@@ -1,0 +1,32 @@
+{
+  "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r19",
+  "version": "r19",
+  "date": "2026-09-10",
+  "status": "provisional",
+  "files": {
+    "most/domy/index.html": "1926c3a26872de9f194985500e731a4a87468d3563a82e4ebbd8a765d020d8ea",
+    "most/domy/40/A-r19.webp": "d8ba17d6cada880991d8a1696e8dc88a8ce972e0442f339994b36eecd7b18462",
+    "most/domy/40/B-r19.webp": "562f668a8862097aac80e098dda7556c6a00f7c668a5a068ede277a1223d31bd",
+    "most/domy/40/clay_corner-r19.webp": "c9dd561340f190e4e6fcede880fce3c7ef7d6593c534560fce735370d42a5741",
+    "most/domy/40/corner-r19.webp": "68d0d3fe3da6a6d541cf78b2e8d1bba71ac9e1db63ece704677d32c0bb7f10ee",
+    "most/domy/40/cp_40-r16.glb": "e2bc3bbf5aaf9827105a28c19230efce45f8791cd9ad63fff390eb1cdf3e4b27",
+    "most/domy/40/cp_40-r19.blend": "029d79bc69333b318f68fe9b55a62e5885364dc8d036ba0452be86f158bd9e00",
+    "most/domy/40/cp_40-r19.glb": "9de46a5e2363f7abbe0e8b89767c770a025db98e0bd80207d2ea474a127cda12",
+    "most/domy/40/detail_left-r19.webp": "7301f855f9e46d45cba8ebbdf7192e5ac4df0a9dc0169c2a1679a059eeae60fb",
+    "most/domy/40/detail_portal-r19.webp": "59c0b1a2ace5276b1e367acc5566ff014d4f9ae46775ba270e79e4d7952eaf8a",
+    "most/domy/40/detail_roof-r19.webp": "3f1a633dcc5dee65f623ff0ebb1ec2924eb9692d8e6b5de59a4389e80901c416",
+    "most/domy/40/detail_window-r19.webp": "aef0ed2a20a6b54e19c3a25ab7e0f188048803f60cd3726523be79e987ea703a",
+    "most/domy/40/export-qa-r19.json": "b7f4abc25340cc153d43685f5a960f5e8867db7e9993b2e08e3e0c0882ec7cac",
+    "most/domy/40/front_A-r19.webp": "c4a8aa35ac08d3537d3a83d2911257053d086eb74763e25ab40d06ddc8668796",
+    "most/domy/40/front_B-r19.webp": "722e0e156d858a097279c446a9517bdd187c14da95f93ac6afd5991aca5fb81a",
+    "most/domy/40/index.html": "387a37a0d175156abe94f618f4be871089aff6c8f57b40ed42dcc6de0f40c079",
+    "most/domy/40/rear-r19.webp": "4e7ad47afc186ef629c32f8754039df3eb57dc36c08ada765b1b556a003a7323",
+    "most/domy/40/REPORT-r16.md": "6b6446460c369a475e50430c8d8cff4dc2bf9759721130f0b31b17868093b818",
+    "most/domy/40/REPORT-r19.md": "029ce15223c3af5b8a2f156492bec1c047732bd4296be18d2bddb642510054fd",
+    "most/domy/40/roof-provenance-r19.json": "43bb21840e22f17162e75b723b43c60cd79eb726d96c3784274fcf53ff41e51c",
+    "most/domy/40/viewer-r19.js": "353a9387e78047f380a6d22cadff5b7c508117f25fe282a155b4e0f837af668b",
+    "most/domy/40/viewer.html": "b6c86268141af17e4a651364ec226215a7fcc77fc6cdd250be91351dbdcbea15",
+    "most/domy/en/index.html": "e22e4ce035d859deed5511f2adfe619afcb9f3229fb514b8ffe66e4d85d35a8f",
+    "most/domy/40/en/index.html": "6f2db48fddde8c3f8643b3767c861b48cd04e96c6711eb5e148f2976308785db"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "file": "textures/front_regenerated_hd_v2.png",
+      "bytes": 11372686,
+      "sha256": "0353f8b355ef6554c564ce13719eff540a7abd852cf933726c94926d6696659f"
+    },
+    {
+      "file": "models/cp259_SOL61_HD_v2.blend",
+      "bytes": 16771759,
+      "sha256": "2ee20659f8f9aec7a3c6d8f6a0abe6dd972279b79d6d56530945d1d3d6325fed"
+    },
+    {
+      "file": "models/cp259_SOL61_HD_v2.glb",
+      "bytes": 16238000,
+      "sha256": "d70f128fd7627384c67bc151080eb316e30863899422a0dd3af459ff54c2153e"
+    },
+    {
+      "file": "web/index.html",
+      "bytes": 8826,
+      "sha256": "2903b564698c7b15b3320b984fc578671428886f20092bd29ba4961da05472d1"
+    },
+    {
+      "file": "web/app.js",
+      "bytes": 5946,
+      "sha256": "85b8b71ffc879f3ee33cd1477a49faba1d72d63c8744f3b3f3ef584b28dca322"
+    },
+    {
+      "file": "qa/hd_v2/visual_qa.json",
+      "bytes": 62274,
+      "sha256": "64a323f25918bfdca056f4222307702082544d74335e2de8d73466a2adad1aab"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "a",
+    "selected": [
+      {
+        "object": "CP_261_Frames_Sills_And_Cornices",
+        "selected_edges": 160,
+        "offset_m": 0.003,
+        "segments": 2,
+        "new_faces": 560,
+        "nonmanifold_edges": 172,
+        "degenerate_uv": 0
+      },
+      {
+        "object": "CP_261_Entrance_Three_Steps_PROVISIONAL",
+        "selected_edges": 10,
+        "offset_m": 0.003,
+        "segments": 2,
+        "new_faces": 20,
+        "nonmanifold_edges": 0,
+        "degenerate_uv": 0
+      },
+      {
+        "object": "CP_261_Restored_Original_Arch_Moulding",
+        "selected_edges": 42,
+        "offset_m": 0.005,
+        "segments": 2,
+        "new_faces": 84,
+        "nonmanifold_edges": 0,
+        "degenerate_uv": 0
+      }
+    ],
+    "unchanged_objects": 12,
+    "sha256": "6db831febdc8ca00c7dd120720d34afe957901aa6c99dfa052bf7a67d11db7a2",
+    "bytes": 17890112,
+    "embedded_images": 8,
+    "visual_passed": false
+  },
+  {
+    "id": "b",
+    "selected": [
+      {
+        "object": "CP_261_Frames_Sills_And_Cornices",
+        "selected_edges": 160,
+        "offset_m": 0.005,
+        "segments": 3,
+        "new_faces": 1040,
+        "nonmanifold_edges": 172,
+        "degenerate_uv": 0
+      },
+      {
+        "object": "CP_261_Entrance_Three_Steps_PROVISIONAL",
+        "selected_edges": 10,
+        "offset_m": 0.005,
+        "segments": 3,
+        "new_faces": 30,
+        "nonmanifold_edges": 0,
+        "degenerate_uv": 0
+      },
+      {
+        "object": "CP_261_Restored_Original_Arch_Moulding",
+        "selected_edges": 42,
+        "offset_m": 0.008,
+        "segments": 3,
+        "new_faces": 126,
+        "nonmanifold_edges": 0,
+        "degenerate_uv": 0
+      }
+    ],
+    "unchanged_objects": 12,
+    "sha256": "6db9522be591c67230bf5c6a43fb6587c2f1b569e6f14096971bbba9b22d99e3",
+    "bytes": 17964748,
+    "embedded_images": 8,
+    "visual_passed": false
+  },
+  {
+    "id": "c",
+    "selected": [
+      {
+        "object": "CP_261_Frames_Sills_And_Cornices",
+        "selected_edges": 160,
+        "offset_m": 0.008,
+        "segments": 3,
+        "new_faces": 1040,
+        "nonmanifold_edges": 172,
+        "degenerate_uv": 0
+      },
+      {
+        "object": "CP_261_Entrance_Three_Steps_PROVISIONAL",
+        "selected_edges": 10,
+        "offset_m": 0.008,
+        "segments": 3,
+        "new_faces": 30,
+        "nonmanifold_edges": 0,
+        "degenerate_uv": 0
+      },
+      {
+        "object": "CP_261_Restored_Original_Arch_Moulding",
+        "selected_edges": 42,
+        "offset_m": 0.012,
+        "segments": 3,
+        "new_faces": 126,
+        "nonmanifold_edges": 0,
+        "degenerate_uv": 0
+      }
+    ],
+    "unchanged_objects": 12,
+    "sha256": "d7ed8e8f4e527885455001a466760722ca18fa577744e057d2b17a816e7914db",
+    "bytes": 17964748,
+    "embedded_images": 8,
+    "visual_passed": false
+  }
+]

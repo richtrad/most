@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "evidence_id": "ADLER-USER-20261021",
+  "received_at": "2026-10-21",
+  "source_kind": "user_supplied_colour_postcard_reproduction",
+  "source_date": null,
+  "publisher": null,
+  "building_candidate": "MOST_BALBINOVA_83",
+  "exact_archive_match_verified": false,
+  "possible_archive_reference": "P-000591",
+  "source_sha256": "d4da8dbd273eef3619a085583d686e8119793bbdfb4fd05cdd67bb9a473cc026",
+  "display": {
+    "path": "assets/hotel-adler.jpg",
+    "sha256": "1a833b976b165988a24b681c6e4e7781529d3278c54ed6317918677cf02abf0e",
+    "transformation": "Resized JPEG, 1200x777, no generative or colour edits"
+  },
+  "observations": [
+    "Pale warm cream-yellow hotel facade",
+    "Red-orange roof areas; building boundaries require checking",
+    "Neighbouring facade more ochre; do not transfer colour automatically"
+  ],
+  "assignments": {
+    "facade": "FACADE_CREAM_01",
+    "roof": "ROOF_CLAY_RED_01",
+    "wood": "WOOD_DARK_BROWN_01",
+    "confidence": "model_hypothesis",
+    "status": "provisional",
+    "locked": false
+  },
+  "wood_supported_by_this_source": false,
+  "exact_historical_srgb_verified": false,
+  "new_colourisation_created": false,
+  "canonical_database_modified": false
+}

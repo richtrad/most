@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-09",
+  "assets": [
+    {
+      "asset": "42-render.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/cp_42/two_facades_r4/corner.png",
+      "sha256": "32f2d41715bfbb72b91625fc4cb43457131b05d0e2b9ba63337a55cda438aee1"
+    },
+    {
+      "asset": "42-front.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/cp_42/cp_42_001_col_cr_front_A_r2.png",
+      "sha256": "dccc963af39021d4acf44ceb864ec963756a16cbe3ae7398e9f056158be64ab7"
+    },
+    {
+      "asset": "42-mask.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/cp_42/A_lettering_mask.png",
+      "sha256": "987f37f3b9cc0058bbd71c18dc2cfd4d3aa527547bda7182ddb0f10a94ed8654"
+    },
+    {
+      "asset": "191-render.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/cp_191/two_facades_r4/corner.png",
+      "sha256": "c2b96282d8f29df3947f5977ddb05eb7a2c117b50ee8c4f0840f18d1c7644598"
+    },
+    {
+      "asset": "191-front.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/cp_191/cp_191_002_col_cr_front_B.png",
+      "sha256": "ee6887cc760ef4ad2d39ccc95ad8c6df573b91a81197b01756d7041ac3868b04"
+    },
+    {
+      "asset": "191-mask.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/cp_191/front_B_sign_mask.png",
+      "sha256": "9bf18ce4e1672232efdba1ec33b88ccc2e8705af14e50ff664014d6b7a9556e4"
+    },
+    {
+      "asset": "191-source.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/cp_191/rectified_original_B.png",
+      "sha256": "0c3256400b70b4135b32ab02896455bfc88ae9874e66ea77872b2bafa94a447c"
+    },
+    {
+      "asset": "comparison.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/repair_comparison.jpg",
+      "sha256": "138c9cc1af1cac4363639671fd94d478c0ebeaf6193ff5fdf38e0e1b69bf17e4"
+    },
+    {
+      "asset": "259.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/export_qa/cp_259_clay_corner.png",
+      "sha256": "c54f807332ccace3cab150f15d85c8a51a224f991d968aaea7bd747ebf655c01"
+    },
+    {
+      "asset": "260.webp",
+      "source": "output/libuse_corner_repairs_v3_2026-09-08/export_qa/cp_260_clay_corner.png",
+      "sha256": "bb8078bb1a227198e54b4296d60abfa16b500ed800983cef5640592205a396ed"
+    },
+    {
+      "asset": "sheet1.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/fronts_1.jpg",
+      "sha256": "ce0a0da23b50f7a4ec3f628a6eae192015f105c3acb958bb73c093dfed112a5b"
+    },
+    {
+      "asset": "sheet2.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/fronts_2.jpg",
+      "sha256": "c139e7dbe3185af2a616379560f60e251eaee60ff09b7aba07de6d097157abc3"
+    },
+    {
+      "asset": "sheet3.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/fronts_3.jpg",
+      "sha256": "0283b10bb5329ce67bae065ec78606dae1979f3f6ac8e2c2367a3120e68c3fda"
+    },
+    {
+      "asset": "cp_134.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_134.jpg",
+      "sha256": "bc19b60187c05d7f3e9059b0f276b4bafc115664a4ea9961f16ff1702594e78b"
+    },
+    {
+      "asset": "cp_3.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_3.jpg",
+      "sha256": "7eb600acd1058316711d54abb136b1ef4a1b669c98804b78e984d9695779f5b6"
+    },
+    {
+      "asset": "cp_4.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_4.jpg",
+      "sha256": "d29e61d251d47344eca81058d6c54ba39f957b36e5a50ca6c5b0fe60114c7dae"
+    },
+    {
+      "asset": "cp_42.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_42.jpg",
+      "sha256": "89901e0aad305081bd5ec5e391e7038db1e1144f2953314cdc85759e4db7f50a"
+    },
+    {
+      "asset": "cp_44.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_44.jpg",
+      "sha256": "3b42e7da97baff5d8461f3b06f2970de98568d224b4895e020dad70155242138"
+    },
+    {
+      "asset": "cp_45.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_45.jpg",
+      "sha256": "bf8a9b890d3624b88f2cbf5ecf7189a320a6b54470f08812ce8ee73f9db99585"
+    },
+    {
+      "asset": "cp_46.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_46.jpg",
+      "sha256": "22ac340f84ddb7fd29d2b5f3d6a601d5ee3f7553d8d5883c59f551ce528f6a9c"
+    },
+    {
+      "asset": "cp_47.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_47.jpg",
+      "sha256": "a208ed1820b800e366d2edf80409b7ef1b8e5539fe9695e7c88e5c1e8513d631"
+    },
+    {
+      "asset": "cp_48.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_48.jpg",
+      "sha256": "6dca50bcba79234756d1e539c8c0a17d96aa7535801e22f9875e58d40968286b"
+    },
+    {
+      "asset": "cp_49.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_49.jpg",
+      "sha256": "c24afdb8da1e82d94ada342c35e01ecb224c8dba8850707730065d5838ddf3a2"
+    },
+    {
+      "asset": "cp_5.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_5.jpg",
+      "sha256": "bd70bdc72ca7f061482aea0f11541cf5d7c28483f88f3ced55bd63e80e71c5d5"
+    },
+    {
+      "asset": "cp_50.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_50.jpg",
+      "sha256": "ce7bdcf62be6cfe17dff12298559abcd0b6f62805d1a9e396482cd39beb83d19"
+    },
+    {
+      "asset": "cp_51.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_51.jpg",
+      "sha256": "c84a977e2319322a475c704ae1d1a84c0ff5b01eddeb8ae68c45b87ad1807cb5"
+    },
+    {
+      "asset": "cp_54.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_54.jpg",
+      "sha256": "fe0b5d93af19a83cd050cfe0383ed63a2547de8d997052c562726ff8386ff543"
+    },
+    {
+      "asset": "cp_55.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_55.jpg",
+      "sha256": "8430cbfd336028c0e3b1fb25afd41680633c60f26bca24f798ae11bb9e865461"
+    },
+    {
+      "asset": "cp_56.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_56.jpg",
+      "sha256": "c30be6a08b3255a828576ebfb5d8f228fa85fa056ec9ef9be795cb6af00a9370"
+    },
+    {
+      "asset": "cp_57.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_57.jpg",
+      "sha256": "c53cc2faa613f22ddcaaa53db6216b7cc89eda59a46c40d4223a2f9037678e20"
+    },
+    {
+      "asset": "cp_58.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_58.jpg",
+      "sha256": "b50c79f8a05e0825115e9aac0aaef1e350e5cd14f0e28158927586a44b74746c"
+    },
+    {
+      "asset": "cp_59.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_59.jpg",
+      "sha256": "11d4a699127606ad3f85ead929341ed62b1b0d12d25534bea4cccde86e8113a5"
+    },
+    {
+      "asset": "cp_6.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_6.jpg",
+      "sha256": "4d2462c55db8c4f357a1be7f2ca2f43d0183178f3d1415bc9f824058a55f4777"
+    },
+    {
+      "asset": "cp_60.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_60.jpg",
+      "sha256": "0c52f9f6645024f4dfbf9ef083da5638b604c2f8a6505c75fc2dd45d254a1fdc"
+    },
+    {
+      "asset": "cp_7.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_7.jpg",
+      "sha256": "9a89480e6af40ed47360532d8b222fefa55b1c628037a38af21419cee3b84a75"
+    },
+    {
+      "asset": "cp_79.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_79.jpg",
+      "sha256": "2b0397078526d609817486b47d49887c028677975005387f3a5b2bbbdffe81f2"
+    },
+    {
+      "asset": "cp_8.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_8.jpg",
+      "sha256": "2f3cb177138e44e53e840682b864418f97d280ef847887d6683d6aac3800a08d"
+    },
+    {
+      "asset": "cp_80.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_80.jpg",
+      "sha256": "267b6de3a47f1e6298658b57c97a058ea074bc10ca8b7d36d834be2d39d1d7b2"
+    },
+    {
+      "asset": "cp_82.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_82.jpg",
+      "sha256": "ac8bc858ecb29c8a1d113f5d43b29e3231bad1b0ffdbca240790d9eabaf15bee"
+    },
+    {
+      "asset": "cp_83.webp",
+      "source": "output/mirove_namesti_preparation_v1_2026-09-09/previews/cp_83.jpg",
+      "sha256": "b251ce24d61f396f663b95b34c0eeee1793f7b48d58d4ceeacdf4429ea1ee39f"
+    }
+  ],
+  "sources": [
+    "docs/MOST_CORNER_FRONT_WORKFLOW_V2.md",
+    "docs/MODEL_BASEPLATE_REPAIR.md",
+    "output/libuse_corner_repairs_v3_2026-09-08/README.md",
+    "output/mirove_namesti_preparation_v1_2026-09-09/README.md"
+  ],
+  "status": "Working method examples; historical colours, unobserved geometry and GIS placement are provisional."
+}

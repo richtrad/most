@@ -1,0 +1,30 @@
+[
+  {
+    "camera_id": "detail_steps",
+    "title": "Dveře končí nad skutečnými schody",
+    "note": "V6 měla schody v obrazu dveří a sokl přes průchod. V7 má tři samostatné stupně a přerušenou římsu.",
+    "before": "comparison_detail_steps_before.jpg",
+    "after": "comparison_detail_steps_after.jpg"
+  },
+  {
+    "camera_id": "detail_steps_right",
+    "title": "Vstup z druhé strany",
+    "note": "Geometrie nášlapů a bočních čel, nikoli svisle protažená fotografie.",
+    "before": "comparison_detail_steps_right_before.jpg",
+    "after": "comparison_detail_steps_right_after.jpg"
+  },
+  {
+    "camera_id": "detail_pipe",
+    "title": "Jeden svod, ne dva",
+    "note": "3D kov zůstal. Jeho fotografovaný obraz, držáky a tmavé stopy byly odstraněny inpaintingem.",
+    "before": "comparison_detail_pipe_before.jpg",
+    "after": "comparison_detail_pipe_after.jpg"
+  },
+  {
+    "camera_id": "detail_pipe_top",
+    "title": "Napojení pod okapem",
+    "note": "Opravená textura i její bílý vnější okraj; 3D okap je zachovaný.",
+    "before": "comparison_detail_pipe_top_before.jpg",
+    "after": "comparison_detail_pipe_top_after.jpg"
+  }
+]

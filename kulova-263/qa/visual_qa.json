@@ -1,0 +1,1907 @@
+{
+  "cp": 263,
+  "reviewed_at": "2026-09-27T02:15:53.399744+00:00",
+  "reviewed_by": "Codex visual inspection of browser renders/contact sheets",
+  "glb_sha256": "da7c1da663bb12597ca0c1ef83f18fb60a30acd8b4414bbe97ced180af9bd0ec",
+  "passed": false,
+  "status": "reviewable_provisional_model_not_approved_for_street",
+  "mapping_review_completed": true,
+  "historical_validation_passed": false,
+  "promotion_to_street_allowed": false,
+  "reason": "Generated facade changes fine damage and framing details relative to blurry source; final synthetic materials are not protected photographic continuation. Do not silently mark strict workflow gates passed.",
+  "checks": {
+    "openings": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate.",
+    "threshold": "Shallow provisional threshold; no imported three-step assumption. Above and below views reviewed, no visible coplanar base flicker in sampled views.",
+    "pipes": "3D pipes hidden in browser: no duplicate photographic pipe at checked corner. Locations remain provisional.",
+    "dormers": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified.",
+    "materials": "Final synthetic swatches replace visually failed protected composite. Four repeat sheets reviewed; periodic patterns remain visible at extreme close-up. No claims of original pixel preservation on generated facade.",
+    "axes": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified.",
+    "colour_resolution": "Facade 1582x994; four repeating material tiles 512x512. Detail generated from low-information source, not measured archival resolution. Warm mineral colour provisional.",
+    "bevel": "Selected sills/threshold 8 mm and A profile 12 mm, three segments. Broad wall corners remain simple. No global smoothing of registered facade.",
+    "lettering": "No legible facade sign identified for this house; lettering from rejected FRONT not transferred.",
+    "identity": "Source dialog clicked in actual browser and screenshot reviewed; plan and overview identify low three-axis cp263 next to ornate262."
+  },
+  "views": [
+    {
+      "view": "axis_front",
+      "surface": "texture",
+      "file": "texture_axis_front.png",
+      "camera": {
+        "position": [
+          5.14,
+          6.000000000000002,
+          27
+        ],
+        "target": [
+          5.14,
+          6,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "axis_right",
+      "surface": "texture",
+      "file": "texture_axis_right.png",
+      "camera": {
+        "position": [
+          38,
+          6.000000000000002,
+          -9.399999999999999
+        ],
+        "target": [
+          5.14,
+          6,
+          -9.4
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "axis_back",
+      "surface": "texture",
+      "file": "texture_axis_back.png",
+      "camera": {
+        "position": [
+          5.140000000000003,
+          6.000000000000002,
+          -46
+        ],
+        "target": [
+          5.14,
+          6,
+          -18.8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "axis_left",
+      "surface": "texture",
+      "file": "texture_axis_left.png",
+      "camera": {
+        "position": [
+          -28,
+          6.000000000000002,
+          -9.399999999999999
+        ],
+        "target": [
+          5.14,
+          6,
+          -9.4
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "roof_front_left",
+      "surface": "texture",
+      "file": "texture_roof_front_left.png",
+      "camera": {
+        "position": [
+          -16.999999999999996,
+          24,
+          21
+        ],
+        "target": [
+          5.14,
+          6,
+          -7
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "roof_front_right",
+      "surface": "texture",
+      "file": "texture_roof_front_right.png",
+      "camera": {
+        "position": [
+          26.999999999999996,
+          24.000000000000004,
+          20.999999999999996
+        ],
+        "target": [
+          5.14,
+          6,
+          -7
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "roof_back_left",
+      "surface": "texture",
+      "file": "texture_roof_back_left.png",
+      "camera": {
+        "position": [
+          -16.999999999999993,
+          24,
+          -36
+        ],
+        "target": [
+          5.14,
+          6,
+          -8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "roof_back_right",
+      "surface": "texture",
+      "file": "texture_roof_back_right.png",
+      "camera": {
+        "position": [
+          26.999999999999993,
+          24.000000000000004,
+          -36.00000000000001
+        ],
+        "target": [
+          5.14,
+          6,
+          -8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "detail_facade",
+      "surface": "texture",
+      "file": "texture_detail_facade.png",
+      "camera": {
+        "position": [
+          5.14,
+          3.4999999999999982,
+          14.999999999999998
+        ],
+        "target": [
+          5.14,
+          3.25,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Final synthetic swatches replace visually failed protected composite. Four repeat sheets reviewed; periodic patterns remain visible at extreme close-up. No claims of original pixel preservation on generated facade."
+    },
+    {
+      "view": "detail_corner",
+      "surface": "texture",
+      "file": "texture_detail_corner.png",
+      "camera": {
+        "position": [
+          -3,
+          3.0000000000000004,
+          4
+        ],
+        "target": [
+          0.2,
+          3,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Final synthetic swatches replace visually failed protected composite. Four repeat sheets reviewed; periodic patterns remain visible at extreme close-up. No claims of original pixel preservation on generated facade."
+    },
+    {
+      "view": "detail_cornice",
+      "surface": "texture",
+      "file": "texture_detail_cornice.png",
+      "camera": {
+        "position": [
+          7,
+          7.9,
+          4
+        ],
+        "target": [
+          5,
+          6.35,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Final synthetic swatches replace visually failed protected composite. Four repeat sheets reviewed; periodic patterns remain visible at extreme close-up. No claims of original pixel preservation on generated facade."
+    },
+    {
+      "view": "detail_pipe",
+      "surface": "texture",
+      "file": "texture_detail_pipe.png",
+      "camera": {
+        "position": [
+          13,
+          4,
+          3.0000000000000004
+        ],
+        "target": [
+          10.15,
+          3,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "3D pipes hidden in browser: no duplicate photographic pipe at checked corner. Locations remain provisional."
+    },
+    {
+      "view": "detail_damage",
+      "surface": "texture",
+      "file": "texture_detail_damage.png",
+      "camera": {
+        "position": [
+          4.4,
+          1.0000000000000002,
+          2.8
+        ],
+        "target": [
+          4.4,
+          1,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Final synthetic swatches replace visually failed protected composite. Four repeat sheets reviewed; periodic patterns remain visible at extreme close-up. No claims of original pixel preservation on generated facade."
+    },
+    {
+      "view": "detail_threshold",
+      "surface": "texture",
+      "file": "texture_detail_threshold.png",
+      "camera": {
+        "position": [
+          0.20000000000000018,
+          0.6000000000000003,
+          2.5
+        ],
+        "target": [
+          2.1,
+          0.1,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Shallow provisional threshold; no imported three-step assumption. Above and below views reviewed, no visible coplanar base flicker in sampled views."
+    },
+    {
+      "view": "detail_threshold_below",
+      "surface": "texture",
+      "file": "texture_detail_threshold_below.png",
+      "camera": {
+        "position": [
+          2.1,
+          -1,
+          1.6000000000000003
+        ],
+        "target": [
+          2.1,
+          0,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Shallow provisional threshold; no imported three-step assumption. Above and below views reviewed, no visible coplanar base flicker in sampled views."
+    },
+    {
+      "view": "dormer_A_front",
+      "surface": "texture",
+      "file": "texture_dormer_A_front.png",
+      "camera": {
+        "position": [
+          3.9,
+          8,
+          4.499999999999999
+        ],
+        "target": [
+          3.9,
+          7.6,
+          -0.5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_A_back",
+      "surface": "texture",
+      "file": "texture_dormer_A_back.png",
+      "camera": {
+        "position": [
+          5,
+          10,
+          -5
+        ],
+        "target": [
+          3.9,
+          8.1,
+          -1.8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_A_side",
+      "surface": "texture",
+      "file": "texture_dormer_A_side.png",
+      "camera": {
+        "position": [
+          7.5,
+          8.7,
+          -0.20000000000000018
+        ],
+        "target": [
+          3.9,
+          7.8,
+          -1.5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_A_top",
+      "surface": "texture",
+      "file": "texture_dormer_A_top.png",
+      "camera": {
+        "position": [
+          3.9,
+          13.999999999996898,
+          -1.4999938
+        ],
+        "target": [
+          3.9,
+          7.8,
+          -1.5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_B_front",
+      "surface": "texture",
+      "file": "texture_dormer_B_front.png",
+      "camera": {
+        "position": [
+          6.06,
+          10.5,
+          -0.9999999999999996
+        ],
+        "target": [
+          6.06,
+          9.8,
+          -4.8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_B_back",
+      "surface": "texture",
+      "file": "texture_dormer_B_back.png",
+      "camera": {
+        "position": [
+          7.799999999999999,
+          12.7,
+          -8
+        ],
+        "target": [
+          6.06,
+          10,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_B_side",
+      "surface": "texture",
+      "file": "texture_dormer_B_side.png",
+      "camera": {
+        "position": [
+          9,
+          11,
+          -4
+        ],
+        "target": [
+          6.06,
+          10,
+          -5.2
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "opening_U1_front",
+      "surface": "texture",
+      "file": "texture_opening_U1_front.png",
+      "camera": {
+        "position": [
+          2.059898862199747,
+          5.0102112676056345,
+          3.7
+        ],
+        "target": [
+          2.059898862199747,
+          4.860211267605634,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U1_left",
+      "surface": "texture",
+      "file": "texture_opening_U1_left.png",
+      "camera": {
+        "position": [
+          -0.0861011378002523,
+          5.010211267605635,
+          3.7
+        ],
+        "target": [
+          2.059898862199747,
+          4.860211267605634,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U1_right",
+      "surface": "texture",
+      "file": "texture_opening_U1_right.png",
+      "camera": {
+        "position": [
+          4.2058988621997475,
+          5.010211267605635,
+          3.6999999999999997
+        ],
+        "target": [
+          2.059898862199747,
+          4.860211267605634,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U2_front",
+      "surface": "texture",
+      "file": "texture_opening_U2_front.png",
+      "camera": {
+        "position": [
+          5.305701643489254,
+          5.016700201207244,
+          3.7
+        ],
+        "target": [
+          5.305701643489254,
+          4.866700201207244,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U2_left",
+      "surface": "texture",
+      "file": "texture_opening_U2_left.png",
+      "camera": {
+        "position": [
+          3.1597016434892544,
+          5.016700201207245,
+          3.7
+        ],
+        "target": [
+          5.305701643489254,
+          4.866700201207244,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U2_right",
+      "surface": "texture",
+      "file": "texture_opening_U2_right.png",
+      "camera": {
+        "position": [
+          7.451701643489253,
+          5.016700201207245,
+          3.7
+        ],
+        "target": [
+          5.305701643489254,
+          4.866700201207244,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U3_front",
+      "surface": "texture",
+      "file": "texture_opening_U3_front.png",
+      "camera": {
+        "position": [
+          8.171365360303414,
+          5.023189134808854,
+          3.7
+        ],
+        "target": [
+          8.171365360303414,
+          4.873189134808854,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U3_left",
+      "surface": "texture",
+      "file": "texture_opening_U3_left.png",
+      "camera": {
+        "position": [
+          6.0253653603034145,
+          5.023189134808854,
+          3.7
+        ],
+        "target": [
+          8.171365360303414,
+          4.873189134808854,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U3_right",
+      "surface": "texture",
+      "file": "texture_opening_U3_right.png",
+      "camera": {
+        "position": [
+          10.317365360303413,
+          5.023189134808854,
+          3.6999999999999993
+        ],
+        "target": [
+          8.171365360303414,
+          4.873189134808854,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_D1_front",
+      "surface": "texture",
+      "file": "texture_opening_D1_front.png",
+      "camera": {
+        "position": [
+          2.1216308470290772,
+          1.37965291750503,
+          4.6
+        ],
+        "target": [
+          2.1216308470290772,
+          1.2296529175050301,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_D1_left",
+      "surface": "texture",
+      "file": "texture_opening_D1_left.png",
+      "camera": {
+        "position": [
+          -0.5463691529709229,
+          1.37965291750503,
+          4.6000000000000005
+        ],
+        "target": [
+          2.1216308470290772,
+          1.2296529175050301,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_D1_right",
+      "surface": "texture",
+      "file": "texture_opening_D1_right.png",
+      "camera": {
+        "position": [
+          4.789630847029077,
+          1.37965291750503,
+          4.6000000000000005
+        ],
+        "target": [
+          2.1216308470290772,
+          1.2296529175050301,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G1_front",
+      "surface": "texture",
+      "file": "texture_opening_G1_front.png",
+      "camera": {
+        "position": [
+          5.315448798988621,
+          1.7884557344064385,
+          3.7
+        ],
+        "target": [
+          5.315448798988621,
+          1.6384557344064388,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G1_left",
+      "surface": "texture",
+      "file": "texture_opening_G1_left.png",
+      "camera": {
+        "position": [
+          3.1694487989886215,
+          1.7884557344064387,
+          3.7
+        ],
+        "target": [
+          5.315448798988621,
+          1.6384557344064388,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G1_right",
+      "surface": "texture",
+      "file": "texture_opening_G1_right.png",
+      "camera": {
+        "position": [
+          7.46144879898862,
+          1.7884557344064387,
+          3.7
+        ],
+        "target": [
+          5.315448798988621,
+          1.6384557344064388,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G2_front",
+      "surface": "texture",
+      "file": "texture_opening_G2_front.png",
+      "camera": {
+        "position": [
+          8.125878634639696,
+          1.7949446680080479,
+          3.7
+        ],
+        "target": [
+          8.125878634639696,
+          1.6449446680080482,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G2_left",
+      "surface": "texture",
+      "file": "texture_opening_G2_left.png",
+      "camera": {
+        "position": [
+          5.979878634639697,
+          1.794944668008048,
+          3.7
+        ],
+        "target": [
+          8.125878634639696,
+          1.6449446680080482,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G2_right",
+      "surface": "texture",
+      "file": "texture_opening_G2_right.png",
+      "camera": {
+        "position": [
+          10.271878634639695,
+          1.794944668008048,
+          3.6999999999999993
+        ],
+        "target": [
+          8.125878634639696,
+          1.6449446680080482,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_N1_front",
+      "surface": "texture",
+      "file": "texture_opening_N1_front.png",
+      "camera": {
+        "position": [
+          6.725537294563844,
+          4.066071428571429,
+          2
+        ],
+        "target": [
+          6.725537294563844,
+          3.9160714285714286,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_N1_left",
+      "surface": "texture",
+      "file": "texture_opening_N1_left.png",
+      "camera": {
+        "position": [
+          5.5655372945638435,
+          4.066071428571429,
+          2
+        ],
+        "target": [
+          6.725537294563844,
+          3.9160714285714286,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_N1_right",
+      "surface": "texture",
+      "file": "texture_opening_N1_right.png",
+      "camera": {
+        "position": [
+          7.885537294563844,
+          4.066071428571429,
+          2
+        ],
+        "target": [
+          6.725537294563844,
+          3.9160714285714286,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "axis_front",
+      "surface": "clay",
+      "file": "clay_axis_front.png",
+      "camera": {
+        "position": [
+          5.14,
+          6.000000000000002,
+          27
+        ],
+        "target": [
+          5.14,
+          6,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "axis_right",
+      "surface": "clay",
+      "file": "clay_axis_right.png",
+      "camera": {
+        "position": [
+          38,
+          6.000000000000002,
+          -9.399999999999999
+        ],
+        "target": [
+          5.14,
+          6,
+          -9.4
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "axis_back",
+      "surface": "clay",
+      "file": "clay_axis_back.png",
+      "camera": {
+        "position": [
+          5.140000000000003,
+          6.000000000000002,
+          -46
+        ],
+        "target": [
+          5.14,
+          6,
+          -18.8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "axis_left",
+      "surface": "clay",
+      "file": "clay_axis_left.png",
+      "camera": {
+        "position": [
+          -28,
+          6.000000000000002,
+          -9.399999999999999
+        ],
+        "target": [
+          5.14,
+          6,
+          -9.4
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Four texture axes, four clay axes and four roof corners reviewed. Rear/side blank envelopes intentionally undocumented, not historically verified."
+    },
+    {
+      "view": "detail_threshold",
+      "surface": "clay",
+      "file": "clay_detail_threshold.png",
+      "camera": {
+        "position": [
+          0.20000000000000018,
+          0.6000000000000003,
+          2.5
+        ],
+        "target": [
+          2.1,
+          0.1,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Shallow provisional threshold; no imported three-step assumption. Above and below views reviewed, no visible coplanar base flicker in sampled views."
+    },
+    {
+      "view": "detail_threshold_below",
+      "surface": "clay",
+      "file": "clay_detail_threshold_below.png",
+      "camera": {
+        "position": [
+          2.1,
+          -1,
+          1.6000000000000003
+        ],
+        "target": [
+          2.1,
+          0,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Shallow provisional threshold; no imported three-step assumption. Above and below views reviewed, no visible coplanar base flicker in sampled views."
+    },
+    {
+      "view": "dormer_A_front",
+      "surface": "clay",
+      "file": "clay_dormer_A_front.png",
+      "camera": {
+        "position": [
+          3.9,
+          8,
+          4.499999999999999
+        ],
+        "target": [
+          3.9,
+          7.6,
+          -0.5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_A_back",
+      "surface": "clay",
+      "file": "clay_dormer_A_back.png",
+      "camera": {
+        "position": [
+          5,
+          10,
+          -5
+        ],
+        "target": [
+          3.9,
+          8.1,
+          -1.8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_A_side",
+      "surface": "clay",
+      "file": "clay_dormer_A_side.png",
+      "camera": {
+        "position": [
+          7.5,
+          8.7,
+          -0.20000000000000018
+        ],
+        "target": [
+          3.9,
+          7.8,
+          -1.5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_A_top",
+      "surface": "clay",
+      "file": "clay_dormer_A_top.png",
+      "camera": {
+        "position": [
+          3.9,
+          13.999999999996898,
+          -1.4999938
+        ],
+        "target": [
+          3.9,
+          7.8,
+          -1.5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_B_front",
+      "surface": "clay",
+      "file": "clay_dormer_B_front.png",
+      "camera": {
+        "position": [
+          6.06,
+          10.5,
+          -0.9999999999999996
+        ],
+        "target": [
+          6.06,
+          9.8,
+          -4.8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_B_back",
+      "surface": "clay",
+      "file": "clay_dormer_B_back.png",
+      "camera": {
+        "position": [
+          7.799999999999999,
+          12.7,
+          -8
+        ],
+        "target": [
+          6.06,
+          10,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "dormer_B_side",
+      "surface": "clay",
+      "file": "clay_dormer_B_side.png",
+      "camera": {
+        "position": [
+          9,
+          11,
+          -4
+        ],
+        "target": [
+          6.06,
+          10,
+          -5.2
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Front, side, rear and top of A and front/side/rear of B reviewed. Rear surfaces meet roof; no open back visible. A arch retained; B unsupported mineral profile removed. Roof tile bending on curved flank remains simplified."
+    },
+    {
+      "view": "opening_U1_front",
+      "surface": "clay",
+      "file": "clay_opening_U1_front.png",
+      "camera": {
+        "position": [
+          2.059898862199747,
+          5.0102112676056345,
+          3.7
+        ],
+        "target": [
+          2.059898862199747,
+          4.860211267605634,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U1_left",
+      "surface": "clay",
+      "file": "clay_opening_U1_left.png",
+      "camera": {
+        "position": [
+          -0.0861011378002523,
+          5.010211267605635,
+          3.7
+        ],
+        "target": [
+          2.059898862199747,
+          4.860211267605634,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U1_right",
+      "surface": "clay",
+      "file": "clay_opening_U1_right.png",
+      "camera": {
+        "position": [
+          4.2058988621997475,
+          5.010211267605635,
+          3.6999999999999997
+        ],
+        "target": [
+          2.059898862199747,
+          4.860211267605634,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U2_front",
+      "surface": "clay",
+      "file": "clay_opening_U2_front.png",
+      "camera": {
+        "position": [
+          5.305701643489254,
+          5.016700201207244,
+          3.7
+        ],
+        "target": [
+          5.305701643489254,
+          4.866700201207244,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U2_left",
+      "surface": "clay",
+      "file": "clay_opening_U2_left.png",
+      "camera": {
+        "position": [
+          3.1597016434892544,
+          5.016700201207245,
+          3.7
+        ],
+        "target": [
+          5.305701643489254,
+          4.866700201207244,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U2_right",
+      "surface": "clay",
+      "file": "clay_opening_U2_right.png",
+      "camera": {
+        "position": [
+          7.451701643489253,
+          5.016700201207245,
+          3.7
+        ],
+        "target": [
+          5.305701643489254,
+          4.866700201207244,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U3_front",
+      "surface": "clay",
+      "file": "clay_opening_U3_front.png",
+      "camera": {
+        "position": [
+          8.171365360303414,
+          5.023189134808854,
+          3.7
+        ],
+        "target": [
+          8.171365360303414,
+          4.873189134808854,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U3_left",
+      "surface": "clay",
+      "file": "clay_opening_U3_left.png",
+      "camera": {
+        "position": [
+          6.0253653603034145,
+          5.023189134808854,
+          3.7
+        ],
+        "target": [
+          8.171365360303414,
+          4.873189134808854,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_U3_right",
+      "surface": "clay",
+      "file": "clay_opening_U3_right.png",
+      "camera": {
+        "position": [
+          10.317365360303413,
+          5.023189134808854,
+          3.6999999999999993
+        ],
+        "target": [
+          8.171365360303414,
+          4.873189134808854,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_D1_front",
+      "surface": "clay",
+      "file": "clay_opening_D1_front.png",
+      "camera": {
+        "position": [
+          2.1216308470290772,
+          1.37965291750503,
+          4.6
+        ],
+        "target": [
+          2.1216308470290772,
+          1.2296529175050301,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_D1_left",
+      "surface": "clay",
+      "file": "clay_opening_D1_left.png",
+      "camera": {
+        "position": [
+          -0.5463691529709229,
+          1.37965291750503,
+          4.6000000000000005
+        ],
+        "target": [
+          2.1216308470290772,
+          1.2296529175050301,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_D1_right",
+      "surface": "clay",
+      "file": "clay_opening_D1_right.png",
+      "camera": {
+        "position": [
+          4.789630847029077,
+          1.37965291750503,
+          4.6000000000000005
+        ],
+        "target": [
+          2.1216308470290772,
+          1.2296529175050301,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G1_front",
+      "surface": "clay",
+      "file": "clay_opening_G1_front.png",
+      "camera": {
+        "position": [
+          5.315448798988621,
+          1.7884557344064385,
+          3.7
+        ],
+        "target": [
+          5.315448798988621,
+          1.6384557344064388,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G1_left",
+      "surface": "clay",
+      "file": "clay_opening_G1_left.png",
+      "camera": {
+        "position": [
+          3.1694487989886215,
+          1.7884557344064387,
+          3.7
+        ],
+        "target": [
+          5.315448798988621,
+          1.6384557344064388,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G1_right",
+      "surface": "clay",
+      "file": "clay_opening_G1_right.png",
+      "camera": {
+        "position": [
+          7.46144879898862,
+          1.7884557344064387,
+          3.7
+        ],
+        "target": [
+          5.315448798988621,
+          1.6384557344064388,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G2_front",
+      "surface": "clay",
+      "file": "clay_opening_G2_front.png",
+      "camera": {
+        "position": [
+          8.125878634639696,
+          1.7949446680080479,
+          3.7
+        ],
+        "target": [
+          8.125878634639696,
+          1.6449446680080482,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G2_left",
+      "surface": "clay",
+      "file": "clay_opening_G2_left.png",
+      "camera": {
+        "position": [
+          5.979878634639697,
+          1.794944668008048,
+          3.7
+        ],
+        "target": [
+          8.125878634639696,
+          1.6449446680080482,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_G2_right",
+      "surface": "clay",
+      "file": "clay_opening_G2_right.png",
+      "camera": {
+        "position": [
+          10.271878634639695,
+          1.794944668008048,
+          3.6999999999999993
+        ],
+        "target": [
+          8.125878634639696,
+          1.6449446680080482,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_N1_front",
+      "surface": "clay",
+      "file": "clay_opening_N1_front.png",
+      "camera": {
+        "position": [
+          6.725537294563844,
+          4.066071428571429,
+          2
+        ],
+        "target": [
+          6.725537294563844,
+          3.9160714285714286,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_N1_left",
+      "surface": "clay",
+      "file": "clay_opening_N1_left.png",
+      "camera": {
+        "position": [
+          5.5655372945638435,
+          4.066071428571429,
+          2
+        ],
+        "target": [
+          6.725537294563844,
+          3.9160714285714286,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "opening_N1_right",
+      "surface": "clay",
+      "file": "clay_opening_N1_right.png",
+      "camera": {
+        "position": [
+          7.885537294563844,
+          4.066071428571429,
+          2
+        ],
+        "target": [
+          6.725537294563844,
+          3.9160714285714286,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "Five windows, D1 door and N1 niche reviewed front/left/right with texture and clay. Recesses and mullions visible; no large duplicated frame strips. Source registration remains approximate."
+    },
+    {
+      "view": "detail_pipe_hidden",
+      "surface": "texture",
+      "file": "texture_pipe_hidden.png",
+      "camera": {
+        "position": [
+          13,
+          4,
+          3.0000000000000004
+        ],
+        "target": [
+          10.15,
+          3,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "review_note": "3D pipes hidden in browser: no duplicate photographic pipe at checked corner. Locations remain provisional."
+    }
+  ],
+  "identity_click": "identity_source_click.png",
+  "technical_audit": "../evidence/reopen_audit.json",
+  "known_limitations": [
+    "Mixed-date plan and photographs; no survey calibration",
+    "Generated facade fine detail and approximate registration",
+    "Rear, sides, gutter layout and threshold provisional",
+    "Repeated synthetic material pattern and simplified curved tile direction",
+    "Live source API unreachable; no remote changes or upload"
+  ]
+}

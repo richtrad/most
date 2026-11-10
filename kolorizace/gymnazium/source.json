@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "building_candidate": "MOST_ZIZKOVA_1360",
+  "source_reference": "P-000593",
+  "source_date": null,
+  "workflow": "legacy_combined_colourisation_and_cleanup",
+  "source_image_count": 1,
+  "image_edit_attempts": 4,
+  "recorded_rejected_variants": 3,
+  "recorded_accepted_provisional_variants": 1,
+  "new_generation_performed": false,
+  "new_full_QA_claimed": false,
+  "images": [
+    {
+      "path": "assets/original.jpg",
+      "sha256_original": "162d8f1d9bf28f3fc689ccb4e163dc019966626ba077d85780fe9edd50f66b64",
+      "sha256_display": "ce2f088d276e108de2e09a3a4e83014c03ad2a4cbaad10c06e00712b48acc066",
+      "recorded_status": "archival_photographic_source"
+    },
+    {
+      "path": "assets/attempt-1.jpg",
+      "sha256_original": "151d699aa66dcb6f3e5462f8ca4b65fd8ab08ac6a35e6529a10d915926f80e64",
+      "sha256_display": "fde66aa1ae02c6bb8ab70939e8518cc805318746867ff35987e9f5e2daebded0",
+      "recorded_status": "rejected_in_prior_record"
+    },
+    {
+      "path": "assets/attempt-2.jpg",
+      "sha256_original": "dd69bf90b38d3a17a833dcbd005a41424102225d5d584e023c932f0bde549d91",
+      "sha256_display": "a2aca1cfd015559629ceab643117b9472ec3bce2cfea0f1cd279a452b5c13e5e",
+      "recorded_status": "rejected_in_prior_record"
+    },
+    {
+      "path": "assets/attempt-3.jpg",
+      "sha256_original": "33665c19b95613d71f1de2254d61122e348cfc594a36bb49bae14163b426d2ed",
+      "sha256_display": "aa39100c713415a06420648b3334aa14ddff7d8c229f5b6e3b9d3753239fd9c1",
+      "recorded_status": "rejected_in_prior_record"
+    },
+    {
+      "path": "assets/attempt-4.jpg",
+      "sha256_original": "df57bc00d8c53420a26d7442726434c046927e229e8d8599f164a78d4d6cdeaf",
+      "sha256_display": "5f7c2322a9fdb3467a9f0f889ece214add831e55a858f1d4e23aaaf5926a5b1f",
+      "recorded_status": "accepted_provisional_by_worker_B"
+    }
+  ],
+  "review_corrections": [
+    {
+      "issue": "hillside_and_distant_buildings",
+      "earlier_suspicion": "invented_context",
+      "correction": "Both appear in the original photographic source; not a confirmed generation error."
+    },
+    {
+      "issue": "attempt_2_photographer_credit",
+      "earlier_record": "credit missing",
+      "current_observation": "Credit visible at lower right in retained full-resolution file with original SHA dd69bf90b38d3a17a833dcbd005a41424102225d5d584e023c932f0bde549d91.",
+      "status": "conflict_between_record_and_retained_file",
+      "cause": "unresolved; could be mistaken QA or record/variant mismatch",
+      "recorded_rejection_reversed": false
+    }
+  ],
+  "material_assignments": [
+    {
+      "id": "FACADE_LIME_WHITE_01"
+    },
+    {
+      "id": "ROOF_SLATE_GREY_01"
+    },
+    {
+      "id": "WOOD_DARK_BROWN_01"
+    }
+  ],
+  "material_status": "model_hypothesis, provisional, locked:false",
+  "historical_colour_accuracy_verified": false,
+  "remote_verify_note": "Prior retained record reports one hash-verified link; this public-page update does not perform a new Libuse verification.",
+  "privacy": "No private Site links, local paths, credentials or internal thread identifiers"
+}

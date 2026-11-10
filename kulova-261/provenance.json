@@ -1,0 +1,61 @@
+{
+  "cp": "261",
+  "structure_id": "09970cfc-d04b-4085-930b-1dc875fd10d7",
+  "area_id": "f471058c-fd9e-4f61-aa16-551feff64b5e",
+  "created_at": "2026-09-26T02:59:54.909301+00:00",
+  "scope": "one additional house, one selected facade; no changes to previous street",
+  "sources": [
+    {
+      "path": "sources/cp_261,262,263_001.jpg",
+      "sha256": "9e44e922e859484911fb530cffaba6a2bc3bd536c743bbcf52404054c2481564",
+      "unchanged_from_local_archive": true,
+      "archive": "kulova_front_inpaint_v5_2026-09-05/sources/bw/cp_261,262,263_001.jpg"
+    },
+    {
+      "path": "sources/cp_261_001.jpg",
+      "sha256": "764e080efd15396b296b649307694b7c67bb11b0140c1ad64ddb96195efe4c80",
+      "unchanged_from_local_archive": true,
+      "archive": "kulova_front_inpaint_v5_2026-09-05/sources/plans/cp_261_001.jpg"
+    },
+    {
+      "path": "sources/cp_261_001_col_cr_front.png",
+      "sha256": "34ad3f97a36db3c56e586c4c4f7e86632f02c17600b303e7d5fb58eb48f3d7fc",
+      "unchanged_from_local_archive": true,
+      "archive": "kulova_street_2026-09-04/sources/fronts/cp_261_001_col_cr_front.png"
+    }
+  ],
+  "live_check": "evidence/live_check.json",
+  "image_edits": [
+    {
+      "input": "evidence/facade_before.png",
+      "prompt": "prompts/drainpipe_remove.txt",
+      "mask": "evidence/drainpipe_mask.png",
+      "raw": "generated/drainpipe_removed_raw.png",
+      "composite": "textures/registered_facade.png",
+      "tool": "built-in imagegen edit",
+      "generation_id": "exec-28918840-6ce6-48a4-bb65-296274488ae1",
+      "outside_mask_max_error": 0
+    }
+  ],
+  "generated_status": {
+    "type": "model_hypothesis",
+    "status": "provisional",
+    "locked": false
+  },
+  "limitations": [
+    "Skryté stěny, jejich otvory a poškození nejsou fotograficky doložené.",
+    "Barevnost, hloubky, rozměry a jemné profily jsou provisional model_hypothesis, locked:false.",
+    "Část přízemí v BW je zakrytá; oprava vychází i z odvozeného FRONTu.",
+    "Libuše nebyla živě dostupná, použita místní sada ze 4.–5. září.",
+    "Jedna budova a jedna doložená uliční fasáda; nejde o dokončení celé ulice."
+  ],
+  "api_mutations": 0,
+  "revision": "v7",
+  "parent_revision": "kulova_cp261_v6_2026-09-26",
+  "revision_changes": [
+    "Remove photographed right downpipe, brackets and associated shadow from derived facade, retain 3D metal",
+    "Replace photographed door-base steps with three modeled provisional steps; interrupt ground cornice",
+    "Clamp facade UV edges and pad last 7 pixels inside mask"
+  ],
+  "inherited_material_provenance": "../kulova_cp261_v6_2026-09-26/provenance.json"
+}

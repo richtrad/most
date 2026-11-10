@@ -1,0 +1,31 @@
+{
+  "family": "P001",
+  "source": "sources/kulova__cp_111,154,265,266,267_001.jpg",
+  "source_sha256": "0ebdc835a90ec929240d5f9eb23bbf7e88a6917a7330e2c9f691c2fa46723264",
+  "documentary_crop_xyxy": [
+    380,
+    1650,
+    1120,
+    1875
+  ],
+  "crop_coordinate_convention": "native pixels, left/top inclusive, right/bottom exclusive",
+  "crop_created_retrospectively": true,
+  "original_generation_input": "full black-and-white source photograph; no saved input crop",
+  "generation_steps": "color inference, top-down reconstruction and synthesis combined in one imagegen edit; no separate intermediate images",
+  "x_replay": {
+    "overlap_px": 227,
+    "retained_period_px": 1027,
+    "closed_path": true,
+    "cut_mse": 188.02631578947293,
+    "feather_width_px": 3
+  },
+  "y_replay": {
+    "overlap_px": 321,
+    "retained_period_px": 933,
+    "closed_path": true,
+    "cut_mse": 148.5032817627754,
+    "feather_width_px": 3
+  },
+  "replay_matches_final_pixels": true,
+  "final_sha256": "93bce4c446ac280094153e4e34ded887da54b664bce29a497c2f72b3fba78e5e"
+}

@@ -1,0 +1,76 @@
+{
+  "reference_patches": [
+    [
+      385,
+      945,
+      395,
+      968
+    ],
+    [
+      466,
+      961,
+      477,
+      982
+    ],
+    [
+      368,
+      874,
+      380,
+      904
+    ]
+  ],
+  "front_patches": [
+    [
+      425,
+      942,
+      447,
+      962
+    ],
+    [
+      800,
+      950,
+      822,
+      972
+    ],
+    [
+      430,
+      703,
+      450,
+      728
+    ]
+  ],
+  "reference_median_srgb": [
+    0.4392156862745098,
+    0.40784313725490196,
+    0.34901960784313724
+  ],
+  "front_median_srgb": [
+    0.6509803921568628,
+    0.5529411764705883,
+    0.4117647058823529
+  ],
+  "linear_rgb_gain": [
+    0.4249103674580553,
+    0.5197248059972648,
+    0.7071810902941263
+  ],
+  "mask": "plaster_mask.png",
+  "outside_mask_max_error": 0,
+  "method": "deterministic multiplicative linear RGB correction, no new image generation",
+  "confidence": "model_hypothesis",
+  "status": "provisional",
+  "locked": false,
+  "source_native_front": [
+    1306,
+    1204
+  ],
+  "previous_web_facade": [
+    1024,
+    1024
+  ],
+  "new_web_facade": [
+    2048,
+    2048
+  ],
+  "detail_claim": "Full registered texture instead of downsampled LOD; no new historical detail invented"
+}

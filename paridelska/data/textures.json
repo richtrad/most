@@ -1,0 +1,42 @@
+{
+ "426": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp426.glb",
+  "updated": "2026-10-29",
+  "by": null,
+  "qa": null
+ },
+ "1425": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp1425.glb",
+  "updated": "2026-10-29",
+  "by": null,
+  "qa": null
+ },
+ "421": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp421.glb",
+  "updated": "2026-11-03",
+  "by": null,
+  "qa": null
+ },
+ "1084": {
+  "status": "none",
+  "label": "bez textur (hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp1084.glb",
+  "updated": "2026-11-03",
+  "by": null,
+  "qa": null
+ }
+}

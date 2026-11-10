@@ -1,0 +1,33 @@
+{
+  "tool": "built-in image_gen edit",
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "target_size": [
+    2048,
+    2048
+  ],
+  "registration": "same square crop; proportional resample",
+  "protected_max_error": 0,
+  "edited_pixels": 317993,
+  "accepted_raw": "inpaint_raw_solid.png",
+  "rejected_raw": "inpaint_raw.png: recreated white frame",
+  "confidence": "model_hypothesis",
+  "status": "provisional",
+  "locked": false,
+  "door_refinement": {
+    "raw": "door_raw.png",
+    "crop": [
+      0,
+      1100,
+      900,
+      2000
+    ],
+    "raw_size": [
+      1254,
+      1254
+    ],
+    "reason": "remove unwanted generated rectangular stone border"
+  }
+}

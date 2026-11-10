@@ -1,0 +1,1205 @@
+{
+  "status": "experimental_comparison_reviewed",
+  "default_model_promoted": false,
+  "baseline": "C",
+  "baseline_issue": "duplicate photographic frame fragments: previous bevel QA missed pre-existing registration defects",
+  "views": {
+    "detail_dormer_front": {
+      "label": "Vikýř · čelo",
+      "position": [
+        7.285,
+        8.6,
+        4.0
+      ],
+      "target": [
+        7.285,
+        8.5,
+        -0.5
+      ],
+      "fov": 38
+    },
+    "detail_dormer_back": {
+      "label": "Vikýř · napojení zezadu",
+      "position": [
+        9.1,
+        10.7,
+        -5.3
+      ],
+      "target": [
+        7.285,
+        8.7,
+        -1.7
+      ],
+      "fov": 38
+    },
+    "detail_dormer_side": {
+      "label": "Vikýř · bok",
+      "position": [
+        10.5,
+        9.4,
+        -0.7
+      ],
+      "target": [
+        7.285,
+        8.4,
+        -1.5
+      ],
+      "fov": 38
+    },
+    "detail_dormer_top": {
+      "label": "Vikýř · shora",
+      "position": [
+        7.285,
+        13,
+        -1.8
+      ],
+      "target": [
+        7.285,
+        8.5,
+        -1.5
+      ],
+      "fov": 38
+    },
+    "detail_steps_below": {
+      "label": "Schody · spodní spoj",
+      "position": [
+        -0.5,
+        -1.8,
+        2.8
+      ],
+      "target": [
+        1.23,
+        0.0,
+        0.0
+      ],
+      "fov": 38
+    },
+    "detail_steps": {
+      "label": "Schody a práh",
+      "position": [
+        -1.1,
+        1.65,
+        2.8
+      ],
+      "target": [
+        1.23,
+        0.5,
+        0.25
+      ],
+      "fov": 38
+    },
+    "detail_steps_right": {
+      "label": "Schody zprava",
+      "position": [
+        3.7,
+        1.6,
+        2.7
+      ],
+      "target": [
+        1.23,
+        0.5,
+        0.25
+      ],
+      "fov": 38
+    },
+    "detail_pipe": {
+      "label": "Pravý svod",
+      "position": [
+        17,
+        6.7,
+        5
+      ],
+      "target": [
+        13.25,
+        4.7,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_pipe_top": {
+      "label": "Napojení svodu",
+      "position": [
+        15.3,
+        7.5,
+        2.7
+      ],
+      "target": [
+        13.3,
+        6.5,
+        0
+      ],
+      "fov": 38
+    },
+    "axis_front": {
+      "label": "Průčelí",
+      "position": [
+        6.87,
+        6,
+        25
+      ],
+      "target": [
+        6.87,
+        6,
+        0
+      ],
+      "fov": 38
+    },
+    "axis_right": {
+      "label": "Pravá strana",
+      "position": [
+        37,
+        7,
+        -6.9
+      ],
+      "target": [
+        6.87,
+        6,
+        -6.9
+      ],
+      "fov": 38
+    },
+    "axis_back": {
+      "label": "Zadní strana",
+      "position": [
+        6.87,
+        7,
+        -38
+      ],
+      "target": [
+        6.87,
+        6,
+        -6.9
+      ],
+      "fov": 38
+    },
+    "axis_left": {
+      "label": "Levá strana",
+      "position": [
+        -24,
+        7,
+        -6.9
+      ],
+      "target": [
+        6.87,
+        6,
+        -6.9
+      ],
+      "fov": 38
+    },
+    "roof_oblique_front_left": {
+      "label": "Střecha · přední levý roh",
+      "position": [
+        -15,
+        23,
+        22
+      ],
+      "target": [
+        6.87,
+        7,
+        -5
+      ],
+      "fov": 38
+    },
+    "roof_oblique_front_right": {
+      "label": "Střecha · přední pravý roh",
+      "position": [
+        29,
+        23,
+        22
+      ],
+      "target": [
+        6.87,
+        7,
+        -5
+      ],
+      "fov": 38
+    },
+    "roof_oblique_back_left": {
+      "label": "Střecha · zadní levý roh",
+      "position": [
+        -15,
+        23,
+        -33
+      ],
+      "target": [
+        6.87,
+        7,
+        -6
+      ],
+      "fov": 38
+    },
+    "roof_oblique_back_right": {
+      "label": "Střecha · zadní pravý roh",
+      "position": [
+        29,
+        23,
+        -33
+      ],
+      "target": [
+        6.87,
+        7,
+        -6
+      ],
+      "fov": 38
+    },
+    "detail_facade": {
+      "label": "Detail průčelí",
+      "position": [
+        6.8,
+        4.2,
+        19
+      ],
+      "target": [
+        6.8,
+        3.7,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_window": {
+      "label": "Okno a ostění zleva",
+      "position": [
+        2.5,
+        5.7,
+        4.5
+      ],
+      "target": [
+        5.8,
+        5.4,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_window_right": {
+      "label": "Okno a ostění zprava",
+      "position": [
+        9.6,
+        5.7,
+        4.5
+      ],
+      "target": [
+        8.05,
+        5.4,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_door": {
+      "label": "Dveře",
+      "position": [
+        -1,
+        2.2,
+        4.0
+      ],
+      "target": [
+        1.2,
+        1.3,
+        -0.1
+      ],
+      "fov": 38
+    },
+    "detail_corner": {
+      "label": "Nároží",
+      "position": [
+        -4,
+        4,
+        5
+      ],
+      "target": [
+        0.4,
+        3.6,
+        -0.2
+      ],
+      "fov": 38
+    },
+    "detail_cornice": {
+      "label": "Římsa a okap",
+      "position": [
+        8,
+        9.0,
+        5.2
+      ],
+      "target": [
+        6.5,
+        6.9,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_damage": {
+      "label": "Poškození omítky",
+      "position": [
+        4.2,
+        4.8,
+        4
+      ],
+      "target": [
+        4.2,
+        4.8,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_roof": {
+      "label": "Vikýře",
+      "position": [
+        3.6,
+        12.3,
+        9
+      ],
+      "target": [
+        7.1,
+        9,
+        -2.4
+      ],
+      "fov": 38
+    },
+    "macro_sill": {
+      "label": "Makro · parapet",
+      "position": [
+        5.5,
+        4.65,
+        1.0
+      ],
+      "target": [
+        5.91,
+        4.37,
+        0.08
+      ],
+      "fov": 38
+    },
+    "macro_steps": {
+      "label": "Makro · hrana schodu",
+      "position": [
+        0.3,
+        0.6,
+        1.8
+      ],
+      "target": [
+        1.23,
+        0.17,
+        1.0
+      ],
+      "fov": 38
+    },
+    "macro_arch": {
+      "label": "Makro · lem oblouku",
+      "position": [
+        6.7,
+        9.8,
+        1.4
+      ],
+      "target": [
+        7.285,
+        9.15,
+        -0.33
+      ],
+      "fov": 38
+    },
+    "opening_U1_front": {
+      "position": [
+        1.3746,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        1.3746,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U1_left": {
+      "position": [
+        -0.025399999999999867,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        1.3746,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U1_right": {
+      "position": [
+        2.7746,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        1.3746,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U2_front": {
+      "position": [
+        3.0928500000000003,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        3.0928500000000003,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U2_left": {
+      "position": [
+        1.6928500000000004,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        3.0928500000000003,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U2_right": {
+      "position": [
+        4.492850000000001,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        3.0928500000000003,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U3_front": {
+      "position": [
+        5.91078,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        5.91078,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U3_left": {
+      "position": [
+        4.5107800000000005,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        5.91078,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U3_right": {
+      "position": [
+        7.310779999999999,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        5.91078,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U4_front": {
+      "position": [
+        8.041409999999999,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        8.041409999999999,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U4_left": {
+      "position": [
+        6.641409999999999,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        8.041409999999999,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U4_right": {
+      "position": [
+        9.44141,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        8.041409999999999,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U5_front": {
+      "position": [
+        10.859340000000001,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        10.859340000000001,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U5_left": {
+      "position": [
+        9.459340000000001,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        10.859340000000001,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U5_right": {
+      "position": [
+        12.259340000000002,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        10.859340000000001,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U6_front": {
+      "position": [
+        12.371400000000001,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        12.371400000000001,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U6_left": {
+      "position": [
+        10.971400000000001,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        12.371400000000001,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_U6_right": {
+      "position": [
+        13.771400000000002,
+        5.590000000000001,
+        3.3
+      ],
+      "target": [
+        12.371400000000001,
+        5.390000000000001,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_D1_front": {
+      "position": [
+        1.23714,
+        1.79,
+        3.3
+      ],
+      "target": [
+        1.23714,
+        1.59,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_D1_left": {
+      "position": [
+        -0.16286,
+        1.79,
+        3.3
+      ],
+      "target": [
+        1.23714,
+        1.59,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_D1_right": {
+      "position": [
+        2.6371399999999996,
+        1.79,
+        3.3
+      ],
+      "target": [
+        1.23714,
+        1.59,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G1_front": {
+      "position": [
+        3.0928500000000003,
+        1.925,
+        3.3
+      ],
+      "target": [
+        3.0928500000000003,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G1_left": {
+      "position": [
+        1.6928500000000004,
+        1.925,
+        3.3
+      ],
+      "target": [
+        3.0928500000000003,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G1_right": {
+      "position": [
+        4.492850000000001,
+        1.925,
+        3.3
+      ],
+      "target": [
+        3.0928500000000003,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G2_front": {
+      "position": [
+        5.91078,
+        1.925,
+        3.3
+      ],
+      "target": [
+        5.91078,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G2_left": {
+      "position": [
+        4.5107800000000005,
+        1.925,
+        3.3
+      ],
+      "target": [
+        5.91078,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G2_right": {
+      "position": [
+        7.310779999999999,
+        1.925,
+        3.3
+      ],
+      "target": [
+        5.91078,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G3_front": {
+      "position": [
+        8.041409999999999,
+        1.925,
+        3.3
+      ],
+      "target": [
+        8.041409999999999,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G3_left": {
+      "position": [
+        6.641409999999999,
+        1.925,
+        3.3
+      ],
+      "target": [
+        8.041409999999999,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G3_right": {
+      "position": [
+        9.44141,
+        1.925,
+        3.3
+      ],
+      "target": [
+        8.041409999999999,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G4_front": {
+      "position": [
+        11.54664,
+        1.925,
+        3.3
+      ],
+      "target": [
+        11.54664,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G4_left": {
+      "position": [
+        10.14664,
+        1.925,
+        3.3
+      ],
+      "target": [
+        11.54664,
+        1.725,
+        0
+      ],
+      "fov": 38
+    },
+    "opening_G4_right": {
+      "position": [
+        12.94664,
+        1.925,
+        3.3
+      ],
+      "target": [
+        11.54664,
+        1.725,
+        0
+      ],
+      "fov": 38
+    }
+  },
+  "openings": [
+    {
+      "id": "U1",
+      "review": "control_retained",
+      "note": "Unchanged user-designated control; narrow photographic outer rim retained.",
+      "G": [
+        "geometry/texture_opening_U1_front.png",
+        "geometry/texture_opening_U1_left.png",
+        "geometry/texture_opening_U1_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_U1_front.png",
+        "inpaint/texture_opening_U1_left.png",
+        "inpaint/texture_opening_U1_right.png"
+      ]
+    },
+    {
+      "id": "U2",
+      "review": "control_retained",
+      "note": "Unchanged user-designated control; narrow photographic outer rim retained.",
+      "G": [
+        "geometry/texture_opening_U2_front.png",
+        "geometry/texture_opening_U2_left.png",
+        "geometry/texture_opening_U2_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_U2_front.png",
+        "inpaint/texture_opening_U2_left.png",
+        "inpaint/texture_opening_U2_right.png"
+      ]
+    },
+    {
+      "id": "U3",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_U3_front.png",
+        "geometry/texture_opening_U3_left.png",
+        "geometry/texture_opening_U3_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_U3_front.png",
+        "inpaint/texture_opening_U3_left.png",
+        "inpaint/texture_opening_U3_right.png"
+      ]
+    },
+    {
+      "id": "U4",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_U4_front.png",
+        "geometry/texture_opening_U4_left.png",
+        "geometry/texture_opening_U4_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_U4_front.png",
+        "inpaint/texture_opening_U4_left.png",
+        "inpaint/texture_opening_U4_right.png"
+      ]
+    },
+    {
+      "id": "U5",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_U5_front.png",
+        "geometry/texture_opening_U5_left.png",
+        "geometry/texture_opening_U5_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_U5_front.png",
+        "inpaint/texture_opening_U5_left.png",
+        "inpaint/texture_opening_U5_right.png"
+      ]
+    },
+    {
+      "id": "U6",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_U6_front.png",
+        "geometry/texture_opening_U6_left.png",
+        "geometry/texture_opening_U6_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_U6_front.png",
+        "inpaint/texture_opening_U6_left.png",
+        "inpaint/texture_opening_U6_right.png"
+      ]
+    },
+    {
+      "id": "D1",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_D1_front.png",
+        "geometry/texture_opening_D1_left.png",
+        "geometry/texture_opening_D1_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_D1_front.png",
+        "inpaint/texture_opening_D1_left.png",
+        "inpaint/texture_opening_D1_right.png"
+      ]
+    },
+    {
+      "id": "G1",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_G1_front.png",
+        "geometry/texture_opening_G1_left.png",
+        "geometry/texture_opening_G1_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_G1_front.png",
+        "inpaint/texture_opening_G1_left.png",
+        "inpaint/texture_opening_G1_right.png"
+      ]
+    },
+    {
+      "id": "G2",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_G2_front.png",
+        "geometry/texture_opening_G2_left.png",
+        "geometry/texture_opening_G2_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_G2_front.png",
+        "inpaint/texture_opening_G2_left.png",
+        "inpaint/texture_opening_G2_right.png"
+      ]
+    },
+    {
+      "id": "G3",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_G3_front.png",
+        "geometry/texture_opening_G3_left.png",
+        "geometry/texture_opening_G3_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_G3_front.png",
+        "inpaint/texture_opening_G3_left.png",
+        "inpaint/texture_opening_G3_right.png"
+      ]
+    },
+    {
+      "id": "G4",
+      "review": "pass_targeted_repair",
+      "note": "Reviewed front and both oblique sides: duplicate timber bars outside opening removed. G adjusts void/trim/frame/panes; T uses mineral inpaint bands.",
+      "G": [
+        "geometry/texture_opening_G4_front.png",
+        "geometry/texture_opening_G4_left.png",
+        "geometry/texture_opening_G4_right.png"
+      ],
+      "T": [
+        "inpaint/texture_opening_G4_front.png",
+        "inpaint/texture_opening_G4_left.png",
+        "inpaint/texture_opening_G4_right.png"
+      ]
+    }
+  ],
+  "variants": {
+    "geometry": {
+      "screenshots": [
+        "geometry/clay_axis_back.png",
+        "geometry/clay_axis_front.png",
+        "geometry/clay_axis_left.png",
+        "geometry/clay_axis_right.png",
+        "geometry/clay_detail_corner.png",
+        "geometry/clay_detail_cornice.png",
+        "geometry/clay_detail_damage.png",
+        "geometry/clay_detail_door.png",
+        "geometry/clay_detail_dormer_back.png",
+        "geometry/clay_detail_dormer_front.png",
+        "geometry/clay_detail_dormer_side.png",
+        "geometry/clay_detail_dormer_top.png",
+        "geometry/clay_detail_facade.png",
+        "geometry/clay_detail_pipe.png",
+        "geometry/clay_detail_pipe_top.png",
+        "geometry/clay_detail_roof.png",
+        "geometry/clay_detail_steps.png",
+        "geometry/clay_detail_steps_below.png",
+        "geometry/clay_detail_steps_right.png",
+        "geometry/clay_detail_window.png",
+        "geometry/clay_detail_window_right.png",
+        "geometry/clay_macro_arch.png",
+        "geometry/clay_macro_sill.png",
+        "geometry/clay_macro_steps.png",
+        "geometry/clay_opening_D1_front.png",
+        "geometry/clay_opening_D1_left.png",
+        "geometry/clay_opening_D1_right.png",
+        "geometry/clay_opening_G1_front.png",
+        "geometry/clay_opening_G1_left.png",
+        "geometry/clay_opening_G1_right.png",
+        "geometry/clay_opening_G2_front.png",
+        "geometry/clay_opening_G2_left.png",
+        "geometry/clay_opening_G2_right.png",
+        "geometry/clay_opening_G3_front.png",
+        "geometry/clay_opening_G3_left.png",
+        "geometry/clay_opening_G3_right.png",
+        "geometry/clay_opening_G4_front.png",
+        "geometry/clay_opening_G4_left.png",
+        "geometry/clay_opening_G4_right.png",
+        "geometry/clay_opening_U1_front.png",
+        "geometry/clay_opening_U1_left.png",
+        "geometry/clay_opening_U1_right.png",
+        "geometry/clay_opening_U2_front.png",
+        "geometry/clay_opening_U2_left.png",
+        "geometry/clay_opening_U2_right.png",
+        "geometry/clay_opening_U3_front.png",
+        "geometry/clay_opening_U3_left.png",
+        "geometry/clay_opening_U3_right.png",
+        "geometry/clay_opening_U4_front.png",
+        "geometry/clay_opening_U4_left.png",
+        "geometry/clay_opening_U4_right.png",
+        "geometry/clay_opening_U5_front.png",
+        "geometry/clay_opening_U5_left.png",
+        "geometry/clay_opening_U5_right.png",
+        "geometry/clay_opening_U6_front.png",
+        "geometry/clay_opening_U6_left.png",
+        "geometry/clay_opening_U6_right.png",
+        "geometry/clay_roof_oblique_back_left.png",
+        "geometry/clay_roof_oblique_back_right.png",
+        "geometry/clay_roof_oblique_front_left.png",
+        "geometry/clay_roof_oblique_front_right.png",
+        "geometry/texture_axis_back.png",
+        "geometry/texture_axis_front.png",
+        "geometry/texture_axis_left.png",
+        "geometry/texture_axis_right.png",
+        "geometry/texture_detail_corner.png",
+        "geometry/texture_detail_cornice.png",
+        "geometry/texture_detail_damage.png",
+        "geometry/texture_detail_door.png",
+        "geometry/texture_detail_dormer_back.png",
+        "geometry/texture_detail_dormer_front.png",
+        "geometry/texture_detail_dormer_side.png",
+        "geometry/texture_detail_dormer_top.png",
+        "geometry/texture_detail_facade.png",
+        "geometry/texture_detail_pipe.png",
+        "geometry/texture_detail_pipe_top.png",
+        "geometry/texture_detail_roof.png",
+        "geometry/texture_detail_steps.png",
+        "geometry/texture_detail_steps_below.png",
+        "geometry/texture_detail_steps_right.png",
+        "geometry/texture_detail_window.png",
+        "geometry/texture_detail_window_right.png",
+        "geometry/texture_macro_arch.png",
+        "geometry/texture_macro_sill.png",
+        "geometry/texture_macro_steps.png",
+        "geometry/texture_opening_D1_front.png",
+        "geometry/texture_opening_D1_left.png",
+        "geometry/texture_opening_D1_right.png",
+        "geometry/texture_opening_G1_front.png",
+        "geometry/texture_opening_G1_left.png",
+        "geometry/texture_opening_G1_right.png",
+        "geometry/texture_opening_G2_front.png",
+        "geometry/texture_opening_G2_left.png",
+        "geometry/texture_opening_G2_right.png",
+        "geometry/texture_opening_G3_front.png",
+        "geometry/texture_opening_G3_left.png",
+        "geometry/texture_opening_G3_right.png",
+        "geometry/texture_opening_G4_front.png",
+        "geometry/texture_opening_G4_left.png",
+        "geometry/texture_opening_G4_right.png",
+        "geometry/texture_opening_U1_front.png",
+        "geometry/texture_opening_U1_left.png",
+        "geometry/texture_opening_U1_right.png",
+        "geometry/texture_opening_U2_front.png",
+        "geometry/texture_opening_U2_left.png",
+        "geometry/texture_opening_U2_right.png",
+        "geometry/texture_opening_U3_front.png",
+        "geometry/texture_opening_U3_left.png",
+        "geometry/texture_opening_U3_right.png",
+        "geometry/texture_opening_U4_front.png",
+        "geometry/texture_opening_U4_left.png",
+        "geometry/texture_opening_U4_right.png",
+        "geometry/texture_opening_U5_front.png",
+        "geometry/texture_opening_U5_left.png",
+        "geometry/texture_opening_U5_right.png",
+        "geometry/texture_opening_U6_front.png",
+        "geometry/texture_opening_U6_left.png",
+        "geometry/texture_opening_U6_right.png",
+        "geometry/texture_roof_oblique_back_left.png",
+        "geometry/texture_roof_oblique_back_right.png",
+        "geometry/texture_roof_oblique_front_left.png",
+        "geometry/texture_roof_oblique_front_right.png"
+      ],
+      "count": 122,
+      "visual_review": "complete; experimental only",
+      "sha256": "af0b8f518a5fbb12e790c41f79fda6c014d99135d045dd48f8aba53194958c64"
+    },
+    "inpaint": {
+      "screenshots": [
+        "inpaint/clay_axis_back.png",
+        "inpaint/clay_axis_front.png",
+        "inpaint/clay_axis_left.png",
+        "inpaint/clay_axis_right.png",
+        "inpaint/texture_axis_back.png",
+        "inpaint/texture_axis_front.png",
+        "inpaint/texture_axis_left.png",
+        "inpaint/texture_axis_right.png",
+        "inpaint/texture_detail_corner.png",
+        "inpaint/texture_detail_cornice.png",
+        "inpaint/texture_detail_damage.png",
+        "inpaint/texture_detail_door.png",
+        "inpaint/texture_detail_dormer_back.png",
+        "inpaint/texture_detail_dormer_front.png",
+        "inpaint/texture_detail_dormer_side.png",
+        "inpaint/texture_detail_dormer_top.png",
+        "inpaint/texture_detail_facade.png",
+        "inpaint/texture_detail_pipe.png",
+        "inpaint/texture_detail_pipe_top.png",
+        "inpaint/texture_detail_roof.png",
+        "inpaint/texture_detail_steps.png",
+        "inpaint/texture_detail_steps_below.png",
+        "inpaint/texture_detail_steps_right.png",
+        "inpaint/texture_detail_window.png",
+        "inpaint/texture_detail_window_right.png",
+        "inpaint/texture_macro_arch.png",
+        "inpaint/texture_macro_sill.png",
+        "inpaint/texture_macro_steps.png",
+        "inpaint/texture_opening_D1_front.png",
+        "inpaint/texture_opening_D1_left.png",
+        "inpaint/texture_opening_D1_right.png",
+        "inpaint/texture_opening_G1_front.png",
+        "inpaint/texture_opening_G1_left.png",
+        "inpaint/texture_opening_G1_right.png",
+        "inpaint/texture_opening_G2_front.png",
+        "inpaint/texture_opening_G2_left.png",
+        "inpaint/texture_opening_G2_right.png",
+        "inpaint/texture_opening_G3_front.png",
+        "inpaint/texture_opening_G3_left.png",
+        "inpaint/texture_opening_G3_right.png",
+        "inpaint/texture_opening_G4_front.png",
+        "inpaint/texture_opening_G4_left.png",
+        "inpaint/texture_opening_G4_right.png",
+        "inpaint/texture_opening_U1_front.png",
+        "inpaint/texture_opening_U1_left.png",
+        "inpaint/texture_opening_U1_right.png",
+        "inpaint/texture_opening_U2_front.png",
+        "inpaint/texture_opening_U2_left.png",
+        "inpaint/texture_opening_U2_right.png",
+        "inpaint/texture_opening_U3_front.png",
+        "inpaint/texture_opening_U3_left.png",
+        "inpaint/texture_opening_U3_right.png",
+        "inpaint/texture_opening_U4_front.png",
+        "inpaint/texture_opening_U4_left.png",
+        "inpaint/texture_opening_U4_right.png",
+        "inpaint/texture_opening_U5_front.png",
+        "inpaint/texture_opening_U5_left.png",
+        "inpaint/texture_opening_U5_right.png",
+        "inpaint/texture_opening_U6_front.png",
+        "inpaint/texture_opening_U6_left.png",
+        "inpaint/texture_opening_U6_right.png",
+        "inpaint/texture_roof_oblique_back_left.png",
+        "inpaint/texture_roof_oblique_back_right.png",
+        "inpaint/texture_roof_oblique_front_left.png",
+        "inpaint/texture_roof_oblique_front_right.png"
+      ],
+      "count": 65,
+      "visual_review": "complete; experimental only",
+      "sha256": "381c56afe18f031ce4ed10886b856c4d681814ac9224d7775bfad1a7557358f2"
+    }
+  },
+  "limits": [
+    "Original BW photo is partially occluded; FRONT alignment is not surveyed historical geometry.",
+    "U1/U2 kept as controls per user, not reauthored.",
+    "T has visible mineral infill bands; exact patina is provisional.",
+    "No street-wide promotion or baseline replacement."
+  ]
+}

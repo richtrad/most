@@ -1,0 +1,17 @@
+{
+  "version": "v9",
+  "parent": "v8",
+  "changes": [
+    "Closed dormer front ring and recessed opening backing",
+    "Closed dormer shell terminates at sloping roof intersection, not arbitrary 0.90m depth",
+    "Single stair mesh replaces three overlapping boxes; underside at -0.045m removes coplanarity with house base"
+  ],
+  "source_evidence": "Original local BW photograph; existing shape and window retained",
+  "new_image_generation": false,
+  "textures": "Packed image bytes identical to v8",
+  "confidence": "model_hypothesis",
+  "status": "provisional",
+  "locked": false,
+  "model": "models/cp261_v9.glb",
+  "qa": "qa/visual_qa.json"
+}

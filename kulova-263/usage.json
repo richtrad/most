@@ -1,0 +1,64 @@
+{
+  "metric": "Account-wide weekly usedPercent, not token counts; integer rounding and concurrent activity can affect differences",
+  "samples": [
+    {
+      "stage": "start_before_inventory",
+      "date": "2026-09-27",
+      "used_percent": 6,
+      "remaining_percent": 94,
+      "window_minutes": 10080,
+      "resets_at": 1791062590
+    },
+    {
+      "stage": "after_inventory_and_plan",
+      "measured_at": "2026-09-27T01:42:53.959022+00:00",
+      "used_percent": 7,
+      "remaining_percent": 93,
+      "resets_at": 1791062590
+    },
+    {
+      "stage": "after_identity_audit_and_rejected_cleanup_generation",
+      "measured_at": "2026-09-27T01:45:37.497700+00:00",
+      "used_percent": 7,
+      "remaining_percent": 93,
+      "resets_at": 1791062590,
+      "note": "One image edit of pre-existing FRONT; discarded due to discovered identity mismatch."
+    },
+    {
+      "stage": "after_correct_identity_and_facade_generation",
+      "used_percent": 8,
+      "remaining_percent": 92,
+      "resets_at": 1791062590,
+      "time_precision": "stage order; recorded after build"
+    },
+    {
+      "stage": "after_uv_generation_and_geometry_export",
+      "measured_at": "2026-09-27T01:55:36.106213+00:00",
+      "used_percent": 8,
+      "remaining_percent": 92,
+      "resets_at": 1791062590
+    },
+    {
+      "stage": "after_first_visual_qa_uv_fix_and_viewer",
+      "used_percent": 9,
+      "remaining_percent": 91,
+      "resets_at": 1791062590,
+      "time_precision": "stage order; recorded during second QA run"
+    },
+    {
+      "stage": "after_final_geometry_and_material_review",
+      "used_percent": 10,
+      "remaining_percent": 90,
+      "resets_at": 1791062590,
+      "time_precision": "stage order; measured before final material extraction"
+    },
+    {
+      "stage": "final_before_delivery",
+      "recorded_at": "2026-09-27T02:18:24.157245+00:00",
+      "used_percent": 11,
+      "remaining_percent": 89,
+      "resets_at": 1791062590,
+      "note": "Read from account tool immediately before packaging; recording timestamp, not server timestamp."
+    }
+  ]
+}

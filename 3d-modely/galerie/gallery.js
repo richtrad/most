@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{const f=document.getElementById('model-frame');f.src=b.dataset.view;f.scrollIntoView({block:'center'});}));

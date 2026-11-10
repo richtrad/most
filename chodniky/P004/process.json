@@ -1,0 +1,31 @@
+{
+  "family": "P004",
+  "source": "sources/kostelni__cp_134_001.jpg",
+  "source_sha256": "0020da7a92c3c14514dda46834df7be06fa32f70b19c69db20c4bac18628d6ef",
+  "documentary_crop_xyxy": [
+    640,
+    2240,
+    1260,
+    2760
+  ],
+  "crop_coordinate_convention": "native pixels, left/top inclusive, right/bottom exclusive",
+  "crop_created_retrospectively": true,
+  "original_generation_input": "full black-and-white source photograph; no saved input crop",
+  "generation_steps": "color inference, top-down reconstruction and synthesis combined in one imagegen edit; no separate intermediate images",
+  "x_replay": {
+    "overlap_px": 274,
+    "retained_period_px": 980,
+    "closed_path": true,
+    "cut_mse": 43.55023923444972,
+    "feather_width_px": 3
+  },
+  "y_replay": {
+    "overlap_px": 352,
+    "retained_period_px": 902,
+    "closed_path": true,
+    "cut_mse": 43.00806878306873,
+    "feather_width_px": 3
+  },
+  "replay_matches_final_pixels": true,
+  "final_sha256": "f46bb361728a3aa260b36d336d179c50dc9dacfd5e08dd4510081f9ec26c2107"
+}

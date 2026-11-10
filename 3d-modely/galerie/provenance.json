@@ -1,0 +1,610 @@
+[
+  {
+    "id": "57-normal",
+    "model": "output/cp57_normal_maps_v1_2026-09-09/models/cp57_normals.glb",
+    "sha256": "0489c7e19017c052f7d436ee94e8d8a81d7685065c73a12c791a9288b9c42fec",
+    "preview": "output/cp57_normal_maps_v1_2026-09-09/renders/color_detail_left_selected.png",
+    "status": "provisional",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "262",
+    "model": "output/kulova_front_inpaint_v5_2026-09-05/models/cp_262_front_inpaint_v5.glb",
+    "sha256": "2dae322b310b61ce8048805229ad4aabf979ac7268f8ea2e1a4e9d29e7b5a900",
+    "preview": "output/kulova_front_inpaint_v5_2026-09-05/renders/cp262_quarter.png",
+    "status": "provisional",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "1045",
+    "model": "output/cechova_front_inpaint_v3_2026-09-09/models/cp_1045/house.glb",
+    "sha256": "c6818f6e3da05cf0e5ffd2417c8c7a14d8edd076442ba9af1ed46c32ed3e2a85",
+    "preview": "output/cechova_front_inpaint_v3_2026-09-09/models/cp_1045/corner.png",
+    "status": "provisional",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "57",
+    "model": "output/mirove_namesti_detail_v1_2026-09-09/models/cp_57_detail.glb",
+    "sha256": "fbdf21b6daf8b2e77e913a110cab9bf7aa078718d99d6df44de200f48d30a412",
+    "preview": "output/mirove_namesti_detail_v1_2026-09-09/renders/CP57_left.png",
+    "status": "provisional",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "60",
+    "model": "output/mirove_namesti_detail_v1_2026-09-09/models/cp_60_detail.glb",
+    "sha256": "1c5cb7cf332225f4eae01da939f5345b1745ef75cf4ed3f76f2828069d3efdea",
+    "preview": "output/mirove_namesti_detail_v1_2026-09-09/renders/CP60_left.png",
+    "status": "provisional",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "kulova",
+    "model": "output/kulova_front_inpaint_v5_2026-09-05/kulova_front_inpaint_v5_lod1.glb",
+    "sha256": "ff597b90d9386ebd50cc2c69cec05862c77217a65d9b96543691955471ec7324",
+    "preview": "output/kulova_front_inpaint_v5_2026-09-05/renders/core_v5.png",
+    "status": "provisional",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "cechova",
+    "model": "output/cechova_front_inpaint_v3_2026-09-09/assembly/cechova_v3_lod.glb",
+    "sha256": "5077b727ba3f60d238f2a8d129d36a2784d4e19da3b711089442013c6120913f",
+    "preview": "output/cechova_front_inpaint_v3_2026-09-09/assembly/overview.png",
+    "status": "provisional",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "mirove",
+    "model": "output/mirove_roofs_v3_2026-09-10/mirove-v3.glb",
+    "sha256": "aca7b76ac97772406fc99f0d763bbf7fb92fed8673807aba82bb445e53f35c9a",
+    "preview": "mirove-v3.webp",
+    "status": "provisional",
+    "date": "2026-09-10",
+    "previous_version": {
+      "id": "mirove",
+      "model": "output/mirove_surfaces_v2_2026-09-10/mirove-v2.glb",
+      "sha256": "712d05c231e12ead0a5933926206a727ded7910f2152bfdcc62b39d3953bb3ec",
+      "preview": "mirove-v2.webp",
+      "status": "provisional",
+      "date": "2026-09-10",
+      "previous_version": {
+        "id": "mirove",
+        "model": "output/mirove_namesti_detail_v1_2026-09-09/mirove_namesti_lod.glb",
+        "sha256": "05385e93df2eb45c6e1275a22e365212f30a02057f61f0ec7de14d937526c175",
+        "preview": "output/mirove_namesti_detail_v1_2026-09-09/renders/Square_overview.png",
+        "status": "provisional",
+        "date": "2026-09-10"
+      },
+      "surface_revision": {
+        "house_hash_before": "4af5a63ad4bfce6f254c59a52f2f0c101d8ae5314757c1c29355297c4f7cd05d",
+        "house_hash_after": "4af5a63ad4bfce6f254c59a52f2f0c101d8ae5314757c1c29355297c4f7cd05d",
+        "houses_preserved": 57,
+        "surface_area_m2": {
+          "sidewalk": 6759.099944624201,
+          "road": 17638.128203969693,
+          "square": 13609.552150673024
+        },
+        "pairwise_overlap_m2": 0,
+        "street_ids": [
+          17,
+          25,
+          27,
+          28,
+          30,
+          31,
+          32,
+          42,
+          48,
+          49,
+          77,
+          78,
+          110,
+          127
+        ],
+        "provenance": "GIS axes and house footprints; widths 2m / 6m, circulation band, level terrain and borrowed Kulova paving are provisional hypotheses, not verified historical road boundaries.",
+        "original": "C:\\Users\\grafi\\Documents\\MOST\\output\\mirove_namesti_detail_v1_2026-09-09\\mirove_namesti_v1.blend"
+      }
+    },
+    "surface_revision": {
+      "house_hash_before": "4af5a63ad4bfce6f254c59a52f2f0c101d8ae5314757c1c29355297c4f7cd05d",
+      "house_hash_after": "4af5a63ad4bfce6f254c59a52f2f0c101d8ae5314757c1c29355297c4f7cd05d",
+      "houses_preserved": 57,
+      "surface_area_m2": {
+        "sidewalk": 6759.099944624201,
+        "road": 17638.128203969693,
+        "square": 13609.552150673024
+      },
+      "pairwise_overlap_m2": 0,
+      "street_ids": [
+        17,
+        25,
+        27,
+        28,
+        30,
+        31,
+        32,
+        42,
+        48,
+        49,
+        77,
+        78,
+        110,
+        127
+      ],
+      "provenance": "GIS axes and house footprints; widths 2m / 6m, circulation band, level terrain and borrowed Kulova paving are provisional hypotheses, not verified historical road boundaries.",
+      "original": "C:\\Users\\grafi\\Documents\\MOST\\output\\mirove_namesti_detail_v1_2026-09-09\\mirove_namesti_v1.blend"
+    },
+    "roof_revision": {
+      "roofs": [
+        {
+          "roof": "CP104_roof",
+          "tiles": 10127,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP105_roof",
+          "tiles": 2076,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP106_roof",
+          "tiles": 5958,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP11_roof",
+          "tiles": 4483,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP12_roof",
+          "tiles": 2749,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP134_roof",
+          "tiles": 8741,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP135_roof",
+          "tiles": 1898,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP136_roof",
+          "tiles": 2182,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP137_roof",
+          "tiles": 2116,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP1392_roof",
+          "tiles": 15544,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP185_roof",
+          "tiles": 2588,
+          "slopes": 6,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP186_roof",
+          "tiles": 8039,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP187_roof",
+          "tiles": 15890,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP1_roof",
+          "tiles": 24644,
+          "slopes": 2,
+          "material_id": "ROOF_SLATE_GREY_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP216_roof",
+          "tiles": 4841,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP26_roof",
+          "tiles": 9312,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP274_roof",
+          "tiles": 24880,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP275_roof",
+          "tiles": 5222,
+          "slopes": 5,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP2_roof",
+          "tiles": 16367,
+          "slopes": 2,
+          "material_id": "ROOF_SLATE_GREY_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP35_roof",
+          "tiles": 6085,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP3_roof",
+          "tiles": 6123,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP42_roof",
+          "tiles": 627,
+          "slopes": 3,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP43_roof",
+          "tiles": 6074,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_OCHRE_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP451_roof",
+          "tiles": 3735,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP45_roof",
+          "tiles": 7523,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP46_roof",
+          "tiles": 7472,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP47_roof",
+          "tiles": 7293,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP48_roof",
+          "tiles": 1247,
+          "slopes": 2,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP49_roof",
+          "tiles": 15480,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP4_roof",
+          "tiles": 8737,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP50_roof",
+          "tiles": 921,
+          "slopes": 2,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP51_roof",
+          "tiles": 661,
+          "slopes": 2,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP53_roof",
+          "tiles": 6325,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP54_roof",
+          "tiles": 4570,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP55_roof",
+          "tiles": 322,
+          "slopes": 2,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP56_roof",
+          "tiles": 362,
+          "slopes": 2,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP57_roof",
+          "tiles": 10759,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP58_roof",
+          "tiles": 2615,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP59_roof",
+          "tiles": 305,
+          "slopes": 2,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP5_roof",
+          "tiles": 4877,
+          "slopes": 4,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP60_roof",
+          "tiles": 4386,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP61_roof",
+          "tiles": 7329,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP62_roof",
+          "tiles": 4070,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP63_roof",
+          "tiles": 3181,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP6_roof",
+          "tiles": 6095,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_OCHRE_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP74_roof",
+          "tiles": 7655,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP75_roof",
+          "tiles": 6743,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP76_roof",
+          "tiles": 17467,
+          "slopes": 5,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP77_roof",
+          "tiles": 10014,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "inherited red clay hypothesis",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP78_roof",
+          "tiles": 10034,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP79_roof",
+          "tiles": 5237,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP7_roof",
+          "tiles": 3878,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP80_roof",
+          "tiles": 1352,
+          "slopes": 3,
+          "material_id": "ROOF_ZINC_WEATHERED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP82_roof",
+          "tiles": 11487,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP83_roof",
+          "tiles": 11471,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP8_roof",
+          "tiles": 5050,
+          "slopes": 3,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        },
+        {
+          "roof": "CP9_roof",
+          "tiles": 8675,
+          "slopes": 2,
+          "material_id": "ROOF_CLAY_RED_01",
+          "assignment": "i_namesti_batch.json",
+          "roof_shape_preserved": true
+        }
+      ],
+      "roof_count": 57,
+      "tiles": 393894,
+      "nonroof_geometry_uv_hash_before": "e5dd5a517325306094264fad60059e07ba9d892d9bf5df81a41d3af8c00529e9",
+      "nonroof_geometry_uv_hash_after": "e5dd5a517325306094264fad60059e07ba9d892d9bf5df81a41d3af8c00529e9",
+      "source": "C:\\Users\\grafi\\Documents\\MOST\\output\\roof_texture_library_v2\\generated\\R002_A.png",
+      "source_sha256": "40cf4c7717386f17403bbb53837c61cc5c3910ef0f4abb00bab44b7df4a8ff76",
+      "procedure": "roof_40_r19.py; per-tile interior samples, metric UV, uphill rows; planar tile-top web LOD",
+      "limits": "All existing roof shapes remain provisional; material is borrowed, not evidence for individual buildings. No new historical type or damage claims. Facades and v2 roads unchanged.",
+      "bytes": 83189996,
+      "removed_submillimetre_clipping_slivers": 3939
+    }
+  }
+]

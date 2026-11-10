@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382 378" role="img" aria-labelledby="map-t map-d" class="k-map">
+<title id="map-t">U Pražské brány (Am Prager Tor) a okolí podle plánu města 1938 (GIS)</title><desc id="map-d">Půdorysy budov z vektorizace plánu 1938. Zeleně domy modelované v této rekonstrukci (odkazy na jejich stránky), oranžově modelované domy se štítkem hypotézy, světle s přerušovaným obrysem domy, které se ještě modelují, béžově případné nemodelované budovy ulice bez čísla popisného, šedě ostatní budovy. Budovy plynárny bez čp. (GIS 1526–1531) jsou hypotéza stavu kolem 1938. Šířky parcel 449 a 495 jsou v modelu podle stavebních plánů, mapa ukazuje půdorysy GIS.</desc>
+<rect width="100%" height="100%" fill="#f7f5ee"/>
+<polyline points="38.0,59.6 218.1,59.6" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="288.2,309.2 397.1,462.9 491.4,607.9 529.9,695.3 653.9,966.1" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="648.6,76.6 605.0,147.7 363.8,252.7 288.2,309.2" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="241.3,46.3 489.5,-42.8 637.2,-61.7" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="26.6,134.4 -75.7,155.2 -227.2,178.0" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="258.5,342.4 221.8,255.9 179.9,123.1" fill="none" stroke="#9cc3d5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="-477.5,88.2 -412.9,285.6 -341.5,418.5 -262.7,430.6 -45.5,449.0 118.7,412.3 225.3,366.8 258.5,342.4 288.2,309.2" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="70.5,207.8 76.1,225.9 82.6,247.0 1.0,272.2 1.9,275.3 -28.4,284.6 -43.9,234.4 -13.1,224.8 -10.6,232.9" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<a href="cp251/" aria-label="Čp. 251"><polygon points="107.7,158.5 105.0,149.6 140.2,137.7 151.2,175.3 145.0,177.1 147.0,183.8 138.7,186.2 142.3,198.9 121.8,204.8" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8"/></a>
+<a href="cp250/" aria-label="Čp. 250"><polygon points="140.2,137.7 164.2,129.6 187.9,206.9 156.3,216.7 147.0,183.8 145.0,177.1 151.2,175.3" fill="#286b63" stroke="#8a857a" stroke-width="0.8"/></a>
+<a href="cp495/" aria-label="Čp. 495"><polygon points="187.9,206.9 195.0,228.6 163.1,238.9 156.3,216.7" fill="#286b63" stroke="#8a857a" stroke-width="0.8"/></a>
+<a href="cp449/" aria-label="Čp. 449"><polygon points="163.1,238.9 195.0,228.6 206.0,262.9 175.1,273.4" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8"/></a>
+<a href="cp247/" aria-label="Čp. 247"><polygon points="234.2,105.0 237.3,115.9 251.4,112.1 264.1,139.6 244.3,146.4 249.1,160.3 237.2,164.6 242.7,178.0 249.1,175.1 252.1,181.5 219.0,195.6 210.5,171.8 191.3,118.6" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8"/></a>
+<polygon points="251.4,112.1 271.3,105.2 305.2,94.0 315.7,127.9 295.4,135.0 303.3,151.7 309.7,149.5 312.1,155.2 277.3,167.4 264.1,139.6" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<a href="cp249/" aria-label="Čp. 249"><polygon points="219.0,195.6 252.1,181.5 276.6,236.8 242.1,251.1" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8"/></a>
+<polygon points="286.3,219.1 325.6,218.8 333.0,264.4 294.2,267.0" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="325.6,218.8 346.0,212.2 360.5,253.0 333.0,264.4" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="396.5,2.5 405.1,31.9 358.1,47.9 354.2,36.4 348.2,17.9" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="348.2,17.9 354.2,36.4 315.8,49.9 319.6,62.0 263.2,81.1 254.7,83.8 243.4,51.9" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="263.2,81.1 319.6,62.0 324.2,75.9 301.9,83.2 305.2,94.0 271.3,105.2" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="230.3,19.5 294.0,-4.0 302.1,17.9 238.9,41.5" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="302.1,17.9 294.0,-4.0 302.1,-7.7 322.7,-15.0 331.5,7.0" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="402.2,264.4 416.0,299.9 418.3,305.9 382.2,320.8 351.2,333.5 334.3,292.4" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="351.2,333.5 382.2,320.8 393.3,347.8 363.3,360.6" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<text x="129.3" y="172.3" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">251</text>
+<text x="162.5" y="179.0" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">250</text>
+<text x="175.2" y="226.8" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">495</text>
+<text x="184.4" y="254.8" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">449</text>
+<text x="226.5" y="148.9" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">247</text>
+<text x="247.4" y="220.0" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">249</text>
+<text x="218.1" y="54.6" font-size="10" fill="#2b6a7a" font-weight="400">Náměstí Dr. Šmerala</text>
+<text x="363.8" y="247.7" font-size="10" fill="#2b6a7a" font-weight="400">Maršála Rybalka</text>
+<text x="221.8" y="250.9" font-size="12" fill="#2b6a7a" font-weight="700">U Pražské brány</text>
+</svg>

@@ -1,0 +1,239 @@
+{
+  "snapshot": "2026-09-09",
+  "files": [
+    {
+      "path": "174/cp_174.glb",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/cp_174.glb",
+      "sha256": "8aa995d8c3c9ac1e969bd389425276db9a454a8c2134d112dd32054632c74279"
+    },
+    {
+      "path": "174/cp_174.blend",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/cp_174.blend",
+      "sha256": "f4df531c9f079f82dfae2864ce50829e3122afcd5cfd15221a1753a558956a37"
+    },
+    {
+      "path": "174/previous.glb",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/previous.glb",
+      "sha256": "49a3ec82d2330b0c4f502015af1a23f0090c0c53ef5c00d73b8a4d4bdb69efde"
+    },
+    {
+      "path": "174/REPORT.md",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/REPORT.md",
+      "sha256": "1a637d2ea8040c3bb9a2da79f1a25682731806c80cb717196cb58e8ad3a67e20"
+    },
+    {
+      "path": "174/map.svg",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/map.svg",
+      "sha256": "ca8fdc4dbc76ab31c88732f79d83a34080d7673d6b160b53d70c47b962ca38bd"
+    },
+    {
+      "path": "174/registration_overlay.svg",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/registration_overlay.svg",
+      "sha256": "1fec7ed4940af4773b6adfd75188a09246a39651eeb7ef0934f654ce5eb7d2f4"
+    },
+    {
+      "path": "174/corner.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/corner.png",
+      "sha256": "d28ff5a3da60818a5840afbe7ea8326bccf641519cc06a0cf5f2c7c9ca08a630",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "174/A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/A.png",
+      "sha256": "ff4c161d6769c455cdb0dc93ab41987328ded44bd308568a8d95379943f7e87d",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "174/B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/B.png",
+      "sha256": "90c9c1a14a1eb05486f5781c235041731fc2f3ee2433edfbec312c3be0ff59a7",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "174/back.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/back.png",
+      "sha256": "fd6b20e47d9de3c213893c89a1c34f49df23eca7b42db5b8b862e02958fa0967",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "174/source_A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/source_A.png",
+      "sha256": "33fd444b4f50e3e5bf3ca243f4351e2ea07513df8661e78f0ba69a7a987bc254",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "174/source_B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_174/house_package_r29/source_B.png",
+      "sha256": "ed0dde05bc4b637ee0e12ce7f188a85da285f527b73fb009d3609a3f014924a6",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/cp_35.glb",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/cp_35.glb",
+      "sha256": "dfe7b9a4d0c68e03e8c88df3884f8ec99995528a62ccf1504cfff8ff831c150d"
+    },
+    {
+      "path": "35/cp_35.blend",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/cp_35.blend",
+      "sha256": "63d5457c765fd9fa5f134add068e6d2deade6bf5f8c0c60e71f0400b4d35840b"
+    },
+    {
+      "path": "35/previous.glb",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/previous.glb",
+      "sha256": "fde31e96fb41052cff7dab91e34bbe9ffdcb200d9960eec4f9889adf0f27db55"
+    },
+    {
+      "path": "35/REPORT.md",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/REPORT.md",
+      "sha256": "09b726d315061736aeece75b692444ded347ed9a00c3db75c52e2c928bbccfd6"
+    },
+    {
+      "path": "35/map.svg",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/map.svg",
+      "sha256": "ffdc2ac2a29fb1850fd855421a709b6db0abff197f41dc8fd677370222874cee"
+    },
+    {
+      "path": "35/registration_overlay.svg",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/registration_overlay.svg",
+      "sha256": "977b9c49fc862d359f4ae8c6bb1ec7ad97434ac4ba46efa2b0dddb49c2c73f87"
+    },
+    {
+      "path": "35/corner.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/corner.png",
+      "sha256": "0bcdfc24dd82a0b70d8f144c04102733c4396b3220b86fc8978dd47e56ee5280",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/A.png",
+      "sha256": "f26a9728d64906e0a6926f00ebb193e066e79c4d28d2817a915d05f7939a1c33",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/B.png",
+      "sha256": "dc51e570ac780c58b54f1f16c9fbc5644a4a2523bc3fc92b93c439c5c9234ad6",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/back.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/back.png",
+      "sha256": "54c0e3756caa45648b5e645900430d0ec9fd6608aaed6743d582fd85c99d8ddb",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/source_A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/source_A.png",
+      "sha256": "f31a206da9a36357b05d11841a9c858425c4e5ecce69ab80a3e33323db4f5b47",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/source_B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/source_B.png",
+      "sha256": "c21d572459872d69f0947d98871151c390720f8e65d411176d3de2c6fadfd2e2",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/source_corner.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/source_corner.jpg",
+      "sha256": "bc177bd077391dd12f3a052e9374dcee1397251ab7c76761c79709aa4cb714a5",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/front_A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/front_A.png",
+      "sha256": "033103ed3fe064771cb53a2835a1cd6ab6dba850d689488c7911c8085b538782",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "35/front_B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_35/house_package_r9/front_B.png",
+      "sha256": "77d3deae2fd00849fff064a61f738a7411ca1e515d0fc924782fabbed49aa5f6",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/cp_40.glb",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/cp_40.glb",
+      "sha256": "a95182f84cdb401773ea5d505ceb787eb79c372984907168ef0ea0ccc059d4c0"
+    },
+    {
+      "path": "40/cp_40.blend",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/cp_40.blend",
+      "sha256": "bd90585df1a417338c3473d04fcc157640e2e06426537f5b92b014d05f633735"
+    },
+    {
+      "path": "40/previous.glb",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/previous.glb",
+      "sha256": "49954997f2a50f32dd28429f518cc564249dc1bf3214dcf600f8ae8d083cf05e"
+    },
+    {
+      "path": "40/REPORT.md",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/REPORT.md",
+      "sha256": "b17fb5f376ef9d24982786f34e14017361965a493cb7a638453ce969a4500ab8"
+    },
+    {
+      "path": "40/map.svg",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/map.svg",
+      "sha256": "4455efd4f56d6d6cfd4f370c554a7f0c074a06234c48192c447dd177addc3844"
+    },
+    {
+      "path": "40/registration_overlay.svg",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/registration_overlay.svg",
+      "sha256": "a7e305e16591ffe406c854ebba4c953db2fe3cc799d29e00e69b64bf874fbb83"
+    },
+    {
+      "path": "40/corner.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/corner.png",
+      "sha256": "9f88d172da08525fa7b7d0585a0ccb7345ba3a4bf975f23882d55c6a92e247a5",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/A.png",
+      "sha256": "a10549777fe460b6b1d5866716a4df9dbe8ae4d8c5b6e4eaaeedcd9cd49f1ff4",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/B.png",
+      "sha256": "ffb9dc0f0d101b47889050914ae9c37ef1e405770ee3e176abe111b875d33722",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/rear.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/rear.png",
+      "sha256": "52c5de02bf535b2d898d385faf74831af1f38e64e471faf9acea807dae25aec9",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/source_A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/source_A.jpg",
+      "sha256": "989fe7b7a3f0dbeb948d0f305204ed73d0892c707f3e40470dbba9dff1f61790",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/source_B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/source_B.jpg",
+      "sha256": "71f7e6d283c9562d2b428a97f7c0df837c98592dd36cd66bee9e0f6c68002e96",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/source_corner.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/source_corner.jpg",
+      "sha256": "76a1aaff3eb3a7f5a77a9bfc6d8626658284a71dad40dcef8c9d003fe09802e5",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/front_A.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/front_A.png",
+      "sha256": "838f75ff0a3646d467632668ad67b19036e4fc7bfb74249f4d38fb46d1b8ab98",
+      "derivative": "WebP preview"
+    },
+    {
+      "path": "40/front_B.webp",
+      "source": "output/libuse_all_corners_v5_2026-09-08/cp_40/house_package_r9/front_B.png",
+      "sha256": "6467615d1ca798a8746c730f815b433bada13b47d23e983da55ab5eb52a21796",
+      "derivative": "WebP preview"
+    }
+  ]
+}

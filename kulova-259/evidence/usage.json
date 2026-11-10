@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "start",
+    "used_percent": 66,
+    "window_minutes": 10080,
+    "date": "2026-10-02",
+    "note": "Account aggregate, not house token count"
+  },
+  {
+    "stage": "research_and_materials",
+    "used_percent": 66,
+    "checked_at": "2026-10-02T07:20:28.498505+00:00",
+    "window_minutes": 10080
+  },
+  {
+    "stage": "geometry_first_qa",
+    "used_percent": 66,
+    "checked_at": "2026-10-02T07:36:14.382518+00:00"
+  },
+  {
+    "stage": "large_wall_correction",
+    "used_percent": 66,
+    "checked_at": "2026-10-02T07:36:14.382518+00:00"
+  },
+  {
+    "stage": "final_pre_delivery",
+    "used_percent": 66,
+    "checked_at": "2026-10-02T07:45:20.678654+00:00",
+    "window_minutes": 10080,
+    "note": "All sampled stages rounded66%; stage token costs cannot be distinguished. Account shared usage, not exact house tokens."
+  }
+]

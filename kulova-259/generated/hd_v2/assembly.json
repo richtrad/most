@@ -1,0 +1,29 @@
+{
+  "native_tiles": {
+    "tl": [
+      1411,
+      1115
+    ],
+    "tr": [
+      1412,
+      1114
+    ],
+    "bl": [
+      1409,
+      1117
+    ],
+    "br": [
+      1411,
+      1115
+    ]
+  },
+  "assembled": [
+    2688,
+    2100
+  ],
+  "method": "overlap feather 64 reference pixels, median colour match",
+  "full_crop": [
+    1419,
+    1109
+  ]
+}

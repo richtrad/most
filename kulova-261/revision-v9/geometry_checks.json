@@ -1,0 +1,21 @@
+{
+  "objects": {
+    "CP_261_Roof_Dormers": {
+      "boundary_edges": 0,
+      "non_manifold_edges": 0,
+      "volume": 3.334245880171873,
+      "degenerate_uv_triangles": 0
+    },
+    "CP_261_Entrance_Three_Steps_PROVISIONAL": {
+      "boundary_edges": 0,
+      "non_manifold_edges": 0,
+      "volume": 0.7581420258615014,
+      "degenerate_uv_triangles": 0
+    }
+  },
+  "rear_termination": "roof intersection minus 0.06m",
+  "stair_bottom": -0.045,
+  "unchanged": "all source textures, front openings, gutters, roof and v8 colour correction",
+  "historical_status": "model_hypothesis",
+  "visual_passed": false
+}

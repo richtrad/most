@@ -1,0 +1,1842 @@
+{
+  "passed": false,
+  "revision_visual_review_completed": true,
+  "requested_straightening_completed": true,
+  "historical_promotion_allowed": false,
+  "status": "working_variant_identity_unresolved",
+  "renderer": "Three.js in Edge/SwiftShader",
+  "glb_sha256": "5dcef635f2378cceae1159b343422c6286ec8de2cadd9099182e799adea2ac50",
+  "views": [
+    {
+      "view": "axis_front",
+      "surface": "texture",
+      "file": "texture_axis_front.png",
+      "camera": {
+        "position": [
+          3.7,
+          6.000000000000002,
+          27
+        ],
+        "target": [
+          3.7,
+          6,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "7b5d3ddaa17c5131ea23a968fd21753ae63183000aaace724cd7d497a0549b8b",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "axis_right",
+      "surface": "texture",
+      "file": "texture_axis_right.png",
+      "camera": {
+        "position": [
+          38,
+          6.000000000000002,
+          -8.999999999999998
+        ],
+        "target": [
+          3.7,
+          6,
+          -9
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "e3c3949aa97521601ee8fb8db5752ec731bb6a300ca2365a662b4040e4bd6ee2",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "axis_back",
+      "surface": "texture",
+      "file": "texture_axis_back.png",
+      "camera": {
+        "position": [
+          3.7000000000000037,
+          6.000000000000002,
+          -47
+        ],
+        "target": [
+          3.7,
+          6,
+          -19
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "9437371e77c255f962be342df42b604800f58afcb39ee5546d62d56553a07d3e",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "axis_left",
+      "surface": "texture",
+      "file": "texture_axis_left.png",
+      "camera": {
+        "position": [
+          -31.000000000000004,
+          6.000000000000002,
+          -8.999999999999998
+        ],
+        "target": [
+          3.7,
+          6,
+          -9
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "ccef1da55c4e0ea44fe7faf75bb6a5ff83e995fc82f8ebca2da2fc4c844a2a58",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "roof_front_left",
+      "surface": "texture",
+      "file": "texture_roof_front_left.png",
+      "camera": {
+        "position": [
+          -20,
+          24.000000000000004,
+          22
+        ],
+        "target": [
+          3.7,
+          6,
+          -8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "14041ed8ae979bd48eb7a1402565cedd449d63cd2f7ef4f7c5582f3988644d2a",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "roof_front_right",
+      "surface": "texture",
+      "file": "texture_roof_front_right.png",
+      "camera": {
+        "position": [
+          27,
+          23.999999999999996,
+          21.999999999999996
+        ],
+        "target": [
+          3.7,
+          6,
+          -8
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "bbb5047039f0bd27c2d1551e6acfc5fe34925c831d6e5f34de0954d3b3e4907b",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "roof_back_left",
+      "surface": "texture",
+      "file": "texture_roof_back_left.png",
+      "camera": {
+        "position": [
+          -20.000000000000007,
+          24.000000000000004,
+          -39
+        ],
+        "target": [
+          3.7,
+          6,
+          -9
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "48dbd9c3f432cb3cf6a5be2ed3410f31b49e131b60bfec7b45fb42ab3c5108a4",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "roof_back_right",
+      "surface": "texture",
+      "file": "texture_roof_back_right.png",
+      "camera": {
+        "position": [
+          27,
+          23.999999999999996,
+          -39
+        ],
+        "target": [
+          3.7,
+          6,
+          -9
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "50c0e7f18e54eb7f65b1ed8c9ce154a2a39726c5a273afbc136d21c38bc4b6ee",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_facade",
+      "surface": "texture",
+      "file": "texture_detail_facade.png",
+      "camera": {
+        "position": [
+          3.7,
+          3.999999999999999,
+          13.999999999999998
+        ],
+        "target": [
+          3.7,
+          3.75,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "4bc2d8e0b6b96594c01b741f17792275a1082c4f9676fb89c46879f95dba90d0",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_corner",
+      "surface": "texture",
+      "file": "texture_detail_corner.png",
+      "camera": {
+        "position": [
+          -3,
+          4,
+          4
+        ],
+        "target": [
+          0.15,
+          4,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "47682b53c6f44a1cede93de64a64a03e9988673b6bcbdc3f56f26dd764a385fb",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_cornice",
+      "surface": "texture",
+      "file": "texture_detail_cornice.png",
+      "camera": {
+        "position": [
+          6,
+          8.4,
+          4
+        ],
+        "target": [
+          3.7,
+          7.4,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "7266f7c1f583c82dd6c7436a070077569e098c684276e95b2b3cee4222cc369c",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_pipe",
+      "surface": "texture",
+      "file": "texture_detail_pipe.png",
+      "camera": {
+        "position": [
+          -2,
+          4,
+          3
+        ],
+        "target": [
+          0.15,
+          3.8,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "24f83012071880888d66a1e2a116e76cb0f2c77dee33c11c7d3ae344cbcc04aa",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_damage",
+      "surface": "texture",
+      "file": "texture_detail_damage.png",
+      "camera": {
+        "position": [
+          6.7,
+          2.9,
+          2.8
+        ],
+        "target": [
+          6.7,
+          2.9,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "9c49ac08c03ad92961ec4aedacd65fa8aa00878f2aeea9519a7f413bcde889e4",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_threshold",
+      "surface": "texture",
+      "file": "texture_detail_threshold.png",
+      "camera": {
+        "position": [
+          4.200000000000001,
+          0.65,
+          2.9999999999999996
+        ],
+        "target": [
+          6.22,
+          0.35,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "4d5fffda54c9b7038d127bceaeddd55dedc4c05e4102b2b3270bf34777ff31a3",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_threshold_below",
+      "surface": "texture",
+      "file": "texture_detail_threshold_below.png",
+      "camera": {
+        "position": [
+          6.22,
+          -0.7999999999999998,
+          1.8000000000000003
+        ],
+        "target": [
+          6.22,
+          0.15,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "b899b9e2330bfb30222f93ed16b4a7ec4ae69fceff50aab798ac35cd09ddf301",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_shopfront",
+      "surface": "texture",
+      "file": "texture_detail_shopfront.png",
+      "camera": {
+        "position": [
+          0.7000000000000002,
+          2.5000000000000004,
+          5.500000000000001
+        ],
+        "target": [
+          2.7,
+          1.6,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "c758b991620b6a5dfa8560cddbf206f678565e847b87a3e46f6908d3b4beb1ef",
+      "note": "Straight cornice and rectangular body; dedicated front texture excludes foreshortened return. Fine painted irregularities retained."
+    },
+    {
+      "view": "detail_shopfront_right",
+      "surface": "texture",
+      "file": "texture_detail_shopfront_right.png",
+      "camera": {
+        "position": [
+          7.7,
+          2.7,
+          4
+        ],
+        "target": [
+          5.2,
+          1.7,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "20ea033d8a18f4cd360b1519d2e6d00b08a5ab439d99f4e45df16b45aa34e4ed",
+      "note": "Straight cornice and rectangular body; dedicated front texture excludes foreshortened return. Fine painted irregularities retained."
+    },
+    {
+      "view": "dormer_A_front",
+      "surface": "texture",
+      "file": "texture_dormer_A_front.png",
+      "camera": {
+        "position": [
+          1.9240000000000002,
+          9.647368421052631,
+          2.4
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "8e73b5486eba46cc60029bec3add907b538e10da0afd7337ecbe48386b65cba6",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_A_back",
+      "surface": "texture",
+      "file": "texture_dormer_A_back.png",
+      "camera": {
+        "position": [
+          2.9240000000000004,
+          10.647368421052631,
+          -4.6
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "8c3fa7bcc0cb640284ea56bfceeb45fa84c565f377e424f8a90d349d7a1a28e3",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_A_side",
+      "surface": "texture",
+      "file": "texture_dormer_A_side.png",
+      "camera": {
+        "position": [
+          4.924,
+          9.647368421052631,
+          -1.6000000000000003
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "39f77341839b0c39a031798556ba05ca21e40958a1cd0f662abe51ad1e28888d",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_A_top",
+      "surface": "texture",
+      "file": "texture_dormer_A_top.png",
+      "camera": {
+        "position": [
+          1.9240000000000002,
+          13.647368421052631,
+          -1.600000000000001
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "9c848d05a467e29bbc595e1d32498cd04ff3d65200e027cfc817984e15bc5799",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_front",
+      "surface": "texture",
+      "file": "texture_dormer_B_front.png",
+      "camera": {
+        "position": [
+          5.6240000000000006,
+          9.647368421052631,
+          2.4
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "bf841a1536040b70033f47fe33ec5ffea7d6e3869ac9493f1afd7d13ecc18f93",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_back",
+      "surface": "texture",
+      "file": "texture_dormer_B_back.png",
+      "camera": {
+        "position": [
+          6.6240000000000006,
+          10.647368421052631,
+          -4.6
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "ef25b70dd17c85136f81b8ef6a99d244fd9e95cfbd1158bf6466ce207fbb7b48",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_side",
+      "surface": "texture",
+      "file": "texture_dormer_B_side.png",
+      "camera": {
+        "position": [
+          8.624,
+          9.647368421052631,
+          -1.6000000000000003
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "eaffff517103676c3cfdca1eec9a9f0a685df377cba531a93649c82b4c64f99d",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_top",
+      "surface": "texture",
+      "file": "texture_dormer_B_top.png",
+      "camera": {
+        "position": [
+          5.6240000000000006,
+          13.647368421052631,
+          -1.600000000000001
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "56eb3b1834d53c8bc978f68fa2b40dcfff7bea2d4295c5584d80b1f3717f82be",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_front",
+      "surface": "texture",
+      "file": "texture_dormer_C_front.png",
+      "camera": {
+        "position": [
+          3.9220000000000006,
+          11.542105263157893,
+          -0.7999999999999998
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "4ada579100bca9da04f5a51956dae61258a03dee9d6376557535fd97a56b4849",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_back",
+      "surface": "texture",
+      "file": "texture_dormer_C_back.png",
+      "camera": {
+        "position": [
+          4.922000000000001,
+          12.542105263157893,
+          -7.8
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "b2f9512789d3c967348c55c6eb3dd7a5adbc6a4bae78bdb05a461ca29edd06bc",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_side",
+      "surface": "texture",
+      "file": "texture_dormer_C_side.png",
+      "camera": {
+        "position": [
+          6.922000000000001,
+          11.542105263157893,
+          -4.8
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "298b8d40c562132dee6e10d1d4c5f7ce3bcd725112950bb4e16fbcc5c03b6fce",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_top",
+      "surface": "texture",
+      "file": "texture_dormer_C_top.png",
+      "camera": {
+        "position": [
+          3.9220000000000006,
+          15.542105263157893,
+          -4.800000000000001
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "60f0ed569405096f79ab4252ee8f25570739fc69ae0d7694667989774bc09b59",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "hero",
+      "surface": "texture",
+      "file": "texture_hero.png",
+      "camera": {
+        "position": [
+          -9,
+          12,
+          24
+        ],
+        "target": [
+          3.7,
+          5,
+          -2
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "da79015864016ef94e094ad849cfb912988630ada174819b8c5a828d8a712a7c",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "opening_U1_front",
+      "surface": "texture",
+      "file": "texture_opening_U1_front.png",
+      "camera": {
+        "position": [
+          1.495857142857143,
+          6.039084507042254,
+          3.7
+        ],
+        "target": [
+          1.495857142857143,
+          5.889084507042254,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "2d8ce1c69904bd250200b86afa28943339b0e835411112b4c898b7ebcc080eba",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U1_left",
+      "surface": "texture",
+      "file": "texture_opening_U1_left.png",
+      "camera": {
+        "position": [
+          -0.6501428571428565,
+          6.039084507042254,
+          3.7
+        ],
+        "target": [
+          1.495857142857143,
+          5.889084507042254,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "9732ccc7ef82eaf78579e6877ba9622e96805729867268df3e1170c31d465c25",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U1_right",
+      "surface": "texture",
+      "file": "texture_opening_U1_right.png",
+      "camera": {
+        "position": [
+          3.6418571428571425,
+          6.039084507042254,
+          3.7
+        ],
+        "target": [
+          1.495857142857143,
+          5.889084507042254,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "fc1e2719e03783e8128f1f7dfebb818eff0161e5d7a87ca4a44f483c0133e8c7",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U2_front",
+      "surface": "texture",
+      "file": "texture_opening_U2_front.png",
+      "camera": {
+        "position": [
+          3.1106428571428575,
+          6.073415492957746,
+          3.7
+        ],
+        "target": [
+          3.1106428571428575,
+          5.923415492957746,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "cfb6546da79038cedc8b1e7aeadab66c926495e31c1b69f086f51751a75ee604",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U2_left",
+      "surface": "texture",
+      "file": "texture_opening_U2_left.png",
+      "camera": {
+        "position": [
+          0.964642857142858,
+          6.073415492957746,
+          3.7
+        ],
+        "target": [
+          3.1106428571428575,
+          5.923415492957746,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "b47f19d8e7a2e69ef3d80385a950331f926d17a92c4c2d7f352b9182aaa60500",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U2_right",
+      "surface": "texture",
+      "file": "texture_opening_U2_right.png",
+      "camera": {
+        "position": [
+          5.256642857142857,
+          6.073415492957746,
+          3.7
+        ],
+        "target": [
+          3.1106428571428575,
+          5.923415492957746,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "d1332187d48b9eb919b404ecedc93f6a000259a4f772bdf20ff160fb0bc60f45",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U3_front",
+      "surface": "texture",
+      "file": "texture_opening_U3_front.png",
+      "camera": {
+        "position": [
+          6.202785714285715,
+          6.136795774647887,
+          3.7
+        ],
+        "target": [
+          6.202785714285715,
+          5.986795774647887,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "a8d0969fde435b65233fde87c2394a86135db9fd6d50c701b56d73bb6420ff76",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U3_left",
+      "surface": "texture",
+      "file": "texture_opening_U3_left.png",
+      "camera": {
+        "position": [
+          4.056785714285715,
+          6.136795774647888,
+          3.7
+        ],
+        "target": [
+          6.202785714285715,
+          5.986795774647887,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "5d441a19da18123e4acf77c4e12f33d54c116f1751c89c69f622ec6ac995932b",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U3_right",
+      "surface": "texture",
+      "file": "texture_opening_U3_right.png",
+      "camera": {
+        "position": [
+          8.348785714285714,
+          6.136795774647888,
+          3.7
+        ],
+        "target": [
+          6.202785714285715,
+          5.986795774647887,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "8ef4e94263e4d40a41811cd797c05cf79128ae8e50ea9c1bd87ed92f66ac6287",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_D1_front",
+      "surface": "texture",
+      "file": "texture_opening_D1_front.png",
+      "camera": {
+        "position": [
+          6.221285714285715,
+          1.5998239436619717,
+          4.6
+        ],
+        "target": [
+          6.221285714285715,
+          1.4498239436619718,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "383243f93e5691bc7ad9ab20074e97ad7d45ad455e06b0500f1b5260e9b5cde9",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_D1_left",
+      "surface": "texture",
+      "file": "texture_opening_D1_left.png",
+      "camera": {
+        "position": [
+          3.553285714285715,
+          1.5998239436619717,
+          4.6000000000000005
+        ],
+        "target": [
+          6.221285714285715,
+          1.4498239436619718,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "4f4f6c990e17416c2372282c1feb7dc683986efdcc67416b5028274560fb4d46",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_D1_right",
+      "surface": "texture",
+      "file": "texture_opening_D1_right.png",
+      "camera": {
+        "position": [
+          8.889285714285714,
+          1.5998239436619717,
+          4.6
+        ],
+        "target": [
+          6.221285714285715,
+          1.4498239436619718,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "dcdc3bdbc5d40012aff8b2cdc16ae54d3b2b4107c1df49798da666126f233a74",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "axis_front",
+      "surface": "clay",
+      "file": "clay_axis_front.png",
+      "camera": {
+        "position": [
+          3.7,
+          6.000000000000002,
+          27
+        ],
+        "target": [
+          3.7,
+          6,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "198cb516867439729b17079c6371356bf7ae2c3b981bef2a7b860b5e5e9591f1",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "axis_right",
+      "surface": "clay",
+      "file": "clay_axis_right.png",
+      "camera": {
+        "position": [
+          38,
+          6.000000000000002,
+          -8.999999999999998
+        ],
+        "target": [
+          3.7,
+          6,
+          -9
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "79474e07701e8ea9bae7301dfd09ef52f07e40e50968acc35f1c92bb3bab5515",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "axis_back",
+      "surface": "clay",
+      "file": "clay_axis_back.png",
+      "camera": {
+        "position": [
+          3.7000000000000037,
+          6.000000000000002,
+          -47
+        ],
+        "target": [
+          3.7,
+          6,
+          -19
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "5564abd36a378b07726878b3807e0d74b9344224760ab7aa5657b496510239e9",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "axis_left",
+      "surface": "clay",
+      "file": "clay_axis_left.png",
+      "camera": {
+        "position": [
+          -31.000000000000004,
+          6.000000000000002,
+          -8.999999999999998
+        ],
+        "target": [
+          3.7,
+          6,
+          -9
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "97dbe10da914675da3f13672b66a855d443f4e56a365d538025f869f6c809a66",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_threshold",
+      "surface": "clay",
+      "file": "clay_detail_threshold.png",
+      "camera": {
+        "position": [
+          4.200000000000001,
+          0.65,
+          2.9999999999999996
+        ],
+        "target": [
+          6.22,
+          0.35,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "f486fab70d6203df282bca974fafa57e915d435aafceccd1854b3ed095dd1be0",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "detail_threshold_below",
+      "surface": "clay",
+      "file": "clay_detail_threshold_below.png",
+      "camera": {
+        "position": [
+          6.22,
+          -0.7999999999999998,
+          1.8000000000000003
+        ],
+        "target": [
+          6.22,
+          0.15,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "943d07536998234886df1f7cc9061dc0ce8d428ceb9104d5c50eda8397814a40",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    },
+    {
+      "view": "dormer_A_front",
+      "surface": "clay",
+      "file": "clay_dormer_A_front.png",
+      "camera": {
+        "position": [
+          1.9240000000000002,
+          9.647368421052631,
+          2.4
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "001392a2c207e8d95c854f48fd4ca7d0005a6e1b7f9f6cac50cee2742d672e9a",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_A_back",
+      "surface": "clay",
+      "file": "clay_dormer_A_back.png",
+      "camera": {
+        "position": [
+          2.9240000000000004,
+          10.647368421052631,
+          -4.6
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "e8cc7e8ff663d890ae448a64eb25e4dd36fb46f4d64b938c4312a3d9e0d073b7",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_A_side",
+      "surface": "clay",
+      "file": "clay_dormer_A_side.png",
+      "camera": {
+        "position": [
+          4.924,
+          9.647368421052631,
+          -1.6000000000000003
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "f6c19f67362a2318f36e54567421197d1d4d14cdce77e007a7f60ba594d9f5b9",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_A_top",
+      "surface": "clay",
+      "file": "clay_dormer_A_top.png",
+      "camera": {
+        "position": [
+          1.9240000000000002,
+          13.647368421052631,
+          -1.600000000000001
+        ],
+        "target": [
+          1.9240000000000002,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "ece7fdcad19c9a40e88bbba8150a9d28d4200c41885fdffbc19c30f78918c7bd",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_front",
+      "surface": "clay",
+      "file": "clay_dormer_B_front.png",
+      "camera": {
+        "position": [
+          5.6240000000000006,
+          9.647368421052631,
+          2.4
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "b59d53a1ddbd4c855226b836d6a6d887f61e85cb69bf1e75b33a4848337a8158",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_back",
+      "surface": "clay",
+      "file": "clay_dormer_B_back.png",
+      "camera": {
+        "position": [
+          6.6240000000000006,
+          10.647368421052631,
+          -4.6
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "85e5fcdfe891980ede8044b6d6209d9c440049bab57be106b7e72082d4fdf818",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_side",
+      "surface": "clay",
+      "file": "clay_dormer_B_side.png",
+      "camera": {
+        "position": [
+          8.624,
+          9.647368421052631,
+          -1.6000000000000003
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "d5b5f2bb6a6c3c2c97012f54c6418f3ce821495c5b58debb164e1dd90dd0f2f3",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_B_top",
+      "surface": "clay",
+      "file": "clay_dormer_B_top.png",
+      "camera": {
+        "position": [
+          5.6240000000000006,
+          13.647368421052631,
+          -1.600000000000001
+        ],
+        "target": [
+          5.6240000000000006,
+          8.647368421052631,
+          -2.1
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "16615422a20b6f5a36427671265cda56a8912db2a4f6eb1e45326f4f47ed5ab4",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_front",
+      "surface": "clay",
+      "file": "clay_dormer_C_front.png",
+      "camera": {
+        "position": [
+          3.9220000000000006,
+          11.542105263157893,
+          -0.7999999999999998
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "244520ea008dbabf6668062307b3c569008e80e9a40de667178705474929bac5",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_back",
+      "surface": "clay",
+      "file": "clay_dormer_C_back.png",
+      "camera": {
+        "position": [
+          4.922000000000001,
+          12.542105263157893,
+          -7.8
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "b5558842846a8a49219f3d56208c5931b8a3204b5175ac8d15997e042d9f9100",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_side",
+      "surface": "clay",
+      "file": "clay_dormer_C_side.png",
+      "camera": {
+        "position": [
+          6.922000000000001,
+          11.542105263157893,
+          -4.8
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "6cc140390b6c3f0127377d83ca8d6b2e1b4d6b33ba1cba81098e2952e03249a9",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "dormer_C_top",
+      "surface": "clay",
+      "file": "clay_dormer_C_top.png",
+      "camera": {
+        "position": [
+          3.9220000000000006,
+          15.542105263157893,
+          -4.800000000000001
+        ],
+        "target": [
+          3.9220000000000006,
+          10.542105263157893,
+          -5.3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "a05c8b30e908e3dc2e66d1c56518648b9b956ae9f4c632bda574a1bf5963dbdc",
+      "note": "Closed geometry retained; inherited tile phase discontinuity remains visible; provisional detail."
+    },
+    {
+      "view": "opening_U1_front",
+      "surface": "clay",
+      "file": "clay_opening_U1_front.png",
+      "camera": {
+        "position": [
+          1.495857142857143,
+          6.039084507042254,
+          3.7
+        ],
+        "target": [
+          1.495857142857143,
+          5.889084507042254,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "6abad5c85a066814d0fd06d5c7b2e1daa5e8635207ef7d37b1e34187903a775a",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U1_left",
+      "surface": "clay",
+      "file": "clay_opening_U1_left.png",
+      "camera": {
+        "position": [
+          -0.6501428571428565,
+          6.039084507042254,
+          3.7
+        ],
+        "target": [
+          1.495857142857143,
+          5.889084507042254,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "d380d2546be829e602b155112239d68306c83d9a0b67c545e7e0261b2f352596",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U1_right",
+      "surface": "clay",
+      "file": "clay_opening_U1_right.png",
+      "camera": {
+        "position": [
+          3.6418571428571425,
+          6.039084507042254,
+          3.7
+        ],
+        "target": [
+          1.495857142857143,
+          5.889084507042254,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "0f7bf0756ca8af14ba47d251e0dfb095ec3407bd2c5ae313ceca9039d1e08993",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U2_front",
+      "surface": "clay",
+      "file": "clay_opening_U2_front.png",
+      "camera": {
+        "position": [
+          3.1106428571428575,
+          6.073415492957746,
+          3.7
+        ],
+        "target": [
+          3.1106428571428575,
+          5.923415492957746,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "21e01117bfded87c36981a6f0de73e28a46ff0f27a8d9b6898454046017a1813",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U2_left",
+      "surface": "clay",
+      "file": "clay_opening_U2_left.png",
+      "camera": {
+        "position": [
+          0.964642857142858,
+          6.073415492957746,
+          3.7
+        ],
+        "target": [
+          3.1106428571428575,
+          5.923415492957746,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "98453bbda4d8062ddecba5732fb664c2fb289fc941e51340aea62441b321c84f",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U2_right",
+      "surface": "clay",
+      "file": "clay_opening_U2_right.png",
+      "camera": {
+        "position": [
+          5.256642857142857,
+          6.073415492957746,
+          3.7
+        ],
+        "target": [
+          3.1106428571428575,
+          5.923415492957746,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "71aab79803202526da1ed4accfe789c6e0da8f688f54e008b0fbc11c1b88c355",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U3_front",
+      "surface": "clay",
+      "file": "clay_opening_U3_front.png",
+      "camera": {
+        "position": [
+          6.202785714285715,
+          6.136795774647887,
+          3.7
+        ],
+        "target": [
+          6.202785714285715,
+          5.986795774647887,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "5401ea294a52efcad055d0f8393e205ec29f2e2c0b1dff8778255436c92027e2",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U3_left",
+      "surface": "clay",
+      "file": "clay_opening_U3_left.png",
+      "camera": {
+        "position": [
+          4.056785714285715,
+          6.136795774647888,
+          3.7
+        ],
+        "target": [
+          6.202785714285715,
+          5.986795774647887,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "b19aab99707f43c593d8a27e6f1c498d6789344ea2543c4d702d533968969ffa",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_U3_right",
+      "surface": "clay",
+      "file": "clay_opening_U3_right.png",
+      "camera": {
+        "position": [
+          8.348785714285714,
+          6.136795774647888,
+          3.7
+        ],
+        "target": [
+          6.202785714285715,
+          5.986795774647887,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "591fd301d9ab210d149ba7205ca99d1318d7228151d4193672bd4d45f8ef31f0",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_D1_front",
+      "surface": "clay",
+      "file": "clay_opening_D1_front.png",
+      "camera": {
+        "position": [
+          6.221285714285715,
+          1.5998239436619717,
+          4.6
+        ],
+        "target": [
+          6.221285714285715,
+          1.4498239436619718,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "b7d00e4350eb1268c39b1312532917a3dd57a8a024c13cab96c2d51b6773e690",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_D1_left",
+      "surface": "clay",
+      "file": "clay_opening_D1_left.png",
+      "camera": {
+        "position": [
+          3.553285714285715,
+          1.5998239436619717,
+          4.6000000000000005
+        ],
+        "target": [
+          6.221285714285715,
+          1.4498239436619718,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "f95b67828ab3299d4ddf61f7193520a421df77a4ba78715743cd7c4019b145ab",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "opening_D1_right",
+      "surface": "clay",
+      "file": "clay_opening_D1_right.png",
+      "camera": {
+        "position": [
+          8.889285714285714,
+          1.5998239436619717,
+          4.6
+        ],
+        "target": [
+          6.221285714285715,
+          1.4498239436619718,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "67006a6cb9a60a2fde1f4ffa3a5f0f9a4e88cd518c214e5842a3d5577b4d628e",
+      "note": "Front/oblique opening registration unchanged; source resolution limits fine alignment. No new displacement of window or door geometry."
+    },
+    {
+      "view": "detail_pipe_hidden",
+      "surface": "texture",
+      "file": "texture_pipe_hidden.png",
+      "camera": {
+        "position": [
+          -2,
+          4,
+          3
+        ],
+        "target": [
+          0.15,
+          3.8,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "reviewed": true,
+      "sha256": "e60500665a8557f344f3f81efbc030b78b603a6564143e41c81a1d5168c38b25",
+      "note": "Reviewed in contact sheets 00–08; unchanged model parts retain previous historical limitations."
+    }
+  ],
+  "limitations": [
+    "Indirect house attribution",
+    "Unobserved rear elevations",
+    "Low-resolution source and residual painted irregularities",
+    "Inherited eyebrow tile seams and coarse hidden elevations; not promoted to street"
+  ]
+}

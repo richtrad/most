@@ -1,0 +1,83 @@
+{
+  "blend_reopened": true,
+  "triangles": 2941,
+  "packed_images": [
+    {
+      "name": "cp_261_001_col_cr_front.png",
+      "size": [
+        1306,
+        1204
+      ]
+    },
+    {
+      "name": "facade_before.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "generated_plaster_periodic.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "generated_stone_periodic.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "generated_wood.png",
+      "size": [
+        744,
+        744
+      ]
+    },
+    {
+      "name": "registered_facade.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "roof_material_v2.png",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "window_timber.png",
+      "size": [
+        32,
+        512
+      ]
+    }
+  ],
+  "exports": {
+    "cp261_before.glb": {
+      "bytes": 18183644,
+      "sha256": "3b7587d3180f28a5dd16f58367db1a4e926de47879fcb3ef42b319bbaf0c60d8",
+      "embedded_images": 8,
+      "meshes": 14
+    },
+    "cp261_v8.glb": {
+      "bytes": 17784040,
+      "sha256": "2b1bac8098a0c6c7b0959f1018f835302d766d1c902cc73dc5b5843f280572b4",
+      "embedded_images": 8,
+      "meshes": 14
+    },
+    "cp261_v8_lod1.glb": {
+      "bytes": 10949260,
+      "sha256": "a90f048523970ae34323715a501f26ddc8244f59df2c4396b4b748075ddebd48",
+      "embedded_images": 8,
+      "meshes": 14
+    }
+  },
+  "lod_policy": "Same low-poly geometry; textures above 1024px downsampled, no decimation of frames or returns"
+}

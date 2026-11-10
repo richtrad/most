@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kolorování Žatecké | MOST</title>
+<meta name="description" content="Průběžný stav kolorování historických fotografií Žatecké ulice, včetně ověřených výstupů a otevřených kontrol.">
+<style>
+:root{color-scheme:light;--ink:#282822;--muted:#625f58;--paper:#f1eee8;--card:#fffdf8;--line:#d8d1c5;--accent:#8a3e29;--notice:#e4ded3}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.65 system-ui,sans-serif}
+main{max-width:1020px;margin:auto;padding:1.5rem 1.25rem 5rem}nav{display:flex;flex-wrap:wrap;gap:.4rem 1rem}a{color:var(--accent)}header{padding:2rem 0;border-bottom:1px solid #bdb7ac}h1{font-size:clamp(2rem,5vw,4rem);line-height:1.05;max-width:760px;margin:.5rem 0 1rem}h2{margin-top:2.6rem;line-height:1.2}small,.muted{color:var(--muted)}.status{padding:1.2rem 1.4rem;border-left:5px solid var(--accent);background:var(--notice);margin:1.5rem 0}.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:1rem}.facts article{background:var(--card);padding:1rem 1.2rem;border:1px solid var(--line)}figure{margin:1.5rem 0;background:var(--card);border:1px solid var(--line);padding:.8rem}figure img{display:block;width:100%;height:auto;max-height:78vh;object-fit:contain;background:#ddd}figcaption{padding:.8rem .25rem .2rem;color:var(--muted)}code{background:var(--notice);padding:.15rem .35rem}.tag{display:inline-block;border:1px solid var(--line);padding:.1rem .5rem;border-radius:1rem;font-size:.9rem}footer{margin-top:3rem;border-top:1px solid var(--line);padding-top:1rem}
+</style>
+</head>
+<body>
+<main>
+<nav aria-label="Navigace Žatecká">
+<a href="/most/zatecka_public/">← Žatecká: celá ulice a 3D rekonstrukce</a>
+<a href="/most/zatecka/">Technická verze</a>
+</nav>
+<header>
+<p>GRAFIT / MOST · ŽATECKÁ · KOLOROVÁNÍ</p>
+<h1>Barvy se ověřují po jednotlivých fotografiích</h1>
+<p class="muted">Průběžný stav k 22. říjnu 2026</p>
+</header>
+
+<section class="status">
+<strong>Historické barvy zatím nejsou součástí veřejného 3D modelu.</strong>
+Šest výstupů z předchozí dávky má ověřenou vzdálenou shodu bajtů. Pět samostatných snímků nyní prošlo auditem „bez výřezu“; přiřazení jednoho sdíleného záběru cp1907_002 zůstává v lidské kontrole.
+</section>
+
+<h2>Ukázka podle uživatelského rozhodnutí</h2>
+<p>Uživatel v JSONu vybral také koloraci cp699_002 se směrovou cedulí, určenou jako ilustraci pro web. Cedule je zachovaná a čitelná. Barvy jsou pracovní hypotézy; dráty v záběru zůstaly, takže obrázek není schválenou čistou materiálovou referencí pro databázi ani 3D model.</p>
+<figure>
+<img src="/most/zatecka_public/assets/cp699_002-colorized-web-preview.jpg" alt="Pracovní kolorizační ukázka domu čp. 699 se zachovanou směrovou cedulí; dráty zůstávají v záběru.">
+<figcaption><span class="tag">pracovní hypotéza</span> cp699_002 · webový náhled 720 × 986 px. Lokální kontrolní kandidát má rozměr 2160 × 2958 px a zachovává původní tonální detail; plné produkční QA ještě neprošel.</figcaption>
+</figure>
+
+<div class="facts">
+<article><strong>32 případů</strong><br>poznámky v uživatelském JSONu zahrnují kolorování, rekonstrukci oblasti i využití textur</article>
+<article><strong>6 dříve ověřených výstupů</strong><br>vzdálené ověření kontrolním hashem z předchozí dávky</article>
+<article><strong>5 uzavřených crop auditů</strong><br>samostatné snímky jednoho čp. zůstávají jako celé fotografie</article>
+<article><strong>1 otevřené přiřazení</strong><br>cp1907_002 zobrazuje více navazujících částí domu; hranice čp. vyžaduje ověření</article>
+</div>
+
+<h2>Rozlišení a metodika</h2>
+<p>První obrazový výstup cp699_002 měl jen 1072 × 1467 px oproti zdroji 2160 × 2958 px. Nová webová ukázka vychází z přímého předání souboru a při zachování původního plnorozlišovacího tonálního detailu dosahuje rozměrů předlohy. Barevné odhady a zakryté plochy zůstávají provizorní.</p>
+<p>Každý databázový výstup se kontroluje proti předloze: identita domu, poloha a počet otvorů, poškození, nápisy, překážky, okraje a materiálová návaznost. Nejasné snímky se nepřiřazují automaticky.</p>
+<p><a href="/most/zatecka_public/">Prohlédnout celou Žateckou v 3D rekonstrukci</a> · <a href="/most/zatecka/">Technická zpráva</a></p>
+<footer><small>Projekt MOST · GRAFIT FIT ČVUT · výzkumná rekonstrukce; neověřené odstíny jsou hypotézy, nikoli historický fakt.</small></footer>
+</main>
+</body>
+</html>

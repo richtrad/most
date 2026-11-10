@@ -1,0 +1,586 @@
+{
+  "status": "experimental_visual_review_complete",
+  "workflow_promoted": false,
+  "baseline": "v10",
+  "views": {
+    "detail_dormer_front": {
+      "label": "Vikýř · čelo",
+      "position": [
+        7.285,
+        8.6,
+        4.0
+      ],
+      "target": [
+        7.285,
+        8.5,
+        -0.5
+      ],
+      "fov": 38
+    },
+    "detail_dormer_back": {
+      "label": "Vikýř · napojení zezadu",
+      "position": [
+        9.1,
+        10.7,
+        -5.3
+      ],
+      "target": [
+        7.285,
+        8.7,
+        -1.7
+      ],
+      "fov": 38
+    },
+    "detail_dormer_side": {
+      "label": "Vikýř · bok",
+      "position": [
+        10.5,
+        9.4,
+        -0.7
+      ],
+      "target": [
+        7.285,
+        8.4,
+        -1.5
+      ],
+      "fov": 38
+    },
+    "detail_dormer_top": {
+      "label": "Vikýř · shora",
+      "position": [
+        7.285,
+        13,
+        -1.8
+      ],
+      "target": [
+        7.285,
+        8.5,
+        -1.5
+      ],
+      "fov": 38
+    },
+    "detail_steps_below": {
+      "label": "Schody · spodní spoj",
+      "position": [
+        -0.5,
+        -1.8,
+        2.8
+      ],
+      "target": [
+        1.23,
+        0.0,
+        0.0
+      ],
+      "fov": 38
+    },
+    "detail_steps": {
+      "label": "Schody a práh",
+      "position": [
+        -1.1,
+        1.65,
+        2.8
+      ],
+      "target": [
+        1.23,
+        0.5,
+        0.25
+      ],
+      "fov": 38
+    },
+    "detail_steps_right": {
+      "label": "Schody zprava",
+      "position": [
+        3.7,
+        1.6,
+        2.7
+      ],
+      "target": [
+        1.23,
+        0.5,
+        0.25
+      ],
+      "fov": 38
+    },
+    "detail_pipe": {
+      "label": "Pravý svod",
+      "position": [
+        17,
+        6.7,
+        5
+      ],
+      "target": [
+        13.25,
+        4.7,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_pipe_top": {
+      "label": "Napojení svodu",
+      "position": [
+        15.3,
+        7.5,
+        2.7
+      ],
+      "target": [
+        13.3,
+        6.5,
+        0
+      ],
+      "fov": 38
+    },
+    "axis_front": {
+      "label": "Průčelí",
+      "position": [
+        6.87,
+        6,
+        25
+      ],
+      "target": [
+        6.87,
+        6,
+        0
+      ],
+      "fov": 38
+    },
+    "axis_right": {
+      "label": "Pravá strana",
+      "position": [
+        37,
+        7,
+        -6.9
+      ],
+      "target": [
+        6.87,
+        6,
+        -6.9
+      ],
+      "fov": 38
+    },
+    "axis_back": {
+      "label": "Zadní strana",
+      "position": [
+        6.87,
+        7,
+        -38
+      ],
+      "target": [
+        6.87,
+        6,
+        -6.9
+      ],
+      "fov": 38
+    },
+    "axis_left": {
+      "label": "Levá strana",
+      "position": [
+        -24,
+        7,
+        -6.9
+      ],
+      "target": [
+        6.87,
+        6,
+        -6.9
+      ],
+      "fov": 38
+    },
+    "roof_oblique_front_left": {
+      "label": "Střecha · přední levý roh",
+      "position": [
+        -15,
+        23,
+        22
+      ],
+      "target": [
+        6.87,
+        7,
+        -5
+      ],
+      "fov": 38
+    },
+    "roof_oblique_front_right": {
+      "label": "Střecha · přední pravý roh",
+      "position": [
+        29,
+        23,
+        22
+      ],
+      "target": [
+        6.87,
+        7,
+        -5
+      ],
+      "fov": 38
+    },
+    "roof_oblique_back_left": {
+      "label": "Střecha · zadní levý roh",
+      "position": [
+        -15,
+        23,
+        -33
+      ],
+      "target": [
+        6.87,
+        7,
+        -6
+      ],
+      "fov": 38
+    },
+    "roof_oblique_back_right": {
+      "label": "Střecha · zadní pravý roh",
+      "position": [
+        29,
+        23,
+        -33
+      ],
+      "target": [
+        6.87,
+        7,
+        -6
+      ],
+      "fov": 38
+    },
+    "detail_facade": {
+      "label": "Detail průčelí",
+      "position": [
+        6.8,
+        4.2,
+        19
+      ],
+      "target": [
+        6.8,
+        3.7,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_window": {
+      "label": "Okno a ostění zleva",
+      "position": [
+        2.5,
+        5.7,
+        4.5
+      ],
+      "target": [
+        5.8,
+        5.4,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_window_right": {
+      "label": "Okno a ostění zprava",
+      "position": [
+        9.6,
+        5.7,
+        4.5
+      ],
+      "target": [
+        8.05,
+        5.4,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_door": {
+      "label": "Dveře",
+      "position": [
+        -1,
+        2.2,
+        4.0
+      ],
+      "target": [
+        1.2,
+        1.3,
+        -0.1
+      ],
+      "fov": 38
+    },
+    "detail_corner": {
+      "label": "Nároží",
+      "position": [
+        -4,
+        4,
+        5
+      ],
+      "target": [
+        0.4,
+        3.6,
+        -0.2
+      ],
+      "fov": 38
+    },
+    "detail_cornice": {
+      "label": "Římsa a okap",
+      "position": [
+        8,
+        9.0,
+        5.2
+      ],
+      "target": [
+        6.5,
+        6.9,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_damage": {
+      "label": "Poškození omítky",
+      "position": [
+        4.2,
+        4.8,
+        4
+      ],
+      "target": [
+        4.2,
+        4.8,
+        0
+      ],
+      "fov": 38
+    },
+    "detail_roof": {
+      "label": "Vikýře",
+      "position": [
+        3.6,
+        12.3,
+        9
+      ],
+      "target": [
+        7.1,
+        9,
+        -2.4
+      ],
+      "fov": 38
+    },
+    "macro_sill": {
+      "label": "Makro · parapet",
+      "position": [
+        5.5,
+        4.65,
+        1.0
+      ],
+      "target": [
+        5.91,
+        4.37,
+        0.08
+      ],
+      "fov": 38
+    },
+    "macro_steps": {
+      "label": "Makro · hrana schodu",
+      "position": [
+        0.3,
+        0.6,
+        1.8
+      ],
+      "target": [
+        1.23,
+        0.17,
+        1.0
+      ],
+      "fov": 38
+    },
+    "macro_arch": {
+      "label": "Makro · lem oblouku",
+      "position": [
+        6.7,
+        9.8,
+        1.4
+      ],
+      "target": [
+        7.285,
+        9.15,
+        -0.33
+      ],
+      "fov": 38
+    }
+  },
+  "notes": "Reviewed all textured/clay views: no new holes, texture bleed or stair/base overlap found. C has stronger thin material transition at sills. B is an initial candidate, not approved standard. Existing combined trim mesh has 172 nonmanifold edges; steps and arch remain closed. Other 12 objects unchanged. Historical radii unknown.",
+  "identity": "identity.png",
+  "variants": {
+    "a": {
+      "screenshots": [
+        "a/clay_axis_back.png",
+        "a/clay_axis_front.png",
+        "a/clay_axis_left.png",
+        "a/clay_axis_right.png",
+        "a/clay_detail_corner.png",
+        "a/clay_detail_cornice.png",
+        "a/clay_detail_damage.png",
+        "a/clay_detail_door.png",
+        "a/clay_detail_dormer_back.png",
+        "a/clay_detail_dormer_front.png",
+        "a/clay_detail_dormer_side.png",
+        "a/clay_detail_dormer_top.png",
+        "a/clay_detail_facade.png",
+        "a/clay_detail_pipe.png",
+        "a/clay_detail_pipe_top.png",
+        "a/clay_detail_roof.png",
+        "a/clay_detail_steps.png",
+        "a/clay_detail_steps_below.png",
+        "a/clay_detail_steps_right.png",
+        "a/clay_detail_window.png",
+        "a/clay_detail_window_right.png",
+        "a/clay_macro_arch.png",
+        "a/clay_macro_sill.png",
+        "a/clay_macro_steps.png",
+        "a/clay_roof_oblique_back_left.png",
+        "a/clay_roof_oblique_back_right.png",
+        "a/clay_roof_oblique_front_left.png",
+        "a/clay_roof_oblique_front_right.png",
+        "a/texture_axis_back.png",
+        "a/texture_axis_front.png",
+        "a/texture_axis_left.png",
+        "a/texture_axis_right.png",
+        "a/texture_detail_corner.png",
+        "a/texture_detail_cornice.png",
+        "a/texture_detail_damage.png",
+        "a/texture_detail_door.png",
+        "a/texture_detail_dormer_back.png",
+        "a/texture_detail_dormer_front.png",
+        "a/texture_detail_dormer_side.png",
+        "a/texture_detail_dormer_top.png",
+        "a/texture_detail_facade.png",
+        "a/texture_detail_pipe.png",
+        "a/texture_detail_pipe_top.png",
+        "a/texture_detail_roof.png",
+        "a/texture_detail_steps.png",
+        "a/texture_detail_steps_below.png",
+        "a/texture_detail_steps_right.png",
+        "a/texture_detail_window.png",
+        "a/texture_detail_window_right.png",
+        "a/texture_macro_arch.png",
+        "a/texture_macro_sill.png",
+        "a/texture_macro_steps.png",
+        "a/texture_roof_oblique_back_left.png",
+        "a/texture_roof_oblique_back_right.png",
+        "a/texture_roof_oblique_front_left.png",
+        "a/texture_roof_oblique_front_right.png"
+      ],
+      "reviewed": true
+    },
+    "b": {
+      "screenshots": [
+        "b/clay_axis_back.png",
+        "b/clay_axis_front.png",
+        "b/clay_axis_left.png",
+        "b/clay_axis_right.png",
+        "b/clay_detail_corner.png",
+        "b/clay_detail_cornice.png",
+        "b/clay_detail_damage.png",
+        "b/clay_detail_door.png",
+        "b/clay_detail_dormer_back.png",
+        "b/clay_detail_dormer_front.png",
+        "b/clay_detail_dormer_side.png",
+        "b/clay_detail_dormer_top.png",
+        "b/clay_detail_facade.png",
+        "b/clay_detail_pipe.png",
+        "b/clay_detail_pipe_top.png",
+        "b/clay_detail_roof.png",
+        "b/clay_detail_steps.png",
+        "b/clay_detail_steps_below.png",
+        "b/clay_detail_steps_right.png",
+        "b/clay_detail_window.png",
+        "b/clay_detail_window_right.png",
+        "b/clay_macro_arch.png",
+        "b/clay_macro_sill.png",
+        "b/clay_macro_steps.png",
+        "b/clay_roof_oblique_back_left.png",
+        "b/clay_roof_oblique_back_right.png",
+        "b/clay_roof_oblique_front_left.png",
+        "b/clay_roof_oblique_front_right.png",
+        "b/texture_axis_back.png",
+        "b/texture_axis_front.png",
+        "b/texture_axis_left.png",
+        "b/texture_axis_right.png",
+        "b/texture_detail_corner.png",
+        "b/texture_detail_cornice.png",
+        "b/texture_detail_damage.png",
+        "b/texture_detail_door.png",
+        "b/texture_detail_dormer_back.png",
+        "b/texture_detail_dormer_front.png",
+        "b/texture_detail_dormer_side.png",
+        "b/texture_detail_dormer_top.png",
+        "b/texture_detail_facade.png",
+        "b/texture_detail_pipe.png",
+        "b/texture_detail_pipe_top.png",
+        "b/texture_detail_roof.png",
+        "b/texture_detail_steps.png",
+        "b/texture_detail_steps_below.png",
+        "b/texture_detail_steps_right.png",
+        "b/texture_detail_window.png",
+        "b/texture_detail_window_right.png",
+        "b/texture_macro_arch.png",
+        "b/texture_macro_sill.png",
+        "b/texture_macro_steps.png",
+        "b/texture_roof_oblique_back_left.png",
+        "b/texture_roof_oblique_back_right.png",
+        "b/texture_roof_oblique_front_left.png",
+        "b/texture_roof_oblique_front_right.png"
+      ],
+      "reviewed": true
+    },
+    "c": {
+      "screenshots": [
+        "c/clay_axis_back.png",
+        "c/clay_axis_front.png",
+        "c/clay_axis_left.png",
+        "c/clay_axis_right.png",
+        "c/clay_detail_corner.png",
+        "c/clay_detail_cornice.png",
+        "c/clay_detail_damage.png",
+        "c/clay_detail_door.png",
+        "c/clay_detail_dormer_back.png",
+        "c/clay_detail_dormer_front.png",
+        "c/clay_detail_dormer_side.png",
+        "c/clay_detail_dormer_top.png",
+        "c/clay_detail_facade.png",
+        "c/clay_detail_pipe.png",
+        "c/clay_detail_pipe_top.png",
+        "c/clay_detail_roof.png",
+        "c/clay_detail_steps.png",
+        "c/clay_detail_steps_below.png",
+        "c/clay_detail_steps_right.png",
+        "c/clay_detail_window.png",
+        "c/clay_detail_window_right.png",
+        "c/clay_macro_arch.png",
+        "c/clay_macro_sill.png",
+        "c/clay_macro_steps.png",
+        "c/clay_roof_oblique_back_left.png",
+        "c/clay_roof_oblique_back_right.png",
+        "c/clay_roof_oblique_front_left.png",
+        "c/clay_roof_oblique_front_right.png",
+        "c/texture_axis_back.png",
+        "c/texture_axis_front.png",
+        "c/texture_axis_left.png",
+        "c/texture_axis_right.png",
+        "c/texture_detail_corner.png",
+        "c/texture_detail_cornice.png",
+        "c/texture_detail_damage.png",
+        "c/texture_detail_door.png",
+        "c/texture_detail_dormer_back.png",
+        "c/texture_detail_dormer_front.png",
+        "c/texture_detail_dormer_side.png",
+        "c/texture_detail_dormer_top.png",
+        "c/texture_detail_facade.png",
+        "c/texture_detail_pipe.png",
+        "c/texture_detail_pipe_top.png",
+        "c/texture_detail_roof.png",
+        "c/texture_detail_steps.png",
+        "c/texture_detail_steps_below.png",
+        "c/texture_detail_steps_right.png",
+        "c/texture_detail_window.png",
+        "c/texture_detail_window_right.png",
+        "c/texture_macro_arch.png",
+        "c/texture_macro_sill.png",
+        "c/texture_macro_steps.png",
+        "c/texture_roof_oblique_back_left.png",
+        "c/texture_roof_oblique_back_right.png",
+        "c/texture_roof_oblique_front_left.png",
+        "c/texture_roof_oblique_front_right.png"
+      ],
+      "reviewed": true
+    }
+  }
+}

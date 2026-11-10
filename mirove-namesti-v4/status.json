@@ -1,0 +1,719 @@
+{
+  "title": "Mírové náměstí v4 — unfinished HD working assembly",
+  "coverage": {
+    "placed_houses": 57,
+    "square_placed": 32,
+    "square_catalogue": 33,
+    "context_placed": 25,
+    "inherited_detail": 2,
+    "inherited_proxy": 55,
+    "new_geometry_houses": 0,
+    "new_inpainting_runs": 0,
+    "qa_passed_houses": 0,
+    "unplaced": [
+      44
+    ]
+  },
+  "historical_qa_passed": false,
+  "browser_qa": "not_completed_before_publication",
+  "houses": [
+    {
+      "cp": 12,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 11,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 9,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 135,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 136,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 137,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 26,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 35,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 42,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 43,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 45,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 46,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 47,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 451,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 186,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 185,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 275,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 51,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 50,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 49,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 48,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 216,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 274,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 187,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 54,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 55,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 56,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 57,
+      "scope": "square",
+      "status": "inherited_detail_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Shared GIS133 split 83/17 inherited photographic hypothesis; not confirmed cadastral division.",
+        "Rear/courtyard not registered; exact original damage not completely retained in prior FRONT.",
+        "Fine detail partly photographic, return materials inherited generated hypotheses."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 59,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 60,
+      "scope": "square",
+      "status": "inherited_detail_hd_qa_failed",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Rear/courtyard not registered; exact original damage not completely retained in prior FRONT.",
+        "Fine detail partly photographic, return materials inherited generated hypotheses.",
+        "VISUALLY FAILED inherited side/rear texture: obvious tiled donor grid and horizontal bands. HD recovery does not repair this."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 61,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 62,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 63,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 53,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 74,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 75,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 76,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 77,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 78,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 79,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 80,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 82,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 83,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 1392,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 1,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 2,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 106,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 105,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 104,
+      "scope": "context",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 3,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 4,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 5,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 6,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 7,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 134,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 8,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 58,
+      "scope": "square",
+      "status": "inherited_proxy_hd_review_pending",
+      "limitations": [
+        "Historical epoch unresolved; no new geometry or identity approval.",
+        "Roof form and heights inherited provisional.",
+        "Browser QA pending due explicit policy block.",
+        "Coarse GIS proxy and candidate FRONT; every opening uncalibrated; no new detailed reconstruction.",
+        "Shared GIS133 split 83/17 inherited photographic hypothesis; not confirmed cadastral division."
+      ],
+      "new_geometry": false
+    },
+    {
+      "cp": 44,
+      "scope": "square",
+      "status": "blocked_no_footprint",
+      "limitations": [
+        "No independently documented GIS footprint; omitted to avoid guessed overlap."
+      ],
+      "new_geometry": false
+    }
+  ]
+}

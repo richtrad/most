@@ -1,0 +1,41 @@
+{
+  "metric": "Account-wide rounded weekly usedPercent; not exact task tokens",
+  "window_minutes": 10080,
+  "samples": [
+    {
+      "stage": "start",
+      "used_percent": 63,
+      "timestamp": "2026-10-02 before source research; exact timestamp not retained"
+    },
+    {
+      "stage": "sources selected/live API",
+      "used_percent": 64,
+      "timestamp": "2026-10-02 after source research"
+    },
+    {
+      "stage": "UV materials and initial build",
+      "used_percent": 64,
+      "timestamp": "2026-10-02 before first full QA"
+    },
+    {
+      "stage": "first full QA + corrections",
+      "used_percent": 64,
+      "timestamp": "2026-10-02 around 07:37 +02:00"
+    },
+    {
+      "stage": "profile registration + second inpaint",
+      "used_percent": 65,
+      "timestamp": "2026-10-02T07:47:07+02:00"
+    },
+    {
+      "stage": "final before delivery",
+      "timestamp": "2026-10-02 06:19:05 UTC",
+      "used_percent": 65
+    }
+  ],
+  "delta_so_far_percentage_points": 2,
+  "can_rank_exact_token_cost_by_stage": false,
+  "image_generation_separate_model": true,
+  "limits": "Other account activity and integer rounding prevent attribution. Exact per-request input/output tokens unavailable from this tool.",
+  "final_used_percent": 65
+}

@@ -1,0 +1,1104 @@
+{
+ "assets/src/30606cd1a985dbf3.jpg": {
+  "source": "cp_426_002_col.png",
+  "tags": [
+   "PHOTO",
+   "BW",
+   "COLOR"
+  ],
+  "source_sha256": "30606cd1a985dbf39584fd7be797270a8b74b396ad5a5c562b03a78f3342f007",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   670
+  ]
+ },
+ "assets/src/b7f4df41091156b7.jpg": {
+  "source": "cp_426,540_009.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "b7f4df41091156b74e00ac16837c185639e414e4d376652f60dbd80490e5061c",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   563
+  ]
+ },
+ "assets/src/2f0ade6cf435db73.jpg": {
+  "source": "cp_426_001.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "2f0ade6cf435db73c5003a18c129a1e31f99ee301787db6a0a0824c1a817833a",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   642,
+   900
+  ]
+ },
+ "assets/src/290afd92b1cf61da.jpg": {
+  "source": "cp_426,540_010.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "290afd92b1cf61dab6ae3e6acf2a0df846f24807e6637021b431f4671e72aa67",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   540,
+   900
+  ]
+ },
+ "assets/src/3e4a46a9a4e063c3.jpg": {
+  "source": "cp_426,540_003.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "3e4a46a9a4e063c35016a698dfdd86f3e5302efd24a8ea31b61463078bc3231b",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   716
+  ]
+ },
+ "assets/src/16a0dafa31a17f99.jpg": {
+  "source": "cp_426,540_001.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "16a0dafa31a17f99736523683adde3bb8442801f840f7fcae97b4043e018b86a",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   664
+  ]
+ },
+ "assets/src/c66dda9dd381b047.jpg": {
+  "source": "cp_426_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "c66dda9dd381b047f884718bf7ec454ccd990d9aa336c05d00d89c6054af1b37",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   664
+  ]
+ },
+ "assets/src/60c626ac7ad72d88.jpg": {
+  "source": "cp_426,540_004.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "60c626ac7ad72d88f0f21d43e7be842cc5274a2af1d2f59a07a49f21d5939579",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   731
+  ]
+ },
+ "assets/src/a0e18c94370bdc01.jpg": {
+  "source": "cp_426,540_006.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "a0e18c94370bdc015e76c50d74da4baa53db4727c77c02b59f679202d11b44b8",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   845
+  ]
+ },
+ "assets/src/48a9e7337d9830a0.jpg": {
+  "source": "cp_426,540_005.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "48a9e7337d9830a01cb391ee1acd061fc6684cb393eb0f79f599e0abea2f1e50",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   858,
+   900
+  ]
+ },
+ "assets/src/036aac9df7cfa779.jpg": {
+  "source": "cp_426_002.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "036aac9df7cfa77992043587b8bbd96a70e9a86cde981f33c9cc46d62da43e03",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   669
+  ]
+ },
+ "assets/src/72e0d77e7ebb27f5.jpg": {
+  "source": "cp_426,540_002.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "72e0d77e7ebb27f5dcd465a9ab4370c4effe329b7cbf099a8feaaa4041ce385f",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   647
+  ]
+ },
+ "assets/src/0ccebaf2967696ea.jpg": {
+  "source": "cp_426,540_007.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "0ccebaf2967696ea34263231e634cb93a5b6552b301ff044045adc572848f1f8",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   503
+  ]
+ },
+ "assets/src/0ac8965fd2231b51.jpg": {
+  "source": "cp_426_002.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "0ac8965fd2231b51d77c2271b16c6bf4788bf1c00ff2de2aee9e1b97c18abc5e",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   644,
+   900
+  ]
+ },
+ "assets/src/0ab9c591a83e9005.jpg": {
+  "source": "cp_426,540_011.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "0ab9c591a83e9005e1a774250304e4e9b3e183ea819fcaa09995e50f81808bc1",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   735
+  ]
+ },
+ "assets/src/6a1bb24d673bb598.jpg": {
+  "source": "cp_426,540_008.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "6a1bb24d673bb598ed7b01f265b2b4518f82f911c765dfd2d6314ed35579e880",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   676
+  ]
+ },
+ "assets/src/d0bc2249050e82eb.jpg": {
+  "source": "cp_1425_001_col.png",
+  "tags": [
+   "PHOTO",
+   "BW",
+   "COLOR"
+  ],
+  "source_sha256": "d0bc2249050e82eb9789d61cb5a83a48117344713d8966ca0c1ba987135a2036",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   671,
+   900
+  ]
+ },
+ "assets/src/78bbfa8159626706.jpg": {
+  "source": "cp_1425_003.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "78bbfa815962670663e374cb6e790b1c48058af0d52bce1fd583dffb9f97024f",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   615
+  ]
+ },
+ "assets/src/d3d68c78360d3b70.jpg": {
+  "source": "cp_1425_001.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "d3d68c78360d3b70082995226c9771eb1297957abf8687b4c6cf6060b22f4f8d",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   638,
+   900
+  ]
+ },
+ "assets/src/9969d6807b256d9e.jpg": {
+  "source": "cp_1425_002.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "9969d6807b256d9e4f93876f31727768a399714b6f82fd4d16d39c5b9561ae90",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   638,
+   900
+  ]
+ },
+ "assets/src/c01423ab4f2388a0.jpg": {
+  "source": "cp_1425_005.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "c01423ab4f2388a0dd2cdc5f5b1cbf1ae4826f8b7955a60b4a5ff73b0885b8b6",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   618
+  ]
+ },
+ "assets/src/5f2a2643bec8aa93.jpg": {
+  "source": "cp_1425_001.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "5f2a2643bec8aa93e33e86ddd56672cf05ac777614319cb1cfc2624c6e8a2730",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   639,
+   900
+  ]
+ },
+ "assets/src/833990fb18819d63.jpg": {
+  "source": "cp_1425_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "833990fb18819d63cae90412297a0f7bbf7f367e67f4607426e12842a97aaa2d",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   671,
+   900
+  ]
+ },
+ "assets/src/e8f3edde6e02f483.jpg": {
+  "source": "cp_1425_003.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "e8f3edde6e02f483ce7445da1e36a804e28ae317a183e26d3c6ba330b351ad2a",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   671,
+   900
+  ]
+ },
+ "assets/src/f1de0fe27f8b1e25.jpg": {
+  "source": "cp_1425_001__2.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "f1de0fe27f8b1e25ecd130099901446e33a757b11f368a11a874caa2a9e34cdb",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   734
+  ]
+ },
+ "assets/src/a3237c10c82b11c5.jpg": {
+  "source": "cp_1425_004.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "a3237c10c82b11c52b5b4ac687b6e77e66f3e0ead52f1a2f80a4284dcee1dc0d",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   541
+  ]
+ },
+ "assets/src/17638360d8fddc38.jpg": {
+  "source": "cp_1425_003.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "17638360d8fddc38367933bab1463ad3271537ffa66762c22328a356ce4c844e",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   644,
+   900
+  ]
+ },
+ "assets/src/c9f41a51ac9d3974.jpg": {
+  "source": "cp_1425_002.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "c9f41a51ac9d3974f5776a64772dc5eba8c72c07f9199fc20e6de446eb801987",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   673,
+   900
+  ]
+ },
+ "assets/src/ad132c3ec85d2063.jpg": {
+  "source": "cp_1425_002.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "ad132c3ec85d206316a319f627b7e72ab18e2179726bcb261c2ff19ebde4a1dc",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   638,
+   900
+  ]
+ },
+ "assets/src/a1eab7a9520f6885.jpg": {
+  "source": "cp_1425_001.jpg",
+  "tags": [],
+  "source_sha256": "a1eab7a9520f6885e8537258d29370b397865bf5f82f7ecd7a650bf4319ab9fb",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/houses/cp426_oblique.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_426\\cp_426_G_r1_mat_roof_front_right.png",
+  "note": "QA render of cp_426_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp426_front.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_426\\cp_426_G_r1_mat_front.png",
+  "note": "QA render of cp_426_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp426_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_426\\cp_426_G_r1_clay_roof_front_left.png",
+  "note": "QA render of cp_426_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp426_qa_mat.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_426\\sheet_426_r1_mat.jpg"
+ },
+ "assets/houses/cp426_qa_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_426\\sheet_426_r1_clay.jpg"
+ },
+ "assets/houses/cp426_details.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_426\\sheet_426_r1_details.jpg"
+ },
+ "assets/frames/cp426_rear1974_counts.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\count_frames\\cp426_rear1974_counts.jpg",
+  "note": "count frame: house in a red frame, opening IDs"
+ },
+ "assets/frames/cp426_vorderansicht1922_counts.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\count_frames\\cp426_vorderansicht1922_counts.jpg",
+  "note": "count frame: house in a red frame, opening IDs"
+ },
+ "models/cp426.glb": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\houses\\cp426\\r1\\cp_426_G_r1.glb",
+  "revision": "r1",
+  "note": "copy of the batch GLB (no packed images, material IDs only)",
+  "sha256": "918a5b5161887421c008c998016d354d437c6a36481ba28e56affe481f980186"
+ },
+ "assets/houses/cp1425_oblique.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1425\\cp_1425_G_r1_mat_roof_front_right.png",
+  "note": "QA render of cp_1425_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp1425_front.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1425\\cp_1425_G_r1_mat_front.png",
+  "note": "QA render of cp_1425_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp1425_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1425\\cp_1425_G_r1_clay_roof_front_left.png",
+  "note": "QA render of cp_1425_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp1425_qa_mat.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1425\\sheet_1425_r1_mat.jpg"
+ },
+ "assets/houses/cp1425_qa_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1425\\sheet_1425_r1_clay.jpg"
+ },
+ "assets/houses/cp1425_details.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1425\\sheet_1425_r1_details.jpg"
+ },
+ "assets/frames/cp1425_corner1974_counts.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\count_frames\\cp1425_corner1974_counts.jpg",
+  "note": "count frame: house in a red frame, opening IDs"
+ },
+ "assets/frames/cp1425_front1974_counts.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\count_frames\\cp1425_front1974_counts.jpg",
+  "note": "count frame: house in a red frame, opening IDs"
+ },
+ "assets/frames/cp1425_rear1974_counts.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\count_frames\\cp1425_rear1974_counts.jpg",
+  "note": "count frame: house in a red frame, opening IDs"
+ },
+ "models/cp1425.glb": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\houses\\cp1425\\r1\\cp_1425_G_r1.glb",
+  "revision": "r1",
+  "note": "copy of the batch GLB (no packed images, material IDs only)",
+  "sha256": "aa6a570506937942cd44222e02d69026d51b08389fcef7b88cdf7f632ec891ec"
+ },
+ "models/paridelska_street.glb": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\paridelska_street.glb",
+  "note": "street assembly (assemble_street.py), no packed images",
+  "sha256": "17f7080caf1333e190d1b05396ceafb267cbb5921be3376928d5da5d9ce42e09"
+ },
+ "assets/renders/oblique_villas_from_NW.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\oblique_villas_from_NW.png"
+ },
+ "assets/renders/oblique_villas_from_SE.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\oblique_villas_from_SE.png"
+ },
+ "assets/renders/street_level_from_NE.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\street_level_from_NE.png"
+ },
+ "assets/renders/street_level_from_SW.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\street_level_from_SW.png"
+ },
+ "assets/renders/top_ortho_all.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\top_ortho_all.png"
+ },
+ "assets/renders/top_ortho_street.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\top_ortho_street.png"
+ },
+ "assets/renders/villa_1425_from_street.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\villa_1425_from_street.png"
+ },
+ "assets/renders/villa_426_from_street.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\villa_426_from_street.png"
+ },
+ "assets/map.svg": {
+  "source": "gen/map.py from F:/MOST/analysis/gis_city_3d/scene-data.json (vectorised 1938 town plan)"
+ },
+ "viewer.js": {
+  "source": "gen/viewer.js (adapted from /most/kulova/viewer.js; composes the street from house GLBs when the street GLB is missing)"
+ },
+ "street.css": {
+  "source": "/most/kulova/street.css + additions"
+ },
+ "vendor/": {
+  "source": "/most/kulova/vendor (three.js, MIT, see LICENSE-three.txt)"
+ },
+ "assets/src/f7352d48f6321be3.jpg": {
+  "source": "cp_426_002.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "f7352d48f6321be300be85769ae757d629be514985f1088d910fb2db6fb580f8",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/c055672f6b44456d.jpg": {
+  "source": "cp_426_002__2.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "c055672f6b44456deea62e9919e9abd6f6f94e2e1e2f85cb92cdcecc38e19939",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   680,
+   900
+  ]
+ },
+ "assets/src/b7bd98e7e32d1056.jpg": {
+  "source": "cp_426_003.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "b7bd98e7e32d1056166ea63198218016d0d32f51947d38de052da606672ef5fc",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/e72aea5eb4bc407d.jpg": {
+  "source": "cp_426_004.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "e72aea5eb4bc407d855a2f3e7dbd1bb59869453f17d735aee5254b6a1cd29861",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   682,
+   900
+  ]
+ },
+ "assets/src/1b05ba6d7b561d6b.jpg": {
+  "source": "ATO119_10_18_053.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "1b05ba6d7b561d6bc54c9f13059d36f9df05532c9ddd58fd02629c32e1eead5c",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   671,
+   900
+  ]
+ },
+ "assets/src/87a041d86d955a2a.jpg": {
+  "source": "ATO119_10_5_037.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "87a041d86d955a2a2c978ac96d55dc1d49b89d8632023398bba56f2756880ac2",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   635
+  ]
+ },
+ "assets/src/8f32424a6dcade48.jpg": {
+  "source": "cp_426_004.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "8f32424a6dcade48633439b369495662fd8accd9bae54f198dca9966df19699d",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/8a1f85bf9a1b5091.jpg": {
+  "source": "cp_426_001__2.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "8a1f85bf9a1b50917809a074195dc2744267ab38ab81f1a8a9e9df372acad7dd",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/7e49be586e07ca04.jpg": {
+  "source": "cp_426_003.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "7e49be586e07ca041f29193529da56d286bfa12b5107d217a055c6f16125d80f",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   675,
+   900
+  ]
+ },
+ "assets/src/be567630bfe7c0f2.jpg": {
+  "source": "ATO119_10_18_050.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "be567630bfe7c0f20ed1f0e8f129674ad16d09d2e776fef83f3e61307d6409f4",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   665,
+   900
+  ]
+ },
+ "assets/src/dc21fdcb52abf4a2.jpg": {
+  "source": "ATO119_10_18_051.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "dc21fdcb52abf4a237c2908aa356a92fb64d1fe2dad73bd693de7969851583dd",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   665,
+   900
+  ]
+ },
+ "assets/src/c592127a63298b3c.jpg": {
+  "source": "cp_426_004.jpg",
+  "tags": [],
+  "source_sha256": "c592127a63298b3ced0df0d93a48d7e39539f9c885284cca521dcf5482f9b35c",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/ede46c84af34ddc5.jpg": {
+  "source": "cp_426_002.jpg",
+  "tags": [],
+  "source_sha256": "ede46c84af34ddc55be0de4e3c7384771cf715f2c165eef1e360107a19110eac",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/bb8a7584d51d0a2a.jpg": {
+  "source": "cp_426_004.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "bb8a7584d51d0a2a552b5c62f32355aa832b596be2379e2221cfe1ab7d0b514b",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/546fe9440fa0ee1d.jpg": {
+  "source": "cp_426_004.jpg",
+  "tags": [],
+  "source_sha256": "546fe9440fa0ee1dbc1a1dd9712d5eb8c0155791b36576bd3528b90b40725433",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/abbd5e698fd7e3ff.jpg": {
+  "source": "cp_426_003.jpg",
+  "tags": [],
+  "source_sha256": "abbd5e698fd7e3ff3741734d8cfbd17450ac1ba10864fb46ce5bb974f11daefa",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/364ced98c3a24103.jpg": {
+  "source": "cp_426_001.jpg",
+  "tags": [],
+  "source_sha256": "364ced98c3a2410323ed32e8a6e8ae07d08985184d83295db4c7f2d5ab92d128",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/5b01009a1e2a0248.jpg": {
+  "source": "ATO119_10_18_052.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "5b01009a1e2a02486c0340b9a54c7dcd840c85983179266e205813e247b4c4a0",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   656
+  ]
+ },
+ "assets/src/fc7a10d2566c1b25.jpg": {
+  "source": "cp_426_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "fc7a10d2566c1b25efbcc8a597d27303a87b39a5ef283a86155748d3e1686ac7",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   672,
+   900
+  ]
+ },
+ "assets/src/8b63d58c7f10fb96.jpg": {
+  "source": "ATO119_10_18_049.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "8b63d58c7f10fb961e26bdea3561165ab5a504755a960f9f40b8d7869c64f646",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   663,
+   900
+  ]
+ },
+ "assets/src/29ae9888fbcb7bea.jpg": {
+  "source": "cp_1425_001__2.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "29ae9888fbcb7beaba6fc02bb17418e0e82c19dc7cd8638a069d679e5f88ca7a",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/1d91bc0582dad2fa.jpg": {
+  "source": "ATO119_10_18_037.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "1d91bc0582dad2fa51baf56ba607fd462c6df6f4656a18686cc8bf56c12fa0e4",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   678
+  ]
+ },
+ "assets/src/34cd381515363f41.jpg": {
+  "source": "ATO119_10_18_038.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "34cd381515363f41ab7361315cfc59ae810fe7b6e1f2451eb3bc9bcaec0812f3",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   664,
+   900
+  ]
+ },
+ "assets/src/46d2f4132729ec89.jpg": {
+  "source": "ATO119_10_5_041.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "46d2f4132729ec8976f69369a763fa6c3f685e1484ea4391fa6f65fb8da6c066",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   643
+  ]
+ },
+ "assets/src/108de79608c54c8c.jpg": {
+  "source": "cp_1425_001.jpg",
+  "tags": [],
+  "source_sha256": "108de79608c54c8cab215852d0864d74f2c3c7f81d65923e5441c9662c63456a",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/fefe776cf923b1b7.jpg": {
+  "source": "cp_1425_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "fefe776cf923b1b7227400a8effc5dd77a6eb9a7f0f3a4a978e44c107866e73d",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   669
+  ]
+ },
+ "assets/src/e3d16e737cc81348.jpg": {
+  "source": "ATO119_10_18_039.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "e3d16e737cc8134855a98d929249f1df3967ac4fdeded1b26f26a326f2d07ae7",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   664,
+   900
+  ]
+ },
+ "assets/src/19d4f4575dff9972.jpg": {
+  "source": "ATO119_10_18_034.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "19d4f4575dff9972db552ff731e1c416b64e939f6d7ff9667c8fbcbd552e12ec",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   662,
+   900
+  ]
+ },
+ "assets/src/f6b366085459a077.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [],
+  "source_sha256": "f6b366085459a077f8a2b5ec15431bb26fd065f9c814b75dd2f0dcaa78273dfd",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/45355e765bcc2dc8.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "45355e765bcc2dc820e6295599561bb5cade3336e6a8d9708730422e60acced3",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   668
+  ]
+ },
+ "assets/src/d081292574740350.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [],
+  "source_sha256": "d0812925747403500ffd42ad094a7c517c2b4a2d1f5a5ebf3fbf281824e47b8c",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/af92604a2bd0c03c.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "af92604a2bd0c03c80ae05c72aed7f526951fe7d5e27ef650bd9786298928bd9",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/52d6bb1ad703e13c.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "52d6bb1ad703e13c6e649de3c832d40ebc837deb6f4c4c627b628bace3ea7f85",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/441e66a3fa80b4ae.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "441e66a3fa80b4aeb953436a9933cf5135f493cb433df8ab490eeb9602034043",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   651,
+   900
+  ]
+ },
+ "assets/src/4fa474a828aacc99.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "4fa474a828aacc99edcce900fc2349d13a8a39bbe7c857b316eba8ee0037f357",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/3cc5009d99d6e79e.jpg": {
+  "source": "cp_421_001.jpg",
+  "tags": [],
+  "source_sha256": "3cc5009d99d6e79edb7d5cfdae530f01f8ea9411a6bfc2ab20b6876faffc4dbc",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/14b2b9c30da845eb.jpg": {
+  "source": "cp_1084_001.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "14b2b9c30da845eb7a8321675ebf31c6ab8d92efafcd3d75c723f8234102008d",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/eb92820f9a45a3e3.jpg": {
+  "source": "cp_1084_001.jpg",
+  "tags": [],
+  "source_sha256": "eb92820f9a45a3e39c4df36945ca39882337fb857ddd4bfdac7d68e9cdbd5c83",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/815f4eb80e280946.jpg": {
+  "source": "cp_1084,1426_001.jpg",
+  "tags": [
+   "CARD",
+   "BW"
+  ],
+  "source_sha256": "815f4eb80e280946a1c92c2ac7d6d82c34c45d1982a66b864076d91a4f41d52a",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/35d1fe06cc3e672a.jpg": {
+  "source": "cp_1084,1426_001.jpg",
+  "tags": [],
+  "source_sha256": "35d1fe06cc3e672a7bba79f4eb9cfde8b8730ca3b9b851878bb2bffa34316068",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/src/36fedead732000a8.jpg": {
+  "source": "cp_1084,1426_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "36fedead732000a823932018a250ee9f71bf559d252c19e6499f26d5bb228993",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   684
+  ]
+ },
+ "assets/src/dd39ff6ea2d29bb5.jpg": {
+  "source": "cp_1084,1426_001.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "dd39ff6ea2d29bb514d8e1a4d21505ad3415fd299daa424fac480348f94e4c36",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   654,
+   900
+  ]
+ },
+ "assets/src/9610e0bb68a1b224.jpg": {
+  "source": "cp_1084_001.jpg",
+  "tags": [
+   "PHOTO",
+   "BW"
+  ],
+  "source_sha256": "9610e0bb68a1b224e80bc1771c10682abd259bd76104265672429272c6763525",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   632
+  ]
+ },
+ "assets/src/b30ce1c46890c54d.jpg": {
+  "source": "cp_1084,1426_001.jpg",
+  "tags": [],
+  "source_sha256": "b30ce1c46890c54d97376c8daeb79dd8893348e675dbfaf896e5cc61f1ae5ecb",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   506
+  ]
+ },
+ "assets/frames/cp426_front1974_counts.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\count_frames\\cp426_front1974_counts.jpg",
+  "note": "count frame: house in a red frame, opening IDs"
+ },
+ "assets/houses/cp421_oblique.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_421\\cp_421_G_r1_mat_roof_front_right.png",
+  "note": "QA render of cp_421_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp421_front.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_421\\cp_421_G_r1_mat_front.png",
+  "note": "QA render of cp_421_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp421_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_421\\cp_421_G_r1_clay_roof_front_left.png",
+  "note": "QA render of cp_421_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp421_qa_mat.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_421\\sheet_421_r1_mat.jpg"
+ },
+ "assets/houses/cp421_qa_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_421\\sheet_421_r1_clay.jpg"
+ },
+ "assets/frames/cp421_front1925_counts.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\count_frames\\cp421_front1925_counts.jpg",
+  "note": "count frame: house in a red frame, opening IDs"
+ },
+ "models/cp421.glb": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\houses\\cp421\\r1\\cp_421_G_r1.glb",
+  "revision": "r1",
+  "note": "copy of the batch GLB (no packed images, material IDs only)",
+  "sha256": "57507594a0552f67f35548d74726fa889d5108e5c55882c8f56cbab1794bfcbd"
+ },
+ "assets/houses/cp1084_oblique.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1084\\cp_1084_G_r1_mat_roof_front_right.png",
+  "note": "QA render of cp_1084_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp1084_front.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1084\\cp_1084_G_r1_mat_front.png",
+  "note": "QA render of cp_1084_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp1084_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1084\\cp_1084_G_r1_clay_roof_front_left.png",
+  "note": "QA render of cp_1084_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp1084_qa_mat.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1084\\sheet_1084_r1_mat.jpg"
+ },
+ "assets/houses/cp1084_qa_clay.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\qa\\views_r1_1084\\sheet_1084_r1_clay.jpg"
+ },
+ "models/cp1084.glb": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\houses\\cp1084\\r1\\cp_1084_G_r1.glb",
+  "revision": "r1",
+  "note": "copy of the batch GLB (no packed images, material IDs only)",
+  "sha256": "d12f5bfaedbbb9319eee1b5952e01b73299fe2e428ac19c94a6624f87b772bfc"
+ },
+ "assets/renders/house_1084_from_road.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\house_1084_from_road.png"
+ },
+ "assets/renders/house_421_from_road.jpg": {
+  "source": "F:\\MOST\\output\\paridelska_street_claude_2026-10-29\\street_r1\\renders\\house_421_from_road.png"
+ }
+}

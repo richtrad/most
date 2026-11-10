@@ -1,0 +1,362 @@
+{
+ "626": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp626.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "625": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp625.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "630": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cp630.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "574": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cp574.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "772": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp772.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "823": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp823.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "831": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp831.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "653": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r4",
+  "geometry_glb": "models/cp653.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "659": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cp659.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "666": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp666.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "673": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp673.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "671": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp671.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "523_a": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp523_a.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "523_b": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp523_b.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "1733": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp1733.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "413_a": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp413_a.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "410": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp410.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "415": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp415.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "475": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp475.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "416": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp416.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "439": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp439.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "417": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp417.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "586": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp586.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "1230": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cp1230.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "1186": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp1186.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "1188": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp1188.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "1178": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp1178.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "1192": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp1192.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "413_b": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r4",
+  "geometry_glb": "models/cp413_b.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "1313": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cp1313.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "G1530": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cpG1530.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "G1529": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cpG1529.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "G1531": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cpG1531.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "G1527": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cpG1527.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "G1526": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cpG1526.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "G1638": {
+  "status": "none",
+  "label": "bez textur (částečně hypotéza – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cpG1638.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ }
+}

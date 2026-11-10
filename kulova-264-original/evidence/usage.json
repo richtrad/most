@@ -1,0 +1,31 @@
+{
+  "note": "Shared account weekly usage; integer percent, not isolated tokens",
+  "samples": [
+    {
+      "phase": "start",
+      "used_percent": 13,
+      "remaining_percent": 87,
+      "time_note": "measured at start of this task, before source comparison"
+    },
+    {
+      "phase": "source comparison and registration",
+      "used_percent": 13,
+      "remaining_percent": 87,
+      "at": "2026-09-27T03:09:26.059306+00:00"
+    },
+    {
+      "phase": "model, two image edits, first render and corrections",
+      "used_percent": 15,
+      "remaining_percent": 85,
+      "at": "2026-09-27T03:21:04.909777+00:00"
+    },
+    {
+      "phase": "final: QA, web and documentation",
+      "used_percent": 16,
+      "remaining_percent": 84,
+      "at": "2026-09-27T03:37:14.239913+00:00"
+    }
+  ],
+  "observed_used_percent_delta": 3,
+  "attribution_limit": "Shared account; cannot isolate exact tokens, other tasks or image-tool usage"
+}

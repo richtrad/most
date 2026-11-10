@@ -1,0 +1,321 @@
+{
+  "schema_version": 1,
+  "documented_at": "2026-10-21",
+  "street": "Žatecká",
+  "snapshot_at": "2026-10-21T06:14:50Z",
+  "summary_sha256": "0cb52f3de853c038ed1abf8722145fe3501044b3f65f5a5fcd53d0eaf55a6081",
+  "counts": {
+    "inventory_count": 62,
+    "done": 6,
+    "blocked_human_review": 20,
+    "skipped": 36
+  },
+  "attempt_summary": {
+    "unique_sources_attempted": 26,
+    "image_edit_attempts": 50,
+    "qa_approved_provisional": 6,
+    "human_review_required": 20,
+    "uploads_by_D": 0,
+    "handed_to_A": 6
+  },
+  "receipt_reconciliation": {
+    "sources": 26,
+    "attempts": 50,
+    "first_attempts": 26,
+    "additional_attempts": 24
+  },
+  "skipped": {
+    "ambiguous_shared_photo_mapping": 12,
+    "low_facade_visibility": 23,
+    "no_facade_geometry": 1
+  },
+  "ratios": {
+    "attempts_per_accepted_output": 8.333333333333334,
+    "accepted_of_attempted_sources": 0.23076923076923078
+  },
+  "per_source": [
+    {
+      "source": "cp_1006_002.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1867_002.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1872_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1872_002.jpg",
+      "attempts": 2,
+      "status": "done_qa_passed_provisional_handed_to_A"
+    },
+    {
+      "source": "cp_1872_005.jpg",
+      "attempts": 2,
+      "status": "done_qa_passed_provisional_handed_to_A"
+    },
+    {
+      "source": "cp_1903_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1904_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1904_003.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1904_004.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1906_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1907_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1907_002.jpg",
+      "attempts": 2,
+      "status": "done_qa_passed_provisional_handed_to_A"
+    },
+    {
+      "source": "cp_1914_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1915_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1918_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_1918_002.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_2073_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_699_001.jpg",
+      "attempts": 1,
+      "status": "done_qa_passed_provisional_handed_to_A"
+    },
+    {
+      "source": "cp_699_002.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_699_003.jpg",
+      "attempts": 2,
+      "status": "done_qa_passed_provisional_handed_to_A"
+    },
+    {
+      "source": "cp_770_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_774_001.jpg",
+      "attempts": 1,
+      "status": "done_qa_passed_provisional_handed_to_A"
+    },
+    {
+      "source": "cp_879_002.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_930_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_995_001.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    },
+    {
+      "source": "cp_995_003.jpg",
+      "attempts": 2,
+      "status": "blocked_human_review"
+    }
+  ],
+  "images": [
+    {
+      "case": "1915",
+      "index": 0,
+      "name": "1915-original.jpg",
+      "site_url": "assets/29c823fbafd7df114646bdd5df0ff115f62a1fcb2f186033bba87d090ac1eb37.jpg",
+      "display_sha256": "29c823fbafd7df114646bdd5df0ff115f62a1fcb2f186033bba87d090ac1eb37",
+      "original_sha256": "de1dfcfe7ff4a4941f61933f6c1bc2665e20e0ae3dcb15dac5b2d066cb389a97",
+      "display_dimensions": [
+        907,
+        1200
+      ],
+      "original_dimensions": [
+        2160,
+        2859
+      ]
+    },
+    {
+      "case": "1915",
+      "index": 1,
+      "name": "1915-attempt-1.jpg",
+      "site_url": "assets/f1f0723e4f2428dfcfc8f32f8858af46d185383487dd73eb2422da2ce15e8c77.jpg",
+      "display_sha256": "f1f0723e4f2428dfcfc8f32f8858af46d185383487dd73eb2422da2ce15e8c77",
+      "original_sha256": "af3ef4d4145f9a0303d7dcae80c2325c011b3f374ac5c9f76e8b4c8cfe652130",
+      "display_dimensions": [
+        906,
+        1200
+      ],
+      "original_dimensions": [
+        1090,
+        1443
+      ]
+    },
+    {
+      "case": "1915",
+      "index": 2,
+      "name": "1915-attempt-2.jpg",
+      "site_url": "assets/27525324f669c79298ed3822cab98965b73b0610458d7fcea9d12e9fa217ad27.jpg",
+      "display_sha256": "27525324f669c79298ed3822cab98965b73b0610458d7fcea9d12e9fa217ad27",
+      "original_sha256": "b902e5f9c895bc00ede57ab83f0b80b4f85c8cccb4c36924a81c33d0d7eed8ee",
+      "display_dimensions": [
+        906,
+        1200
+      ],
+      "original_dimensions": [
+        1090,
+        1443
+      ]
+    },
+    {
+      "case": "699",
+      "index": 0,
+      "name": "699-original.jpg",
+      "site_url": "assets/5552fd88fbee13c2a2d3a3d89f42aa3c81e759e4d7af3d410223ca439ad93752.jpg",
+      "display_sha256": "5552fd88fbee13c2a2d3a3d89f42aa3c81e759e4d7af3d410223ca439ad93752",
+      "original_sha256": "cd0837250c9fe6c36e271def40f9a1b85293c6833ee34fc7ec87b1304e9a8d73",
+      "display_dimensions": [
+        876,
+        1200
+      ],
+      "original_dimensions": [
+        2160,
+        2958
+      ]
+    },
+    {
+      "case": "699",
+      "index": 1,
+      "name": "699-attempt-1.jpg",
+      "site_url": "assets/20b740c9aa1600db5528c64aba7572ff287dce6cf0f1850cc3ae121b4f995600.jpg",
+      "display_sha256": "20b740c9aa1600db5528c64aba7572ff287dce6cf0f1850cc3ae121b4f995600",
+      "original_sha256": "d2a03e9df91d4e27237b25a06cd4afacd7a6a986ecbda79eca9591d97e500572",
+      "display_dimensions": [
+        877,
+        1200
+      ],
+      "original_dimensions": [
+        1072,
+        1467
+      ]
+    },
+    {
+      "case": "699",
+      "index": 2,
+      "name": "699-attempt-2.jpg",
+      "site_url": "assets/297a9ae148ceccba2455f2c0b698c345feaf58849c88761ff4c4b1144fad2e28.jpg",
+      "display_sha256": "297a9ae148ceccba2455f2c0b698c345feaf58849c88761ff4c4b1144fad2e28",
+      "original_sha256": "eae198dc41be5979567b1c2977cf3ff483f7cd5c8cca98e6d02ef09c361f66d7",
+      "display_dimensions": [
+        877,
+        1200
+      ],
+      "original_dimensions": [
+        1072,
+        1467
+      ]
+    },
+    {
+      "case": "1907",
+      "index": 0,
+      "name": "1907-original.jpg",
+      "site_url": "assets/088aded5962b2aee31517a17a970b0fe4d9b76cf31e896c48623b584f6694385.jpg",
+      "display_sha256": "088aded5962b2aee31517a17a970b0fe4d9b76cf31e896c48623b584f6694385",
+      "original_sha256": "c1e818c7ce0fc34d224a9009241894b7d9c52fb1e7841821b38ebbbac937dd38",
+      "display_dimensions": [
+        892,
+        1200
+      ],
+      "original_dimensions": [
+        2160,
+        2907
+      ]
+    },
+    {
+      "case": "1907",
+      "index": 1,
+      "name": "1907-attempt-1.jpg",
+      "site_url": "assets/5ca571ebdfe7f8c82d998d3522545aa1d45420f0dab592da0a5283697f0d1931.jpg",
+      "display_sha256": "5ca571ebdfe7f8c82d998d3522545aa1d45420f0dab592da0a5283697f0d1931",
+      "original_sha256": "c22f5cd92379d6e65620301b43360788a3a348b8c51a04a7f5f9f3c912059b7a",
+      "display_dimensions": [
+        892,
+        1200
+      ],
+      "original_dimensions": [
+        1081,
+        1455
+      ]
+    },
+    {
+      "case": "1907",
+      "index": 2,
+      "name": "1907-attempt-2.jpg",
+      "site_url": "assets/0976fd77d21230bee1872834324bbc92af2e2860f26c803eec75ac93c0082103.jpg",
+      "display_sha256": "0976fd77d21230bee1872834324bbc92af2e2860f26c803eec75ac93c0082103",
+      "original_sha256": "97220132b111916488d1f1f13de474ed9ce6e196af9c0074b537427c1c1ab452",
+      "display_dimensions": [
+        892,
+        1200
+      ],
+      "original_dimensions": [
+        1081,
+        1455
+      ]
+    }
+  ],
+  "limitations": [
+    "Acceptance is the producer-reported provisional QA decision, not an independent historical colour validation.",
+    "50 counts initial edits and retries across 26 sources, not 50 corrections of six photographs.",
+    "The public example gallery illustrates three sources, not all 50 generated variants.",
+    "No model-specific token cost can be derived from shared account quota changes.",
+    "This is the earlier combined colourization and foreground-removal workflow, not the newer two-stage workflow."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "input": [
+    2048,
+    2048
+  ],
+  "raw_size": [
+    1254,
+    1254
+  ],
+  "resample": "Uniform square Lanczos",
+  "mask": "drainpipe_mask.png",
+  "outside_mask_max_error": 0,
+  "internal_feather_px": 4,
+  "tool": "built-in imagegen edit",
+  "historical_status": "model_hypothesis, provisional, locked:false",
+  "mask_revision": "Expanded to include cast-shadow left of pipe, lower 998 rows widened",
+  "right_edge_gutter_px": 7
+}

@@ -1,0 +1,450 @@
+{
+  "checked_at": "2026-09-27T03:23:11.168856+00:00",
+  "source_mode": "local_snapshot",
+  "source": "analysis\\gis_city_3d\\local_libuse_sync\\areas\\kulova.json",
+  "snapshot_file_modified_at": "2026-09-21T23:41:35.301852+00:00",
+  "snapshot_date_note": "Filesystem modification time is not proof of live retrieval time",
+  "live_completeness_verified": false,
+  "prior_live_attempt": "API timeout recorded by preceding reconstruction task",
+  "api_writes": 0,
+  "buildings": [
+    {
+      "cp": "261",
+      "structure_id": "09970cfc-d04b-4085-930b-1dc875fd10d7",
+      "status": "found",
+      "scope": "PLANE-tagged attachments in local Kulova area snapshot; names/content of selected local plans compared separately",
+      "attachments": [
+        {
+          "id": "7b4d74a7-d6ff-42d9-b530-bf6b009140de",
+          "filename": "cp_261_001__2.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/7b4d74a7-d6ff-42d9-b530-bf6b009140de__cp_261_001__2.jpg",
+              "sha256": "6fa024a10a3b207fda7d3657394b3bc9328b7101325c8d40ef08d0e7cb7e0f15"
+            }
+          ]
+        },
+        {
+          "id": "b77e03ff-b6bf-4825-bda9-75e4559c4886",
+          "filename": "cp_261_001.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/b77e03ff-b6bf-4825-bda9-75e4559c4886__cp_261_001.jpg",
+              "sha256": "764e080efd15396b296b649307694b7c67bb11b0140c1ad64ddb96195efe4c80"
+            }
+          ]
+        },
+        {
+          "id": "bc7dfb25-2740-4b1f-9447-48b66cf261ff",
+          "filename": "cp_261_002.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/bc7dfb25-2740-4b1f-9447-48b66cf261ff__cp_261_002.jpg",
+              "sha256": "d5f73b881e25a3bf525eed17813706f7dad84c4b0c08cafe42cc5c1ae167c470"
+            }
+          ]
+        },
+        {
+          "id": "f8343a2f-fbf3-4ccc-a2e6-7351feb11d30",
+          "filename": "cp_261,262,263_001.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": []
+        }
+      ]
+    },
+    {
+      "cp": "262",
+      "structure_id": "05cfb07c-bceb-4f3c-8bce-aff386969c8e",
+      "status": "found",
+      "scope": "PLANE-tagged attachments in local Kulova area snapshot; names/content of selected local plans compared separately",
+      "attachments": [
+        {
+          "id": "0ae08514-8358-4a10-8502-36ae6b4d6c77",
+          "filename": "cp_262_005.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/0ae08514-8358-4a10-8502-36ae6b4d6c77__cp_262_005.jpg",
+              "sha256": "fa9e6431bc55fed016239d4ecec3ad3d5e6bd0a892d069174b70f17a67ae0525"
+            }
+          ]
+        },
+        {
+          "id": "28723884-da65-4178-b71a-e2747597c0d7",
+          "filename": "cp_262_014.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/28723884-da65-4178-b71a-e2747597c0d7__cp_262_014.jpg",
+              "sha256": "a419c7cd82196374f5c29e0dcdd1f71f40c2f277aa1068ae20de61893984ec96"
+            }
+          ]
+        },
+        {
+          "id": "2e131b35-7a6f-433b-bf80-af1a98657e99",
+          "filename": "cp_262_003.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/2e131b35-7a6f-433b-bf80-af1a98657e99__cp_262_003.jpg",
+              "sha256": "686008a2042143db607cacc40597291733cf0bbb012095105208f996e60decf5"
+            }
+          ]
+        },
+        {
+          "id": "3ac6c090-9a50-4331-9c0c-150cba931cbd",
+          "filename": "cp_262_009.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/3ac6c090-9a50-4331-9c0c-150cba931cbd__cp_262_009.jpg",
+              "sha256": "b71b83f2024be7b2c5057c9a81c4e6a89c157698b5a41436b636d1c3f12cc0fc"
+            }
+          ]
+        },
+        {
+          "id": "41978131-f4a0-4aea-8f2c-b06fd03134aa",
+          "filename": "cp_262_001.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/41978131-f4a0-4aea-8f2c-b06fd03134aa__cp_262_001.jpg",
+              "sha256": "f641735c5a7328046359db407c3f83fddad905b1ece306817321d011e5b1502c"
+            }
+          ]
+        },
+        {
+          "id": "43741cf9-a002-4977-a57b-a1412a42cd48",
+          "filename": "cp_262_010.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/43741cf9-a002-4977-a57b-a1412a42cd48__cp_262_010.jpg",
+              "sha256": "66f5f0b0a9c23d6e907ed128d28175fa549b3819d0203427e3537ed66ffe99dc"
+            }
+          ]
+        },
+        {
+          "id": "47aeec99-48d9-426b-9004-878f33f54ea1",
+          "filename": "cp_261,262,263_001.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": []
+        },
+        {
+          "id": "56200cf8-edb9-4ac3-a2c2-63b15347efb9",
+          "filename": "cp_262_007.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/56200cf8-edb9-4ac3-a2c2-63b15347efb9__cp_262_007.jpg",
+              "sha256": "66a76b123ade30da75a01514de4cf8f2229c8b3f5d55448375f1cba8a80a56dd"
+            }
+          ]
+        },
+        {
+          "id": "79b05df2-4a17-4976-84fe-69ae51209a15",
+          "filename": "cp_262_012.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/79b05df2-4a17-4976-84fe-69ae51209a15__cp_262_012.jpg",
+              "sha256": "f502d414b198f61aac88de1d2861cda6acfcf93a593bb2c1c97ef0e311241446"
+            }
+          ]
+        },
+        {
+          "id": "a46a09c3-ac9c-42e2-849c-9b029a53dcf9",
+          "filename": "cp_262_011.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/a46a09c3-ac9c-42e2-849c-9b029a53dcf9__cp_262_011.jpg",
+              "sha256": "873274c940f623e71e2930ee812f44bc358778c49d2b19bf318559af6ce06595"
+            }
+          ]
+        },
+        {
+          "id": "b1386b05-a016-422c-977a-6a4eaa94c462",
+          "filename": "cp_262_008.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/b1386b05-a016-422c-977a-6a4eaa94c462__cp_262_008.jpg",
+              "sha256": "3bef61e1b96805e22f42c537962fa9bfb81f046fc01a2fe7858176f1bf978d53"
+            }
+          ]
+        },
+        {
+          "id": "be515c68-2c00-4ecb-99a9-45bb768deae6",
+          "filename": "cp_262_002.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/be515c68-2c00-4ecb-99a9-45bb768deae6__cp_262_002.jpg",
+              "sha256": "dfda2a5e015d1dd069e4698df6f1d3b411f2f4b8484920737b83501ed0082d42"
+            }
+          ]
+        },
+        {
+          "id": "c62c018a-5314-4ca3-9bd4-a28807b9eda1",
+          "filename": "cp_262_004.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/c62c018a-5314-4ca3-9bd4-a28807b9eda1__cp_262_004.jpg",
+              "sha256": "e5952f29c66761dd95bb05060478a0c4fdba45b3e55aad37a7b9aaf0c0a7763f"
+            }
+          ]
+        },
+        {
+          "id": "c9a8773b-4a01-4a7c-9f06-da64e4837736",
+          "filename": "cp_262_006.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/c9a8773b-4a01-4a7c-9f06-da64e4837736__cp_262_006.jpg",
+              "sha256": "d5f25d683fb4c25a7bb3de4e0d3bab4e6022020de6fae15ad38ed01491c14c01"
+            }
+          ]
+        },
+        {
+          "id": "dfad93e0-42de-4c51-bca5-e8db972c4e53",
+          "filename": "cp_262_013.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/dfad93e0-42de-4c51-bca5-e8db972c4e53__cp_262_013.jpg",
+              "sha256": "622181244887ee044b61f52cbdeee07c2146109fd1439a3813c2a571dd8f6735"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cp": "263",
+      "structure_id": "5f108d48-d61a-49d1-8708-79f6fc231699",
+      "status": "found",
+      "scope": "PLANE-tagged attachments in local Kulova area snapshot; names/content of selected local plans compared separately",
+      "attachments": [
+        {
+          "id": "7bb60e11-6a2b-4ab0-87d3-77b64c65e436",
+          "filename": "cp_263_001__2.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/7bb60e11-6a2b-4ab0-87d3-77b64c65e436__cp_263_001__2.jpg",
+              "sha256": "dcf7bd236b1d32bc63fb34d7f340940be48440e9f6c77961cdbd14e41b027004"
+            }
+          ]
+        },
+        {
+          "id": "8b7e20d0-a838-4256-9718-464caa7ef1c0",
+          "filename": "cp_263_002.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/8b7e20d0-a838-4256-9718-464caa7ef1c0__cp_263_002.jpg",
+              "sha256": "3006d6461f6e32dab36807439426c8b282ea59b6b2d8005160f3136dab978eb5"
+            }
+          ]
+        },
+        {
+          "id": "97752da8-1db0-47de-b8f3-ea5c5b6d8251",
+          "filename": "cp_261,262,263_001.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": []
+        },
+        {
+          "id": "aa3faf50-486e-4ed4-956a-0d59f5ff6d88",
+          "filename": "cp_263_001.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/aa3faf50-486e-4ed4-956a-0d59f5ff6d88__cp_263_001.jpg",
+              "sha256": "16e93eccfa6bc23317b4313338f26c7eb6149853451d78dbf397864b5289c09f"
+            }
+          ]
+        },
+        {
+          "id": "b6d7c786-dfdc-408f-9cfd-fc5b1f832cfa",
+          "filename": "cp_263_002__2.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/b6d7c786-dfdc-408f-9cfd-fc5b1f832cfa__cp_263_002__2.jpg",
+              "sha256": "550e1b03bf80823bc2c92522632902feaa899bc463add0ab5bf7657495ac3919"
+            }
+          ]
+        },
+        {
+          "id": "ec52c5b6-35f3-459c-9173-52fc9e973ab8",
+          "filename": "cp_263_003.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/ec52c5b6-35f3-459c-9173-52fc9e973ab8__cp_263_003.jpg",
+              "sha256": "fa53efe86a09b929ee216e915e54a6439f75f77d08ba5d84778860aa6d6e7105"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cp": "264",
+      "structure_id": "113dd0c1-87df-42c1-ba3f-dedcfabdb865",
+      "status": "found",
+      "scope": "PLANE-tagged attachments in local Kulova area snapshot; names/content of selected local plans compared separately",
+      "attachments": [
+        {
+          "id": "1be70f00-d83a-465d-a853-359216a1f738",
+          "filename": "cp_264_001__2.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/1be70f00-d83a-465d-a853-359216a1f738__cp_264_001__2.jpg",
+              "sha256": "2855e8ce812bdc1754a0e93a52aa89eb05a34438e4566c875f18658bcfa3bfdd"
+            }
+          ]
+        },
+        {
+          "id": "64aaf516-b7a6-40c1-959b-d56fa16f9489",
+          "filename": "cp_264_002.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/64aaf516-b7a6-40c1-959b-d56fa16f9489__cp_264_002.jpg",
+              "sha256": "1f51ea31f99b9ce2e941bf5016065d015c0596dd6b0c37a0e49fd8cf7f828b00"
+            }
+          ]
+        },
+        {
+          "id": "b7473664-d3a7-43d5-b8c0-d0c9b83bc5d3",
+          "filename": "cp_264_001.jpg",
+          "tags": [
+            "PLANE",
+            "BW"
+          ],
+          "files": [
+            {
+              "path": "analysis/gis_city_3d/local_libuse_sync/photos/b7473664-d3a7-43d5-b8c0-d0c9b83bc5d3__cp_264_001.jpg",
+              "sha256": "f30db03b02fbde36f9c438a78b38cebf250e7cd66a2a85c6b118ba7165ce24b0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cp": "111",
+      "structure_id": "de24e88f-1662-4b99-8b0a-61491a5d6ca4",
+      "status": "not_found_in_searched_scope",
+      "scope": "PLANE-tagged attachments in local Kulova area snapshot; names/content of selected local plans compared separately",
+      "attachments": []
+    },
+    {
+      "cp": "265",
+      "structure_id": "478da77c-099a-42ed-9ced-08a89da973f9",
+      "status": "not_found_in_searched_scope",
+      "scope": "PLANE-tagged attachments in local Kulova area snapshot; names/content of selected local plans compared separately",
+      "attachments": []
+    }
+  ],
+  "comparison": "REPORT.md",
+  "working_front_assignment": {
+    "stored_cp": "263",
+    "candidate_cp": "264",
+    "confidence": "inference_from_adjacency",
+    "exact_front_boundary_confirmed": false
+  },
+  "reused_inventory_checked_at": "2026-09-27T02:41:42.503476+00:00",
+  "current_task": "cp264 narrow shopfront reconstruction",
+  "new_live_request": false,
+  "content_reviewed_this_task": [
+    "cp264_plan_1887.jpg",
+    "cp264_plan_1965.jpg",
+    "cp263_street_plan_1910.jpg"
+  ]
+}

@@ -1,0 +1,22 @@
+import * as THREE from './vendor/three.module.js';
+import {OrbitControls} from './vendor/OrbitControls.js';
+import {GLTFLoader} from './vendor/GLTFLoader.js';
+const $=id=>document.getElementById(id),host=$('canvas');
+const renderer=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});renderer.setPixelRatio(Math.min(devicePixelRatio,1.5));renderer.outputEncoding=THREE.sRGBEncoding;renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=.8;host.appendChild(renderer.domElement);
+const scene=new THREE.Scene();scene.background=new THREE.Color('#dddcd2');scene.add(new THREE.HemisphereLight(0xffffff,0x7d8074,1.05));const sun=new THREE.DirectionalLight(0xfff7e8,1);sun.position.set(-12,24,18);scene.add(sun);
+const camera=new THREE.PerspectiveCamera(38,1,.01,200),controls=new OrbitControls(camera,renderer.domElement);controls.enableDamping=false;
+const clay=new THREE.MeshStandardMaterial({color:'#72857b',roughness:.9}),highlight=new THREE.MeshStandardMaterial({color:'#c07038',roughness:.9});
+const landmarks=await (await fetch('./evidence/landmarks.json')).json();
+const views={axis_front:{p:[5.14,6,27],t:[5.14,6,0]},axis_right:{p:[38,6,-9.4],t:[5.14,6,-9.4]},axis_back:{p:[5.14,6,-46],t:[5.14,6,-18.8]},axis_left:{p:[-28,6,-9.4],t:[5.14,6,-9.4]},roof_front_left:{p:[-17,24,21],t:[5.14,6,-7]},roof_front_right:{p:[27,24,21],t:[5.14,6,-7]},roof_back_left:{p:[-17,24,-36],t:[5.14,6,-8]},roof_back_right:{p:[27,24,-36],t:[5.14,6,-8]},detail_facade:{p:[5.14,3.5,15],t:[5.14,3.25,0]},detail_corner:{p:[-3,3,4],t:[.2,3,0]},detail_cornice:{p:[7,7.9,4],t:[5,6.35,0]},detail_pipe:{p:[13,4,3],t:[10.15,3,0]},detail_damage:{p:[4.4,1,2.8],t:[4.4,1,0]},detail_threshold:{p:[.2,.6,2.5],t:[2.1,.1,0]},detail_threshold_below:{p:[2.1,-1,1.6],t:[2.1,0,0]},dormer_A_front:{p:[3.9,8,4.5],t:[3.9,7.6,-.5]},dormer_A_back:{p:[5,10,-5],t:[3.9,8.1,-1.8]},dormer_A_side:{p:[7.5,8.7,-.2],t:[3.9,7.8,-1.5]},dormer_A_top:{p:[3.9,14,-1.5],t:[3.9,7.8,-1.5]},dormer_B_front:{p:[6.06,10.5,-1],t:[6.06,9.8,-4.8]},dormer_B_back:{p:[7.8,12.7,-8],t:[6.06,10,-5.3]},dormer_B_side:{p:[9,11,-4],t:[6.06,10,-5.2]}};
+for(const o of landmarks.openings){const x=o.cx,y=(o.bottom+o.top)/2,dist=o.id==='D1'?4.6:o.id==='N1'?2.0:3.7;for(const [side,dx] of [['front',0],['left',-dist*.58],['right',dist*.58]])views[`opening_${o.id}_${side}`]={p:[x+dx,y+.15,dist],t:[x,y,0]};}
+for(const k of Object.keys(views)){const op=document.createElement('option');op.value=k;op.textContent=k;$('view').append(op);}
+const model=(await new GLTFLoader().loadAsync('./models/cp263_G.glb')).scene;scene.add(model);model.traverse(o=>{if(o.isMesh){o.userData.original=o.material;for(const m of(Array.isArray(o.material)?o.material:[o.material]))if(m.map)m.map.anisotropy=Math.min(16,renderer.capabilities.getMaxAnisotropy());}});
+function render(){renderer.render(scene,camera)}
+function resize(){renderer.setSize(host.clientWidth,host.clientHeight);camera.aspect=host.clientWidth/host.clientHeight;camera.updateProjectionMatrix();render();}new ResizeObserver(resize).observe(host);
+function setView(k){camera.position.fromArray(views[k].p);controls.target.fromArray(views[k].t);controls.update();$('view').value=k;render();}
+function surface(mode){model.traverse(o=>{if(o.isMesh){const a=o.userData.original;const gen=(Array.isArray(a)?a:[a]).some(m=>m.userData.generated_unobserved_surface);o.material=mode==='clay'?clay:mode==='hypotheses'&&gen?highlight:a;}});render();}
+$('view').onchange=e=>setView(e.target.value);$('surface').onchange=e=>surface(e.target.value);$('pipes').onchange=e=>{model.traverse(o=>{if(o.name.includes('Metal_Gutters'))o.visible=e.target.checked;});render();};
+$('source').onclick=()=>$('source-dialog').showModal();$('close-source').onclick=()=>$('source-dialog').close();
+document.querySelectorAll('.compare input').forEach(i=>i.oninput=()=>i.parentElement.style.setProperty('--split',i.value+'%'));
+window.qa={views,async capture(key,mode='texture'){surface(mode);setView(key);resize();render();return{png:renderer.domElement.toDataURL('image/png'),camera:{position:camera.position.toArray(),target:controls.target.toArray(),fov:camera.fov,aspect:camera.aspect},exposure:renderer.toneMappingExposure,width:renderer.domElement.width,height:renderer.domElement.height};}};
+setView('roof_front_left');$('status').textContent='Načteno: čp. 263 · G · pracovní hypotéza';function loop(){requestAnimationFrame(loop);controls.update();render()}loop();

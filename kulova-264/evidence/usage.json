@@ -1,0 +1,16 @@
+{
+  "scope": "This straightening revision only; account-wide rounded percentages, not exact task tokens",
+  "measurements": [
+    {
+      "stage": "before_changes",
+      "used_percent": 17,
+      "remaining_percent": 83
+    },
+    {
+      "stage": "after_model_and_visual_review",
+      "used_percent": 18,
+      "remaining_percent": 82
+    }
+  ],
+  "image_generation_calls": 0
+}

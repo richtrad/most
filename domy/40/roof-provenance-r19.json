@@ -1,0 +1,15 @@
+{
+  "source": "C:\\Users\\grafi\\Documents\\MOST\\output\\roof_texture_library_v2\\generated\\R002_A.png",
+  "sha256": "40cf4c7717386f17403bbb53837c61cc5c3910ef0f4abb00bab44b7df4a8ff76",
+  "libraryVariant": "R002_A",
+  "method": "UV samples from individual ceramic tile interiors, varying by connected physical tile; no bitmap modification",
+  "roofPolygons": 23325,
+  "components": 2323,
+  "geometryUnchanged": true,
+  "facadeColorAndUVUnchanged": true,
+  "libraryNotCertifiedSeamless": true,
+  "seamlessWholeRoofTilingNotUsed": true,
+  "historicalIdentification": "material hypothesis, not evidence for CP40",
+  "status": "provisional",
+  "locked": false
+}

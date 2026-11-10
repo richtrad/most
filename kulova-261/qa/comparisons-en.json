@@ -1,0 +1,30 @@
+[
+  {
+    "camera_id": "detail_steps",
+    "title": "The door ends above real steps",
+    "note": "V6 placed a photograph of steps on the door and a cornice across the passage. V7 has three modeled steps and an interrupted cornice.",
+    "before": "comparison_detail_steps_before.jpg",
+    "after": "comparison_detail_steps_after.jpg"
+  },
+  {
+    "camera_id": "detail_steps_right",
+    "title": "Entrance from the opposite side",
+    "note": "Treads and side faces have real geometry, rather than a vertically stretched photograph.",
+    "before": "comparison_detail_steps_right_before.jpg",
+    "after": "comparison_detail_steps_right_after.jpg"
+  },
+  {
+    "camera_id": "detail_pipe",
+    "title": "One downpipe, not two",
+    "note": "The 3D metal remains. Its photographed duplicate, brackets and associated dark traces were removed by image inpainting.",
+    "before": "comparison_detail_pipe_before.jpg",
+    "after": "comparison_detail_pipe_after.jpg"
+  },
+  {
+    "camera_id": "detail_pipe_top",
+    "title": "Connection below the gutter",
+    "note": "The facade texture and its white outer edge were repaired; the 3D gutter remains.",
+    "before": "comparison_detail_pipe_top_before.jpg",
+    "after": "comparison_detail_pipe_top_after.jpg"
+  }
+]

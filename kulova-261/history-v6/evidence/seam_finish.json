@@ -1,0 +1,23 @@
+{
+  "method": "Periodic-plus-smooth boundary correction, then a 1024px field of translated generated-only chips with smooth 128px overlaps, seed 261. No procedural replacement for image generation.",
+  "source_boxes": {
+    "plaster": [
+      18,
+      18,
+      258,
+      258
+    ],
+    "stone": [
+      792,
+      24,
+      1032,
+      264
+    ]
+  },
+  "source_context_changed": false,
+  "meters_per_tile": 3.440860215053764,
+  "reason": "Whole continuation target is a context-bearing atlas, not a repeatable wall tile",
+  "confidence": "model_hypothesis",
+  "status": "provisional",
+  "locked": false
+}

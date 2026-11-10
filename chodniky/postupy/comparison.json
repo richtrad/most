@@ -1,0 +1,20 @@
+{
+  "source_street": "Kostelní",
+  "source_photo_id": "7980cb42-2d4f-4cd4-99c4-46e8c2345fbc",
+  "source_sha256": "0020da7a92c3c14514dda46834df7be06fa32f70b19c69db20c4bac18628d6ef",
+  "actual_input": "kostelni_candidate_crop.png",
+  "crop_xyxy": [
+    1570,
+    2030,
+    2030,
+    2380
+  ],
+  "new_output": "kostelni_reconstruction.png",
+  "old_output": "../generated/P001_A.png",
+  "comparison_is_controlled_ab": false,
+  "same_location": false,
+  "status": "provisional",
+  "locked": false,
+  "seamless_verified": false,
+  "review": "Clearer evidence for rows and angular setts; generated regularity and microdetail remain hypothetical. P001 evidence confidence downgraded to low."
+}

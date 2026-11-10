@@ -1,0 +1,18 @@
+{
+  "geometry": {
+    "changed_objects": [
+      "CP_261_Frames_Sills_And_Cornices",
+      "CP_261_Glazing_And_Doors",
+      "CP_261_Timber_Frames",
+      "CP_261_Individual_Photographic_Panes",
+      "CP_261_Masonry_With_Openings"
+    ],
+    "unchanged_objects": 10,
+    "visual_passed": false
+  },
+  "inpaint": {
+    "changed_objects": [],
+    "unchanged_objects": 15,
+    "visual_passed": false
+  }
+}

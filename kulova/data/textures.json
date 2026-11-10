@@ -1,0 +1,167 @@
+{
+ "260": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r5",
+  "geometry_glb": "models/cp260.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "261": {
+  "status": "standalone_study",
+  "label": "Codex: samostatná texturovaná pracovní studie",
+  "glb": null,
+  "geometry_revision": "r5",
+  "geometry_glb": "models/cp261.glb",
+  "updated": "2026-10-19",
+  "by": "Codex",
+  "qa": "studie/cp261/",
+  "study_glb": "models/textured/cp261_study.glb",
+  "study_url": "studie/cp261/",
+  "street_approved": false
+ },
+ "262": {
+  "status": "standalone_study",
+  "label": "Codex: samostatná texturovaná pracovní studie – starší geometrie, čeká na revizi",
+  "glb": null,
+  "geometry_revision": "r6",
+  "geometry_glb": "models/cp262.glb",
+  "updated": "2026-10-18",
+  "by": "Codex",
+  "qa": "studie/cp262/",
+  "study_glb": "models/textured/cp262_study.glb",
+  "study_url": "studie/cp262/",
+  "street_approved": false
+ },
+ "263": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cp263.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "264": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp264.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "111": {
+  "status": "standalone_study",
+  "label": "Codex: samostatná texturovaná pracovní studie",
+  "glb": null,
+  "geometry_revision": "r6",
+  "geometry_glb": "models/cp111.glb",
+  "updated": "2026-10-19",
+  "by": "Codex",
+  "qa": "studie/cp111/",
+  "study_glb": "models/textured/cp111_study.glb",
+  "study_url": "studie/cp111/",
+  "street_approved": false
+ },
+ "265": {
+  "status": "standalone_study",
+  "label": "Codex: samostatná texturovaná pracovní studie",
+  "glb": null,
+  "geometry_revision": "r4",
+  "geometry_glb": "models/cp265.glb",
+  "updated": "2026-10-19",
+  "by": "Codex",
+  "qa": "studie/cp265/",
+  "study_glb": "models/textured/cp265_study.glb",
+  "study_url": "studie/cp265/",
+  "street_approved": false
+ },
+ "266": {
+  "status": "standalone_study",
+  "label": "Codex: samostatná texturovaná pracovní studie",
+  "glb": null,
+  "geometry_revision": "r4",
+  "geometry_glb": "models/cp266.glb",
+  "updated": "2026-10-19",
+  "by": "Codex",
+  "qa": "studie/cp266/",
+  "study_glb": "models/textured/cp266_study.glb",
+  "study_url": "studie/cp266/",
+  "street_approved": false
+ },
+ "267": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r4",
+  "geometry_glb": "models/cp267.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "154": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r2",
+  "geometry_glb": "models/cp154.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "259": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r5",
+  "geometry_glb": "models/cp259.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "258": {
+  "status": "blocked",
+  "label": "Codex: zablokováno, podklad FRONT je jen částečný",
+  "glb": null,
+  "geometry_revision": "r4",
+  "geometry_glb": "models/cp258.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "1608": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r6",
+  "geometry_glb": "models/cp1608.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "1712": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp1712.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ },
+ "257": {
+  "status": "none",
+  "label": "zatím bez textur",
+  "glb": null,
+  "geometry_revision": "r3",
+  "geometry_glb": "models/cp257.glb",
+  "updated": "2026-10-18",
+  "by": null,
+  "qa": null
+ }
+}

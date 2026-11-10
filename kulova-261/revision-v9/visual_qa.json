@@ -1,0 +1,1066 @@
+{
+  "version": "v9",
+  "passed": true,
+  "visualQa": {
+    "views": [
+      {
+        "file": "after_axis_back.png",
+        "mode": "after",
+        "view": "axis_back",
+        "camera": {
+          "label": "Zadní strana",
+          "p": [
+            6.87,
+            7,
+            -38
+          ],
+          "t": [
+            6.87,
+            6,
+            -6.9
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_axis_front.png",
+        "mode": "after",
+        "view": "axis_front",
+        "camera": {
+          "label": "Průčelí",
+          "p": [
+            6.87,
+            6,
+            25
+          ],
+          "t": [
+            6.87,
+            6,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          823,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_axis_left.png",
+        "mode": "after",
+        "view": "axis_left",
+        "camera": {
+          "label": "Levá strana",
+          "p": [
+            -24,
+            7,
+            -6.9
+          ],
+          "t": [
+            6.87,
+            6,
+            -6.9
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_axis_right.png",
+        "mode": "after",
+        "view": "axis_right",
+        "camera": {
+          "label": "Pravá strana",
+          "p": [
+            37,
+            7,
+            -6.9
+          ],
+          "t": [
+            6.87,
+            6,
+            -6.9
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_corner.png",
+        "mode": "after",
+        "view": "detail_corner",
+        "camera": {
+          "label": "Nároží",
+          "p": [
+            -4,
+            4,
+            5
+          ],
+          "t": [
+            0.4,
+            3.6,
+            -0.2
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_cornice.png",
+        "mode": "after",
+        "view": "detail_cornice",
+        "camera": {
+          "label": "Římsa a okap",
+          "p": [
+            8,
+            9,
+            5.2
+          ],
+          "t": [
+            6.5,
+            6.9,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_damage.png",
+        "mode": "after",
+        "view": "detail_damage",
+        "camera": {
+          "label": "Poškození omítky",
+          "p": [
+            4.2,
+            4.8,
+            4
+          ],
+          "t": [
+            4.2,
+            4.8,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_door.png",
+        "mode": "after",
+        "view": "detail_door",
+        "camera": {
+          "label": "Dveře",
+          "p": [
+            -1,
+            2.2,
+            4
+          ],
+          "t": [
+            1.2,
+            1.3,
+            -0.1
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_dormer_back.png",
+        "mode": "after",
+        "view": "detail_dormer_back",
+        "camera": {
+          "label": "Vikýř · napojení zezadu",
+          "p": [
+            9.1,
+            10.7,
+            -5.3
+          ],
+          "t": [
+            7.285,
+            8.7,
+            -1.7
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_dormer_front.png",
+        "mode": "after",
+        "view": "detail_dormer_front",
+        "camera": {
+          "label": "Vikýř · čelo",
+          "p": [
+            7.285,
+            8.6,
+            4
+          ],
+          "t": [
+            7.285,
+            8.5,
+            -0.5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_dormer_side.png",
+        "mode": "after",
+        "view": "detail_dormer_side",
+        "camera": {
+          "label": "Vikýř · bok",
+          "p": [
+            10.5,
+            9.4,
+            -0.7
+          ],
+          "t": [
+            7.285,
+            8.4,
+            -1.5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_dormer_top.png",
+        "mode": "after",
+        "view": "detail_dormer_top",
+        "camera": {
+          "label": "Vikýř · shora",
+          "p": [
+            7.285,
+            13,
+            -1.8
+          ],
+          "t": [
+            7.285,
+            8.5,
+            -1.5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_facade.png",
+        "mode": "after",
+        "view": "detail_facade",
+        "camera": {
+          "label": "Detail průčelí",
+          "p": [
+            6.8,
+            4.2,
+            19
+          ],
+          "t": [
+            6.8,
+            3.7,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_pipe.png",
+        "mode": "after",
+        "view": "detail_pipe",
+        "camera": {
+          "label": "Pravý svod",
+          "p": [
+            17,
+            6.7,
+            5
+          ],
+          "t": [
+            13.25,
+            4.7,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_pipe_top.png",
+        "mode": "after",
+        "view": "detail_pipe_top",
+        "camera": {
+          "label": "Napojení svodu",
+          "p": [
+            15.3,
+            7.5,
+            2.7
+          ],
+          "t": [
+            13.3,
+            6.5,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_roof.png",
+        "mode": "after",
+        "view": "detail_roof",
+        "camera": {
+          "label": "Vikýře",
+          "p": [
+            3.6,
+            12.3,
+            9
+          ],
+          "t": [
+            7.1,
+            9,
+            -2.4
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_steps.png",
+        "mode": "after",
+        "view": "detail_steps",
+        "camera": {
+          "label": "Schody a práh",
+          "p": [
+            -1.1,
+            1.65,
+            2.8
+          ],
+          "t": [
+            1.23,
+            0.5,
+            0.25
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_steps_below.png",
+        "mode": "after",
+        "view": "detail_steps_below",
+        "camera": {
+          "label": "Schody · spodní spoj",
+          "p": [
+            -0.5,
+            -1.8,
+            2.8
+          ],
+          "t": [
+            1.23,
+            0,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_steps_right.png",
+        "mode": "after",
+        "view": "detail_steps_right",
+        "camera": {
+          "label": "Schody zprava",
+          "p": [
+            3.7,
+            1.6,
+            2.7
+          ],
+          "t": [
+            1.23,
+            0.5,
+            0.25
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_window.png",
+        "mode": "after",
+        "view": "detail_window",
+        "camera": {
+          "label": "Okno a ostění zleva",
+          "p": [
+            2.5,
+            5.7,
+            4.5
+          ],
+          "t": [
+            5.8,
+            5.4,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_detail_window_right.png",
+        "mode": "after",
+        "view": "detail_window_right",
+        "camera": {
+          "label": "Okno a ostění zprava",
+          "p": [
+            9.6,
+            5.7,
+            4.5
+          ],
+          "t": [
+            8.05,
+            5.4,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_roof_oblique_back_left.png",
+        "mode": "after",
+        "view": "roof_oblique_back_left",
+        "camera": {
+          "label": "Střecha · zadní levý roh",
+          "p": [
+            -15,
+            23,
+            -33
+          ],
+          "t": [
+            6.87,
+            7,
+            -6
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_roof_oblique_back_right.png",
+        "mode": "after",
+        "view": "roof_oblique_back_right",
+        "camera": {
+          "label": "Střecha · zadní pravý roh",
+          "p": [
+            29,
+            23,
+            -33
+          ],
+          "t": [
+            6.87,
+            7,
+            -6
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_roof_oblique_front_left.png",
+        "mode": "after",
+        "view": "roof_oblique_front_left",
+        "camera": {
+          "label": "Střecha · přední levý roh",
+          "p": [
+            -15,
+            23,
+            22
+          ],
+          "t": [
+            6.87,
+            7,
+            -5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "after_roof_oblique_front_right.png",
+        "mode": "after",
+        "view": "roof_oblique_front_right",
+        "camera": {
+          "label": "Střecha · přední pravý roh",
+          "p": [
+            29,
+            23,
+            22
+          ],
+          "t": [
+            6.87,
+            7,
+            -5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_axis_back.png",
+        "mode": "clay",
+        "view": "axis_back",
+        "camera": {
+          "label": "Zadní strana",
+          "p": [
+            6.87,
+            7,
+            -38
+          ],
+          "t": [
+            6.87,
+            6,
+            -6.9
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_axis_front.png",
+        "mode": "clay",
+        "view": "axis_front",
+        "camera": {
+          "label": "Průčelí",
+          "p": [
+            6.87,
+            6,
+            25
+          ],
+          "t": [
+            6.87,
+            6,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_axis_left.png",
+        "mode": "clay",
+        "view": "axis_left",
+        "camera": {
+          "label": "Levá strana",
+          "p": [
+            -24,
+            7,
+            -6.9
+          ],
+          "t": [
+            6.87,
+            6,
+            -6.9
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_axis_right.png",
+        "mode": "clay",
+        "view": "axis_right",
+        "camera": {
+          "label": "Pravá strana",
+          "p": [
+            37,
+            7,
+            -6.9
+          ],
+          "t": [
+            6.87,
+            6,
+            -6.9
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_detail_dormer_back.png",
+        "mode": "clay",
+        "view": "detail_dormer_back",
+        "camera": {
+          "label": "Vikýř · napojení zezadu",
+          "p": [
+            9.1,
+            10.7,
+            -5.3
+          ],
+          "t": [
+            7.285,
+            8.7,
+            -1.7
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_detail_dormer_front.png",
+        "mode": "clay",
+        "view": "detail_dormer_front",
+        "camera": {
+          "label": "Vikýř · čelo",
+          "p": [
+            7.285,
+            8.6,
+            4
+          ],
+          "t": [
+            7.285,
+            8.5,
+            -0.5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_detail_dormer_side.png",
+        "mode": "clay",
+        "view": "detail_dormer_side",
+        "camera": {
+          "label": "Vikýř · bok",
+          "p": [
+            10.5,
+            9.4,
+            -0.7
+          ],
+          "t": [
+            7.285,
+            8.4,
+            -1.5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_detail_dormer_top.png",
+        "mode": "clay",
+        "view": "detail_dormer_top",
+        "camera": {
+          "label": "Vikýř · shora",
+          "p": [
+            7.285,
+            13,
+            -1.8
+          ],
+          "t": [
+            7.285,
+            8.5,
+            -1.5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_detail_steps_below.png",
+        "mode": "clay",
+        "view": "detail_steps_below",
+        "camera": {
+          "label": "Schody · spodní spoj",
+          "p": [
+            -0.5,
+            -1.8,
+            2.8
+          ],
+          "t": [
+            1.23,
+            0,
+            0
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_roof_oblique_back_left.png",
+        "mode": "clay",
+        "view": "roof_oblique_back_left",
+        "camera": {
+          "label": "Střecha · zadní levý roh",
+          "p": [
+            -15,
+            23,
+            -33
+          ],
+          "t": [
+            6.87,
+            7,
+            -6
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_roof_oblique_back_right.png",
+        "mode": "clay",
+        "view": "roof_oblique_back_right",
+        "camera": {
+          "label": "Střecha · zadní pravý roh",
+          "p": [
+            29,
+            23,
+            -33
+          ],
+          "t": [
+            6.87,
+            7,
+            -6
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_roof_oblique_front_left.png",
+        "mode": "clay",
+        "view": "roof_oblique_front_left",
+        "camera": {
+          "label": "Střecha · přední levý roh",
+          "p": [
+            -15,
+            23,
+            22
+          ],
+          "t": [
+            6.87,
+            7,
+            -5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      },
+      {
+        "file": "clay_roof_oblique_front_right.png",
+        "mode": "clay",
+        "view": "roof_oblique_front_right",
+        "camera": {
+          "label": "Střecha · přední pravý roh",
+          "p": [
+            29,
+            23,
+            22
+          ],
+          "t": [
+            6.87,
+            7,
+            -5
+          ]
+        },
+        "fov": 38,
+        "exposure": 0.8,
+        "screenshot_size": [
+          1164,
+          655
+        ],
+        "pass": true,
+        "reviewed_at": "2026-09-26T03:56:28.242104+00:00",
+        "notes": "No open dormer seams, UV bleed or opening displacement; existing undocumented walls remain provisional."
+      }
+    ]
+  },
+  "summary_cs": "V9: zkontrolováno 25 texturovaných a 13 clay pohledů, detaily vikýře ze čtyř stran, spodní spoj schodů při rotaci a identita pramene. Obě opravená tělesa jsou uzavřená; textury z v8 zůstaly stejné.",
+  "summary_en": "V9: 25 textured and 13 clay views reviewed, including four dormer details, the stair underside during rotation, and source identity. Both repaired meshes are closed; v8 textures are unchanged.",
+  "rotation_review": {
+    "initial_camera": {
+      "label": "Schody · spodní spoj",
+      "p": [
+        -0.5,
+        -1.8,
+        2.8
+      ],
+      "t": [
+        1.23,
+        0,
+        0
+      ]
+    },
+    "actions": "Three successive pointer drags (650,400) to (700,420)",
+    "screenshots": [
+      "rotation_steps_0.png",
+      "rotation_steps_1.png",
+      "rotation_steps_2.png"
+    ],
+    "finding": "No coplanar surface flicker visible in reviewed angles."
+  },
+  "identity": [
+    "identity_source_click.png",
+    "identity_plan_click.png"
+  ],
+  "limitations": [
+    "The hidden roof junction and detailed dormer construction are provisional, not a measured historical survey.",
+    "The step count and dimensions remain the v7 hypothesis."
+  ]
+}

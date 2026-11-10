@@ -1,0 +1,21 @@
+[
+  {
+    "geometryMaxDistanceFromR16": 0.0,
+    "triangles": 61230,
+    "collapsedBaseUV": 0,
+    "collapsedSecondaryUV": 0,
+    "normalMaterials": [
+      "CP40_A_bump_r17",
+      "CP40_B_bump_r17",
+      "CP40_C_background_hypothesis_bump_r17",
+      "CP40_plaster_bump_r17",
+      "CP40_roof_R002A_bump_r19"
+    ],
+    "embeddedImages": 9,
+    "allImagesEmbedded": true,
+    "roofNormalUsesIndependentUV": true,
+    "passed": true,
+    "collapsedTexturedTriangles": 0,
+    "technicalPassed": true
+  }
+]

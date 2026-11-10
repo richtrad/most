@@ -1,0 +1,21 @@
+{
+  "blend_reopened": true,
+  "changed_objects": [],
+  "unchanged_objects": 14,
+  "packed_texture_hashes_unchanged": true,
+  "image_hashes": {
+    "cp_261_001_col_cr_front.png": "34ad3f97a36db3c56e586c4c4f7e86632f02c17600b303e7d5fb58eb48f3d7fc",
+    "facade_before.png": "35497ed2c8770c463e0885566bbfdf5cb6b12401dd94ae31bcfab10cc155203f",
+    "generated_plaster_periodic.png": "555cc13850e7f5f0bbc7cc11f7e8d8cd9c6b87804e53b29237cf75c675f08ed4",
+    "generated_plaster_periodic.png.001": "555cc13850e7f5f0bbc7cc11f7e8d8cd9c6b87804e53b29237cf75c675f08ed4",
+    "generated_stone_periodic.png": "048ae4c209404bff09552c4ecd9662ea0511a80748b5985bda57a9f53600ad4a",
+    "generated_wood.png": "70883386b1ca2d594c95dbea17d60d0bebffdfba272687bb3aa8fccd2cb764ea",
+    "registered_facade.png": "9f0710df5b479aab7c2e974c04fb4c47d097daac60840e31d6297d104a707faa",
+    "roof_material_v2.png": "993df368f0f04c7d7ecb1550bf2201d3a4f9d034fc9068be0ff8a0c4965e340d",
+    "window_timber.png": "be2e32ebb49ee22287f0ee2c8cef0708680ad58db58a4a297ae93f9bbacc7b52"
+  },
+  "glb_embedded_images": 8,
+  "model_sha256": "15db1ff532444830c990aa87d423d2d293f13e1eaee78ed8d7aa16efeac3b7e3",
+  "model_bytes": 17787648,
+  "visual_passed": "see qa/visual_qa.json"
+}

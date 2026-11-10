@@ -1,0 +1,781 @@
+{
+  "passed": true,
+  "model_sha256": "3b7587d3180f28a5dd16f58367db1a4e926de47879fcb3ef42b319bbaf0c60d8",
+  "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+  "summary_cs": "Oprava ověřena: 20 barevných pohledů, 10 clay, 6 LOD a samostatná kontrola textury se skrytými 3D okapy. Tři schody jsou pracovní hypotéza.",
+  "views": [
+    {
+      "id": "axis_back",
+      "mode": "after",
+      "screenshot": "after_axis_back.png",
+      "camera": {
+        "label": "Zadní strana",
+        "p": [
+          6.87,
+          7,
+          -38
+        ],
+        "t": [
+          6.87,
+          6,
+          -6.9
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_front",
+      "mode": "after",
+      "screenshot": "after_axis_front.png",
+      "camera": {
+        "label": "Průčelí",
+        "p": [
+          6.87,
+          6,
+          25
+        ],
+        "t": [
+          6.87,
+          6,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_left",
+      "mode": "after",
+      "screenshot": "after_axis_left.png",
+      "camera": {
+        "label": "Levá strana",
+        "p": [
+          -24,
+          7,
+          -6.9
+        ],
+        "t": [
+          6.87,
+          6,
+          -6.9
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_right",
+      "mode": "after",
+      "screenshot": "after_axis_right.png",
+      "camera": {
+        "label": "Pravá strana",
+        "p": [
+          37,
+          7,
+          -6.9
+        ],
+        "t": [
+          6.87,
+          6,
+          -6.9
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_corner",
+      "mode": "after",
+      "screenshot": "after_detail_corner.png",
+      "camera": {
+        "label": "Nároží",
+        "p": [
+          -4,
+          4,
+          5
+        ],
+        "t": [
+          0.4,
+          3.6,
+          -0.2
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_cornice",
+      "mode": "after",
+      "screenshot": "after_detail_cornice.png",
+      "camera": {
+        "label": "Římsa a okap",
+        "p": [
+          8,
+          9,
+          5.2
+        ],
+        "t": [
+          6.5,
+          6.9,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_damage",
+      "mode": "after",
+      "screenshot": "after_detail_damage.png",
+      "camera": {
+        "label": "Poškození omítky",
+        "p": [
+          4.2,
+          4.8,
+          4
+        ],
+        "t": [
+          4.2,
+          4.8,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_door",
+      "mode": "after",
+      "screenshot": "after_detail_door.png",
+      "camera": {
+        "label": "Dveře",
+        "p": [
+          -1,
+          2.2,
+          4
+        ],
+        "t": [
+          1.2,
+          1.3,
+          -0.1
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Tři objemové stupně, přerušený sokl, dveřní křídlo končí nad nášlapem; počet stupňů je hypotéza."
+    },
+    {
+      "id": "detail_facade",
+      "mode": "after",
+      "screenshot": "after_detail_facade.png",
+      "camera": {
+        "label": "Detail průčelí",
+        "p": [
+          6.8,
+          4.2,
+          19
+        ],
+        "t": [
+          6.8,
+          3.7,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_pipe",
+      "mode": "after",
+      "screenshot": "after_detail_pipe.png",
+      "camera": {
+        "label": "Pravý svod",
+        "p": [
+          17,
+          6.7,
+          5
+        ],
+        "t": [
+          13.25,
+          4.7,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_pipe_top",
+      "mode": "after",
+      "screenshot": "after_detail_pipe_top.png",
+      "camera": {
+        "label": "Napojení svodu",
+        "p": [
+          15.3,
+          7.5,
+          2.7
+        ],
+        "t": [
+          13.3,
+          6.5,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_roof",
+      "mode": "after",
+      "screenshot": "after_detail_roof.png",
+      "camera": {
+        "label": "Vikýře",
+        "p": [
+          3.6,
+          12.3,
+          9
+        ],
+        "t": [
+          7.1,
+          9,
+          -2.4
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_steps",
+      "mode": "after",
+      "screenshot": "after_detail_steps.png",
+      "camera": {
+        "label": "Schody a práh",
+        "p": [
+          -1.1,
+          1.65,
+          2.8
+        ],
+        "t": [
+          1.23,
+          0.5,
+          0.25
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Tři objemové stupně, přerušený sokl, dveřní křídlo končí nad nášlapem; počet stupňů je hypotéza."
+    },
+    {
+      "id": "detail_steps_right",
+      "mode": "after",
+      "screenshot": "after_detail_steps_right.png",
+      "camera": {
+        "label": "Schody zprava",
+        "p": [
+          3.7,
+          1.6,
+          2.7
+        ],
+        "t": [
+          1.23,
+          0.5,
+          0.25
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Tři objemové stupně, přerušený sokl, dveřní křídlo končí nad nášlapem; počet stupňů je hypotéza."
+    },
+    {
+      "id": "detail_window",
+      "mode": "after",
+      "screenshot": "after_detail_window.png",
+      "camera": {
+        "label": "Okno a ostění zleva",
+        "p": [
+          2.5,
+          5.7,
+          4.5
+        ],
+        "t": [
+          5.8,
+          5.4,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_window_right",
+      "mode": "after",
+      "screenshot": "after_detail_window_right.png",
+      "camera": {
+        "label": "Okno a ostění zprava",
+        "p": [
+          9.6,
+          5.7,
+          4.5
+        ],
+        "t": [
+          8.05,
+          5.4,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "roof_oblique_back_left",
+      "mode": "after",
+      "screenshot": "after_roof_oblique_back_left.png",
+      "camera": {
+        "label": "Střecha · zadní levý roh",
+        "p": [
+          -15,
+          23,
+          -33
+        ],
+        "t": [
+          6.87,
+          7,
+          -6
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "roof_oblique_back_right",
+      "mode": "after",
+      "screenshot": "after_roof_oblique_back_right.png",
+      "camera": {
+        "label": "Střecha · zadní pravý roh",
+        "p": [
+          29,
+          23,
+          -33
+        ],
+        "t": [
+          6.87,
+          7,
+          -6
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "roof_oblique_front_left",
+      "mode": "after",
+      "screenshot": "after_roof_oblique_front_left.png",
+      "camera": {
+        "label": "Střecha · přední levý roh",
+        "p": [
+          -15,
+          23,
+          22
+        ],
+        "t": [
+          6.87,
+          7,
+          -5
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "roof_oblique_front_right",
+      "mode": "after",
+      "screenshot": "after_roof_oblique_front_right.png",
+      "camera": {
+        "label": "Střecha · přední pravý roh",
+        "p": [
+          29,
+          23,
+          22
+        ],
+        "t": [
+          6.87,
+          7,
+          -5
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_back",
+      "mode": "clay",
+      "screenshot": "clay_axis_back.png",
+      "camera": {
+        "label": "Zadní strana",
+        "p": [
+          6.87,
+          7,
+          -38
+        ],
+        "t": [
+          6.87,
+          6,
+          -6.9
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_front",
+      "mode": "clay",
+      "screenshot": "clay_axis_front.png",
+      "camera": {
+        "label": "Průčelí",
+        "p": [
+          6.87,
+          6,
+          25
+        ],
+        "t": [
+          6.87,
+          6,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_left",
+      "mode": "clay",
+      "screenshot": "clay_axis_left.png",
+      "camera": {
+        "label": "Levá strana",
+        "p": [
+          -24,
+          7,
+          -6.9
+        ],
+        "t": [
+          6.87,
+          6,
+          -6.9
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_right",
+      "mode": "clay",
+      "screenshot": "clay_axis_right.png",
+      "camera": {
+        "label": "Pravá strana",
+        "p": [
+          37,
+          7,
+          -6.9
+        ],
+        "t": [
+          6.87,
+          6,
+          -6.9
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_steps",
+      "mode": "clay",
+      "screenshot": "clay_detail_steps.png",
+      "camera": {
+        "label": "Schody a práh",
+        "p": [
+          -1.1,
+          1.65,
+          2.8
+        ],
+        "t": [
+          1.23,
+          0.5,
+          0.25
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Tři objemové stupně, přerušený sokl, dveřní křídlo končí nad nášlapem; počet stupňů je hypotéza."
+    },
+    {
+      "id": "detail_steps_right",
+      "mode": "clay",
+      "screenshot": "clay_detail_steps_right.png",
+      "camera": {
+        "label": "Schody zprava",
+        "p": [
+          3.7,
+          1.6,
+          2.7
+        ],
+        "t": [
+          1.23,
+          0.5,
+          0.25
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Tři objemové stupně, přerušený sokl, dveřní křídlo končí nad nášlapem; počet stupňů je hypotéza."
+    },
+    {
+      "id": "roof_oblique_back_left",
+      "mode": "clay",
+      "screenshot": "clay_roof_oblique_back_left.png",
+      "camera": {
+        "label": "Střecha · zadní levý roh",
+        "p": [
+          -15,
+          23,
+          -33
+        ],
+        "t": [
+          6.87,
+          7,
+          -6
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "roof_oblique_back_right",
+      "mode": "clay",
+      "screenshot": "clay_roof_oblique_back_right.png",
+      "camera": {
+        "label": "Střecha · zadní pravý roh",
+        "p": [
+          29,
+          23,
+          -33
+        ],
+        "t": [
+          6.87,
+          7,
+          -6
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "roof_oblique_front_left",
+      "mode": "clay",
+      "screenshot": "clay_roof_oblique_front_left.png",
+      "camera": {
+        "label": "Střecha · přední levý roh",
+        "p": [
+          -15,
+          23,
+          22
+        ],
+        "t": [
+          6.87,
+          7,
+          -5
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "roof_oblique_front_right",
+      "mode": "clay",
+      "screenshot": "clay_roof_oblique_front_right.png",
+      "camera": {
+        "label": "Střecha · přední pravý roh",
+        "p": [
+          29,
+          23,
+          22
+        ],
+        "t": [
+          6.87,
+          7,
+          -5
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "axis_front",
+      "mode": "lod",
+      "screenshot": "lod_axis_front.png",
+      "camera": {
+        "label": "Průčelí",
+        "p": [
+          6.87,
+          6,
+          25
+        ],
+        "t": [
+          6.87,
+          6,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_pipe",
+      "mode": "lod",
+      "screenshot": "lod_detail_pipe.png",
+      "camera": {
+        "label": "Pravý svod",
+        "p": [
+          17,
+          6.7,
+          5
+        ],
+        "t": [
+          13.25,
+          4.7,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_pipe_top",
+      "mode": "lod",
+      "screenshot": "lod_detail_pipe_top.png",
+      "camera": {
+        "label": "Napojení svodu",
+        "p": [
+          15.3,
+          7.5,
+          2.7
+        ],
+        "t": [
+          13.3,
+          6.5,
+          0
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    },
+    {
+      "id": "detail_steps",
+      "mode": "lod",
+      "screenshot": "lod_detail_steps.png",
+      "camera": {
+        "label": "Schody a práh",
+        "p": [
+          -1.1,
+          1.65,
+          2.8
+        ],
+        "t": [
+          1.23,
+          0.5,
+          0.25
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Tři objemové stupně, přerušený sokl, dveřní křídlo končí nad nášlapem; počet stupňů je hypotéza."
+    },
+    {
+      "id": "detail_steps_right",
+      "mode": "lod",
+      "screenshot": "lod_detail_steps_right.png",
+      "camera": {
+        "label": "Schody zprava",
+        "p": [
+          3.7,
+          1.6,
+          2.7
+        ],
+        "t": [
+          1.23,
+          0.5,
+          0.25
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Tři objemové stupně, přerušený sokl, dveřní křídlo končí nad nášlapem; počet stupňů je hypotéza."
+    },
+    {
+      "id": "roof_oblique_front_left",
+      "mode": "lod",
+      "screenshot": "lod_roof_oblique_front_left.png",
+      "camera": {
+        "label": "Střecha · přední levý roh",
+        "p": [
+          -15,
+          23,
+          22
+        ],
+        "t": [
+          6.87,
+          7,
+          -5
+        ]
+      },
+      "reviewed_at": "2026-09-26T02:59:54.909301+00:00",
+      "passed": true,
+      "notes": "Zkontrolováno: geometrie, UV, návaznost, měřítko materiálu. Fotografovaný svod odstraněn, 3D kov zachován."
+    }
+  ],
+  "checks": {
+    "entrance_steps_reviewed": true,
+    "no_duplicate_geometry_in_albedo": true,
+    "source_and_plan_clicked": true
+  },
+  "additional_evidence": [
+    "without_geometry_pipe.png",
+    "without_geometry_pipe_top.png",
+    "identity_source_click.png",
+    "identity_plan_click.png"
+  ],
+  "limits": [
+    "Počet tří stupňů, jejich výška 0.16 m a nášlap 0.28 m jsou provisional model_hypothesis, locked:false.",
+    "Původní fotografie spodní část vstupu zakrývá.",
+    "Skryté stěny a jemné profily zůstávají odhadem."
+  ],
+  "supersedes_visual_acceptance": "v6 had missed duplicated pipe and door-base issues; v6 assets preserved"
+}

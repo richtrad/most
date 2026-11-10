@@ -1,0 +1,18 @@
+{
+  "window": "weekly account aggregate rounded percentage, not exact tokens",
+  "stages": [
+    {
+      "stage": "start",
+      "usedPercent": 74
+    },
+    {
+      "stage": "after_5_image_edits",
+      "usedPercent": 74
+    },
+    {
+      "stage": "final",
+      "usedPercent": 75
+    }
+  ],
+  "cannot_attribute_exact_tokens": true
+}

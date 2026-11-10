@@ -1,0 +1,62 @@
+{
+  "decision": "Reject previous cp263 FRONT and model as architecture evidence; reconstruct three-axis house adjoining ornate cp262",
+  "evidence": [
+    "sources/cp_261,262,263_001.jpg: handwritten cp263 under low three-window house right of cp262",
+    "sources/cp_263_003.jpg: named cp263, parcel immediately right of cp262",
+    "sources/cp_111,263,264_001.jpg: matching low three-window facade adjoining ornate cp262"
+  ],
+  "facade_quad_original_pixels": [
+    [
+      223.0,
+      1044.0
+    ],
+    [
+      438.0,
+      970.0
+    ],
+    [
+      438.0,
+      1630.0
+    ],
+    [
+      220.0,
+      1613.0
+    ]
+  ],
+  "homography": [
+    [
+      5.548479098232427,
+      0.02925384410315877,
+      -1267.851852149529
+    ],
+    [
+      0.39570698813279914,
+      1.149689222277726,
+      -1288.5182064115602
+    ],
+    [
+      0.0007514458735987498,
+      2.8484755699278223e-05,
+      0.8026894852374323
+    ]
+  ],
+  "rectified_size": [
+    1028,
+    645
+  ],
+  "width_m": 10.28,
+  "wall_height_m": 6.45,
+  "depth_m": 18.8,
+  "roof_rise_m": 5.7,
+  "limits": [
+    "Plan 1910 and photos not proven contemporaneous",
+    "Photographic rectification is approximate, not calibrated survey",
+    "Rear and side apertures not documented; do not invent"
+  ],
+  "critical_issue_resolved_for_working_model": true,
+  "user_informed": true,
+  "user_direction": "rozhodni sam",
+  "confidence": "model_hypothesis",
+  "status": "provisional",
+  "locked": false
+}

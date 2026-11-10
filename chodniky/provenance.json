@@ -1,0 +1,318 @@
+{
+  "date": "2026-09-09",
+  "assets": [
+    {
+      "asset": "P001_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P001_A_tile.png",
+      "source_sha256": "93bce4c446ac280094153e4e34ded887da54b664bce29a497c2f72b3fba78e5e",
+      "width": 1027,
+      "height": 933,
+      "lossless": true
+    },
+    {
+      "asset": "P001_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P001_B_tile.png",
+      "source_sha256": "6dac8d753fbd2e42ded3f057e104ae60fb447ac43e636f4e98d6b4088aaf5e1a",
+      "width": 1027,
+      "height": 965,
+      "lossless": true
+    },
+    {
+      "asset": "P001_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P001_C_tile.png",
+      "source_sha256": "b9a4f14fca95ec6d29453dff394d0c74d9c0e2d8c8fa29f5e41bc6c9d7c0d7b8",
+      "width": 917,
+      "height": 1059,
+      "lossless": true
+    },
+    {
+      "asset": "P002_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P002_A_tile.png",
+      "source_sha256": "50f1a6b636dee527dd3fb83faa25345a96243f3a896a437f1556215d31eaa2c8",
+      "width": 996,
+      "height": 996,
+      "lossless": true
+    },
+    {
+      "asset": "P002_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P002_B_tile.png",
+      "source_sha256": "30e9fdfb636aed3d64118762511d486ed6ca08981145b684e4732582acf62705",
+      "width": 996,
+      "height": 965,
+      "lossless": true
+    },
+    {
+      "asset": "P002_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P002_C_tile.png",
+      "source_sha256": "af883058cb8e912f18c773c047d07560c686b75ef7ae2af6f3c947c5f4b63c53",
+      "width": 996,
+      "height": 980,
+      "lossless": true
+    },
+    {
+      "asset": "P003_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P003_A_tile.png",
+      "source_sha256": "d94048ad854e5b2af48ceeb9ff088f28a65ced223530947c4d69b1a439feeec6",
+      "width": 949,
+      "height": 870,
+      "lossless": true
+    },
+    {
+      "asset": "P003_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P003_B_tile.png",
+      "source_sha256": "26f2dcc23d269e2555117c9ec5bdf655ed10f7e190524d44ed033779d8cf50d0",
+      "width": 949,
+      "height": 870,
+      "lossless": true
+    },
+    {
+      "asset": "P003_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P003_C_tile.png",
+      "source_sha256": "1ab6fca2d143ddc733b2f3f45349dacdebb355f8f93f0024873b9f526043cae3",
+      "width": 965,
+      "height": 1074,
+      "lossless": true
+    },
+    {
+      "asset": "P004_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P004_A_tile.png",
+      "source_sha256": "f46bb361728a3aa260b36d336d179c50dc9dacfd5e08dd4510081f9ec26c2107",
+      "width": 980,
+      "height": 902,
+      "lossless": true
+    },
+    {
+      "asset": "P004_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P004_B_tile.png",
+      "source_sha256": "a13b66638f78b1fc8153338065b35d2a39deda07262ef9147f30b5c1dd1c2a75",
+      "width": 1074,
+      "height": 870,
+      "lossless": true
+    },
+    {
+      "asset": "P004_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P004_C_tile.png",
+      "source_sha256": "0a4ebf44be707b862a7da213dfd58be7c6f1a9b67d15a7b5c1f7fe5b75fb513e",
+      "width": 917,
+      "height": 917,
+      "lossless": true
+    },
+    {
+      "asset": "P005_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P005_A_tile.png",
+      "source_sha256": "87e7ac7122edf0374b5bb5ceebbb47f99f18c550d4b54415c4f5089f11543691",
+      "width": 1012,
+      "height": 1012,
+      "lossless": true
+    },
+    {
+      "asset": "P005_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P005_B_tile.png",
+      "source_sha256": "6dbd0921706014bcbb8c77447ae4fdfb0a36b1af6881182aa1f7ecd9355dbf4a",
+      "width": 1106,
+      "height": 996,
+      "lossless": true
+    },
+    {
+      "asset": "P005_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P005_C_tile.png",
+      "source_sha256": "a68f0a6314c96ef0755aaab571ad50ead26ae4a530a9d9632711793c71fa7d74",
+      "width": 902,
+      "height": 870,
+      "lossless": true
+    },
+    {
+      "asset": "P006_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P006_A_tile.png",
+      "source_sha256": "8ad5f33f643dda78922e287c07514200c0c8cfc0b4e514e73ffc5ade2aa644d5",
+      "width": 917,
+      "height": 886,
+      "lossless": true
+    },
+    {
+      "asset": "P006_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P006_B_tile.png",
+      "source_sha256": "18a99696ddb142fa4589b4688fd35f3a630da55dce39eebfc00d66624b6b09aa",
+      "width": 996,
+      "height": 886,
+      "lossless": true
+    },
+    {
+      "asset": "P006_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P006_C_tile.png",
+      "source_sha256": "cb9eb2539b562301bdae72211af543fb8da49cbeacb12444eb212bc3b08201b3",
+      "width": 1059,
+      "height": 870,
+      "lossless": true
+    },
+    {
+      "asset": "P007_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P007_A_tile.png",
+      "source_sha256": "5897c3054f9076d23c45c4957161700956ac8ae16137647cc7e30d713a1fa1a4",
+      "width": 902,
+      "height": 870,
+      "lossless": true
+    },
+    {
+      "asset": "P007_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P007_B_tile.png",
+      "source_sha256": "e6dcf0ffb29b23afdf0cc329a551483b458f3e64a0c80227aff841b4d6e1026b",
+      "width": 1059,
+      "height": 996,
+      "lossless": true
+    },
+    {
+      "asset": "P007_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P007_C_tile.png",
+      "source_sha256": "a3c37db5c06bf9f85420944868cec431a02b6108430909d9bb2c86b5d6cf2d93",
+      "width": 1106,
+      "height": 949,
+      "lossless": true
+    },
+    {
+      "asset": "P008_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P008_A_tile.png",
+      "source_sha256": "2e2348aa96fdc38de55d784c6500fe6b1a5d5f32dc7fb270d492b0189c0bbca2",
+      "width": 902,
+      "height": 933,
+      "lossless": true
+    },
+    {
+      "asset": "P008_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P008_B_tile.png",
+      "source_sha256": "52e6f07a4b48abb9bbdac12edffde40d34d021fd3b8562ec30018e3a4818ad72",
+      "width": 933,
+      "height": 870,
+      "lossless": true
+    },
+    {
+      "asset": "P008_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P008_C_tile.png",
+      "source_sha256": "0086079a9482e6ee62eddcfd5707d8f9d35fa9fed3faecf98012be6192866bfa",
+      "width": 917,
+      "height": 949,
+      "lossless": true
+    },
+    {
+      "asset": "P009_A.webp",
+      "source": "output/pavement_texture_library_v2/textures/P009_A_tile.png",
+      "source_sha256": "af18044cf7534212a2c708135e459446f51597677789827de05ae00a3d15a74a",
+      "width": 933,
+      "height": 886,
+      "lossless": true
+    },
+    {
+      "asset": "P009_B.webp",
+      "source": "output/pavement_texture_library_v2/textures/P009_B_tile.png",
+      "source_sha256": "fc6a768d1783042e7bdd4a142c913caaa7396fb25804fd183e5128bf03443773",
+      "width": 996,
+      "height": 1027,
+      "lossless": true
+    },
+    {
+      "asset": "P009_C.webp",
+      "source": "output/pavement_texture_library_v2/textures/P009_C_tile.png",
+      "source_sha256": "731f5abacb58ccbd733c5663450241f7b65da9e4eead327019695c3434713db2",
+      "width": 870,
+      "height": 965,
+      "lossless": true
+    },
+    {
+      "asset": "P004-01_selection.webp",
+      "source": "output/pavement_texture_library_v2/process/P004/01_selection.jpg",
+      "source_sha256": "bc2188f8dc7b3cb23113f4686ac5e903842b4af98b8b70a6c6492c882edc69b3",
+      "width": 809,
+      "height": 1100,
+      "lossless": false
+    },
+    {
+      "asset": "P004-02_crop.webp",
+      "source": "output/pavement_texture_library_v2/process/P004/02_crop.png",
+      "source_sha256": "ba588332b4a52bca02648fb040bc339b131ba0c65d3bc6ff56546d85dafa7513",
+      "width": 620,
+      "height": 520,
+      "lossless": false
+    },
+    {
+      "asset": "P004-06_x_periodic.webp",
+      "source": "output/pavement_texture_library_v2/process/P004/06_x_periodic.png",
+      "source_sha256": "bd0f80bbee46d4e638219e12257824a92d48911a7f57e59a68d742943e16ab3b",
+      "width": 980,
+      "height": 1254,
+      "lossless": false
+    },
+    {
+      "asset": "P004-08_corner.webp",
+      "source": "output/pavement_texture_library_v2/process/P004/08_corner.png",
+      "source_sha256": "27cbe2571087b1c23c983e1bbbcae8f6b178580c48f2dd33c07314fae2945243",
+      "width": 384,
+      "height": 384,
+      "lossless": false
+    },
+    {
+      "asset": "P004-08_repeat.webp",
+      "source": "output/pavement_texture_library_v2/process/P004/08_repeat.jpg",
+      "source_sha256": "d4397a0742c7ccdd2f3e7e7d5911d441d5a142a4797b23f27f4a1066b62b076e",
+      "width": 1080,
+      "height": 993,
+      "lossless": false
+    },
+    {
+      "asset": "P004-generated.webp",
+      "source": "output/pavement_texture_library_v2/generated/P004_A.png",
+      "source_sha256": "63d04cc52e5393457f14d5eeff6e3c082139d00078e44f839db1dcaf572aaca2",
+      "width": 1254,
+      "height": 1254,
+      "lossless": false
+    },
+    {
+      "asset": "P001-01_selection.webp",
+      "source": "output/pavement_texture_library_v2/process/P001/01_selection.jpg",
+      "source_sha256": "dbdc285c2aa04dc2744c520611e4a91ec805aef158315d657892b18d3dc2c63b",
+      "width": 1100,
+      "height": 741,
+      "lossless": false
+    },
+    {
+      "asset": "P001-02_crop.webp",
+      "source": "output/pavement_texture_library_v2/process/P001/02_crop.png",
+      "source_sha256": "479c00ebd39ec484256f161dc0aa9ffd2f5b045e9efdb87cd3b17be9de7e3b71",
+      "width": 740,
+      "height": 225,
+      "lossless": false
+    },
+    {
+      "asset": "P001-06_x_periodic.webp",
+      "source": "output/pavement_texture_library_v2/process/P001/06_x_periodic.png",
+      "source_sha256": "c170403d826bcf1c8a701a612f8c125f3a7e071bdd6218c13875bdeddd95477d",
+      "width": 1027,
+      "height": 1254,
+      "lossless": false
+    },
+    {
+      "asset": "P001-08_corner.webp",
+      "source": "output/pavement_texture_library_v2/process/P001/08_corner.png",
+      "source_sha256": "b44e9af03de8cd22bc446b1b6a66c50f1848898e6d28ff127430371111776dc7",
+      "width": 384,
+      "height": 384,
+      "lossless": false
+    },
+    {
+      "asset": "P001-08_repeat.webp",
+      "source": "output/pavement_texture_library_v2/process/P001/08_repeat.jpg",
+      "source_sha256": "74353caf6ad5cd561fdbe26006e032c9c6a7b083a4946484adeabc57b6c5814f",
+      "width": 1080,
+      "height": 981,
+      "lossless": false
+    },
+    {
+      "asset": "P001-generated.webp",
+      "source": "output/pavement_texture_library_v2/generated/P001_A.png",
+      "source_sha256": "72db9fe007c04b7e9fa637e3c6efdf0542c9c1365815e79fae74cdbe86e94c0a",
+      "width": 1254,
+      "height": 1254,
+      "lossless": false
+    }
+  ],
+  "scope": "Seam QA does not verify historical appearance or scale. P001 is predominantly a generative design."
+}

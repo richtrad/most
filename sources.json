@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-08",
+  "note": "Paths relative to the MOST project; originals retained. Generated content is provisional. Web images are resized derivatives.",
+  "images": [
+    {
+      "asset": "musil-fit-1.webp",
+      "source": "output/grafit_most_web_2026-09-08/author_sources/musil-fit-1.png",
+      "sha256": "efbe2d4683f5874732a65b4b9fc548593edc26e551fe52e3aa239c20b40ed97c",
+      "article": "https://fit.cvut.cz/cs/zivot-na-fit/aktualne/success-stories/23749-historie-mesta-most-dostava-novy-zivot-diky-praci-studenta-fit-cvut",
+      "credit": "Jan Musil / FIT ČVUT; public illustrations accompanying the bachelor thesis story."
+    },
+    {
+      "asset": "musil-fit-2.webp",
+      "source": "output/grafit_most_web_2026-09-08/author_sources/musil-fit-2.png",
+      "sha256": "9afb28016432677710cd67018e3cd44938b7e042363e3f83fa04002aecbb590d",
+      "article": "https://fit.cvut.cz/cs/zivot-na-fit/aktualne/success-stories/23749-historie-mesta-most-dostava-novy-zivot-diky-praci-studenta-fit-cvut",
+      "credit": "Jan Musil / FIT ČVUT; public illustrations accompanying the bachelor thesis story."
+    },
+    {
+      "asset": "stablegen-blank.webp",
+      "source": "https://github.com/sakalond/StableGen/blob/main/docs/img/subway_blank.gif",
+      "sha256": "da2264cfc35f7ea0c3c82f8fc0c808a56120f5dc3bb391b0cd4bc3ae5360450e",
+      "note": "Static first-frame preview from the locally archived official gallery. Base model: Subway Station Entrance by argonius, https://www.blendswap.com/blend/19305 . Texturing showcase, not a MOST reconstruction."
+    },
+    {
+      "asset": "stablegen-default.webp",
+      "source": "https://github.com/sakalond/StableGen/blob/main/docs/img/subway_default.gif",
+      "sha256": "ecbc1eae18bbbe4c3eb5569dc68109000ebc9d3eacf9db833e5a95a62be91fd0",
+      "note": "Static first-frame preview from the locally archived official gallery. Base model: Subway Station Entrance by argonius, https://www.blendswap.com/blend/19305 . Texturing showcase, not a MOST reconstruction."
+    },
+    {
+      "asset": "stablegen-cyberpunk.webp",
+      "source": "https://github.com/sakalond/StableGen/blob/main/docs/img/subway_cyberpunk.gif",
+      "sha256": "96b4583c3e23f9e43b21c3fb1b203173f61de62fce13fb635a242e525a424ef9",
+      "note": "Static first-frame preview from the locally archived official gallery. Base model: Subway Station Entrance by argonius, https://www.blendswap.com/blend/19305 . Texturing showcase, not a MOST reconstruction."
+    },
+    {
+      "asset": "street.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/renders/core_v5.png",
+      "sha256": "b12acb9ab0afe2a7e89fc28909abe0fdd65b48ea997de74c35635e4fd4e53c6c"
+    },
+    {
+      "asset": "front.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/sources/cp_262_001_col_cr_front.png",
+      "sha256": "1ba7f8f13df7b4b00563a81d3767087920573e2509f35527a053585add31464e"
+    },
+    {
+      "asset": "original.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/sources/bw/cp_261,262,263_001.jpg",
+      "sha256": "9e44e922e859484911fb530cffaba6a2bc3bd536c743bbcf52404054c2481564"
+    },
+    {
+      "asset": "color.webp",
+      "source": "kulova_colorized/cp_261,262,263_001_col.png",
+      "sha256": "7be152934800d8db1e70c31e8dbeca3057467d66a0645e722d43bfa868f019e1"
+    },
+    {
+      "asset": "quarter.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/renders/cp262_quarter.png",
+      "sha256": "4204ad72b6c725bddc1d1414cd243470d458089ac55e81256ff0207f0114befb"
+    },
+    {
+      "asset": "returns.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/renders/cp262_returns_left.png",
+      "sha256": "0f023634b49508fb6796cfc5087f054c4f914274ab18cf3a9fa1a08944923608"
+    },
+    {
+      "asset": "clay.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/renders/cp262_lod1_clay.png",
+      "sha256": "b92cb56e2f770fa65df22f8af0653ef1eee13ee68654bd779dc1831b268c6296"
+    },
+    {
+      "asset": "registration.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/renders/front_registration_preview.png",
+      "sha256": "4be0564ebd227cb8fb54ae8fd140f1b68d5cdadd952595ce35eb3588fe70d7f5"
+    },
+    {
+      "asset": "mask.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/evidence/uv_continuation_mask.png",
+      "sha256": "6cc2eaedff5f65ff55fcb99b91d7c847bada2ca31721ac6d66873eb50501f97a"
+    },
+    {
+      "asset": "context.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/evidence/uv_continuation_target.png",
+      "sha256": "8ad65adff3bca039030fd7506980d811809ecbccb9b28e2b73ce9c243b6a3363"
+    },
+    {
+      "asset": "generated.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/generated/uv_continuation_generated.png",
+      "sha256": "10a863300a8f53fb58af8fe97d70c90c03466ccb6f879c9a7fb4d2436df9350e"
+    },
+    {
+      "asset": "comparison.webp",
+      "source": "output/kulova_front_inpaint_v5_2026-09-05/comparison_v5.jpg",
+      "sha256": "80072b0ddab39436fd8ebcfebc8aa4506e01bd9ee85a147376c68402d8dda29d"
+    },
+    {
+      "asset": "roof-plan.webp",
+      "source": "analysis/straight_skeleton_roof_pilot_2026-08-02/previews/cp_1432_straight_skeleton_plan.png",
+      "sha256": "a152000e0ea4958f6140377948fd2552671133e8724747a49bebae2bed8e6643"
+    },
+    {
+      "asset": "roof-3d.webp",
+      "source": "analysis/straight_skeleton_roof_pilot_2026-08-02/previews/cp_1432_straight_skeleton_axono.png",
+      "sha256": "ecf15ef4f284e91d2f13f28cc85c7e2801227495df477d550a1915212727b1e4"
+    },
+    {
+      "asset": "cechova.webp",
+      "source": "output/cechova_front_inpaint_v2_2026-09-05/evidence/all_roofs_review.jpg",
+      "sha256": "b55682a23afd815750fe3637bda4a3cbd3d93da413dabea82c83bbffc19d903b"
+    },
+    {
+      "asset": "roof-crops.webp",
+      "source": "output/roof_texture_library_v1/previews/crops.jpg",
+      "sha256": "b4fd69849ae93f9ba041b7469ed60b408944d32c5f877a338bfaf3487c60f4c2"
+    },
+    {
+      "asset": "R001_A.webp",
+      "source": "output/roof_texture_library_v2/generated/R001_A.png",
+      "sha256": "ae91bcd682c3cd89d970768c7a5bd7edc5831f6e40500444aeb4b23da41567f2"
+    },
+    {
+      "asset": "R001_B.webp",
+      "source": "output/roof_texture_library_v2/generated/R001_B.png",
+      "sha256": "4d8d6d25498cf8dc589ba5766f07c0911776b6e059b3a515bdce9c44c194d3be"
+    },
+    {
+      "asset": "R001_C.webp",
+      "source": "output/roof_texture_library_v2/generated/R001_C.png",
+      "sha256": "e3fc8757f8734c9721e2e5527eaffdf6f99353cea8e5edcea6721197ddb93880"
+    },
+    {
+      "asset": "R002_A.webp",
+      "source": "output/roof_texture_library_v2/generated/R002_A.png",
+      "sha256": "40cf4c7717386f17403bbb53837c61cc5c3910ef0f4abb00bab44b7df4a8ff76"
+    },
+    {
+      "asset": "R002_B.webp",
+      "source": "output/roof_texture_library_v2/generated/R002_B.png",
+      "sha256": "9af4acb7d3d3e2f68112f67698bdfb46c957ceaf6f8f4eed1ef7bfd71e1c8ce5"
+    },
+    {
+      "asset": "R002_C.webp",
+      "source": "output/roof_texture_library_v2/generated/R002_C.png",
+      "sha256": "618b9de1727e13054521805e39f03b4c9689d34990de50de4ec46838d32c20a8"
+    },
+    {
+      "asset": "R003_A.webp",
+      "source": "output/roof_texture_library_v2/generated/R003_A.png",
+      "sha256": "2a52eb504e03dd6ccc5f7948d746d780251539a947eae91d16830a4643242186"
+    },
+    {
+      "asset": "R003_B.webp",
+      "source": "output/roof_texture_library_v2/generated/R003_B.png",
+      "sha256": "e5717835d4d9b55f8d8c632f40661e9aa78f9f77ab429c4af9bab18c5421ca92"
+    },
+    {
+      "asset": "R003_C.webp",
+      "source": "output/roof_texture_library_v2/generated/R003_C.png",
+      "sha256": "5cb9eba5ab9d7564829c29e808f3c3a360557d59ae327cc66ab4094288668f01"
+    },
+    {
+      "asset": "R004_A.webp",
+      "source": "output/roof_texture_library_v2/generated/R004_A.png",
+      "sha256": "3dd8234b329ca2f3bd3ddfb121642d105e5b3554127b360a6ae6d1b691ac32e3"
+    },
+    {
+      "asset": "R004_B.webp",
+      "source": "output/roof_texture_library_v2/generated/R004_B.png",
+      "sha256": "3ad7f56482caf5c115a48e02790cc46809bab87b6588b6127783fa91bb32c411"
+    },
+    {
+      "asset": "R004_C.webp",
+      "source": "output/roof_texture_library_v2/generated/R004_C.png",
+      "sha256": "c24c187b2b284cc1a8752378d89ee9e2005f17fb992032d407d9775ea313574f"
+    },
+    {
+      "asset": "gis.svg",
+      "source": "analysis/gis_city_3d/scene-data.json",
+      "sha256": "f2d9ff8ef0af3a260e519b4748472238fb91d83a205d6bf0ec3fdad54e805383",
+      "note": "Footprint-only illustration; colours have no validation meaning."
+    },
+    {
+      "asset": "libuse-cp70.webp",
+      "source": "analysis/model_upload_2026-09-02/qa/modely5_te2_contact_sheet.png",
+      "sha256": "6d14aa535560b97b3fc2a40ba28f7ecb88cf2051d53e65febb00ada65ec66e2a",
+      "crop": [
+        0,
+        35,
+        480,
+        430
+      ],
+      "note": "Koněvova cp.70, 70-TE2.glb. Online verification: analysis/model_upload_2026-09-02/online_verify.json, 2026-09-02. Illustrative model, not attributed to StableGen."
+    }
+  ]
+}

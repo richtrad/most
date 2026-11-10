@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 943 1257" role="img" aria-labelledby="map-t map-d" class="k-map">
+<title id="map-t">Pařidelská (Paredler Straße) a okolí podle plánu města 1938 (GIS)</title><desc id="map-d">Půdorysy budov z vektorizace plánu 1938. Zeleně domy modelované v této rekonstrukci (odkazy na jejich stránky), oranžově modelované domy se štítkem hypotézy, světle s přerušovaným obrysem domy, které se ještě modelují, béžově případné nemodelované budovy ulice bez čísla popisného, šedě ostatní budovy. Půdorysy vil 426 a 1425 jsou v modelu podle stavebních plánů 1922/1925, mapa ukazuje půdorysy GIS.</desc>
+<rect width="100%" height="100%" fill="#f7f5ee"/>
+<polyline points="439.4,2360.2 428.2,2066.4 420.5,1840.5 398.8,1375.6 389.8,1062.6" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="4.1,1387.4 193.9,1207.2 515.9,726.0 669.5,545.6 693.8,418.4 754.4,321.5 1069.4,67.0 1136.0,-36.0 1287.5,-429.8 1269.3,-508.6 1166.3,-678.2 1166.3,-781.2 1414.7,-1199.2" fill="none" stroke="#9cc3d5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="851.7,2400.2 904.5,2359.7 919.0,2289.6 909.3,2190.6 873.1,2040.8 828.5,2042.9 782.5,1824.8 692.8,1358.8 557.8,676.9" fill="none" stroke="#dad6ca" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="593.2,1276.0 588.9,1257.7 583.8,1258.8 577.3,1229.1 583.2,1227.8 578.6,1206.3 614.9,1198.4 619.2,1218.5 622.2,1217.8 629.1,1249.6 625.9,1250.3 629.7,1268.1" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="614.9,1198.4 578.6,1206.3 573.2,1181.9 567.7,1183.1 562.1,1157.8 568.9,1156.4 563.9,1133.6 600.4,1125.6 604.7,1145.6 608.4,1144.8 615.5,1177.7 610.9,1178.7" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="669.2,1094.4 667.6,1085.2 662.6,1085.9 659.7,1066.3 663.3,1065.8 661.9,1056.2 697.8,1050.9 699.1,1059.5 695.6,1060.1 701.9,1089.0" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="656.5,1029.3 654.8,1019.3 650.7,1020.0 647.7,1003.2 651.5,1002.5 650.1,994.2 686.1,987.9 687.6,996.5 684.6,997.1 689.2,1023.6" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="588.2,1060.7 596.2,1099.1 565.1,1105.6 563.1,1096.3 555.9,1097.8 551.9,1078.2 558.8,1076.8 556.8,1067.1" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="588.2,1060.7 556.8,1067.1 554.8,1057.2 548.5,1058.5 545.1,1041.9 550.8,1040.7 549.2,1032.7 581.6,1026.1" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="536.2,951.2 568.7,945.2 573.6,976.2 559.2,978.5 560.2,984.5 541.9,987.4" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<polygon points="568.7,945.2 536.2,951.2 534.9,944.2 525.4,945.9 521.9,926.7 528.7,925.4 526.8,915.0 561.8,908.6" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<a href="cp426/" aria-label="Čp. 426"><polygon points="501.6,885.8 497.2,882.8 490.9,891.9 466.7,875.1 472.6,866.6 467.0,862.6 501.8,812.5 506.9,816.1 513.0,807.4 538.6,825.2 532.1,834.6 535.5,837.0" fill="#286b63" stroke="#8a857a" stroke-width="0.8"/></a>
+<polygon points="597.7,729.8 628.3,724.2 629.9,731.6 633.3,730.9 635.9,743.2 631.6,744.1 634.1,756.2 604.5,762.3" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<a href="cp421/" aria-label="Čp. 421"><polygon points="110.8,1151.9 105.0,1124.1 142.2,1116.8 147.7,1144.6" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8"/></a>
+<a href="cp1084/" aria-label="Čp. 1084"><polygon points="792.7,153.9 786.4,111.8 831.2,105.0 837.7,147.7" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8"/></a>
+<a href="cp1425/" aria-label="Čp. 1425"><polygon points="591.4,684.6 596.1,678.0 593.0,675.9 606.1,658.1 609.7,660.0 616.8,650.1 646.9,675.1 637.1,688.6 633.5,685.8 619.2,705.3" fill="#286b63" stroke="#8a857a" stroke-width="0.8"/></a>
+<text x="501.8" y="852.9" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">426</text>
+<text x="126.4" y="1137.9" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">421</text>
+<text x="812.3" y="132.7" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">1084</text>
+<text x="617.4" y="681.5" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">1425</text>
+</svg>

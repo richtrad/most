@@ -1,0 +1,2675 @@
+{
+  "passed": false,
+  "status": "blocked_historical_geometry",
+  "browser_review_completed": true,
+  "reviewed_by": "SOL6.1",
+  "reviewed_at": "2026-10-02T07:41:48.732421+00:00",
+  "opening_strategy": "G",
+  "glb_sha256": "5723f3f2fd126a76f6682b22f92e90460829e5a1e5472452dba1172070d4ef1a",
+  "openings": [
+    {
+      "id": "U1",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        76,
+        176,
+        230,
+        435
+      ],
+      "views": [
+        "texture_opening_U1_front.png",
+        "texture_opening_U1_left.png",
+        "texture_opening_U1_right.png",
+        "clay_opening_U1_front.png",
+        "clay_opening_U1_left.png",
+        "clay_opening_U1_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "U2",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        360,
+        180,
+        494,
+        445
+      ],
+      "views": [
+        "texture_opening_U2_front.png",
+        "texture_opening_U2_left.png",
+        "texture_opening_U2_right.png",
+        "clay_opening_U2_front.png",
+        "clay_opening_U2_left.png",
+        "clay_opening_U2_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "U3",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        641,
+        182,
+        754,
+        447
+      ],
+      "views": [
+        "texture_opening_U3_front.png",
+        "texture_opening_U3_left.png",
+        "texture_opening_U3_right.png",
+        "clay_opening_U3_front.png",
+        "clay_opening_U3_left.png",
+        "clay_opening_U3_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "U4",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        899,
+        173,
+        1074,
+        450
+      ],
+      "views": [
+        "texture_opening_U4_front.png",
+        "texture_opening_U4_left.png",
+        "texture_opening_U4_right.png",
+        "clay_opening_U4_front.png",
+        "clay_opening_U4_left.png",
+        "clay_opening_U4_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "U5",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        1240,
+        163,
+        1448,
+        455
+      ],
+      "views": [
+        "texture_opening_U5_front.png",
+        "texture_opening_U5_left.png",
+        "texture_opening_U5_right.png",
+        "clay_opening_U5_front.png",
+        "clay_opening_U5_left.png",
+        "clay_opening_U5_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "G1",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        63,
+        740,
+        128,
+        1055
+      ],
+      "views": [
+        "texture_opening_G1_front.png",
+        "texture_opening_G1_left.png",
+        "texture_opening_G1_right.png",
+        "clay_opening_G1_front.png",
+        "clay_opening_G1_left.png",
+        "clay_opening_G1_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "D1",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        212,
+        696,
+        309,
+        1176
+      ],
+      "views": [
+        "texture_opening_D1_front.png",
+        "texture_opening_D1_left.png",
+        "texture_opening_D1_right.png",
+        "clay_opening_D1_front.png",
+        "clay_opening_D1_left.png",
+        "clay_opening_D1_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "G2",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        385,
+        742,
+        464,
+        1087
+      ],
+      "views": [
+        "texture_opening_G2_front.png",
+        "texture_opening_G2_left.png",
+        "texture_opening_G2_right.png",
+        "clay_opening_G2_front.png",
+        "clay_opening_G2_left.png",
+        "clay_opening_G2_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "G3",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        630,
+        739,
+        733,
+        979
+      ],
+      "views": [
+        "texture_opening_G3_front.png",
+        "texture_opening_G3_left.png",
+        "texture_opening_G3_right.png",
+        "clay_opening_G3_front.png",
+        "clay_opening_G3_left.png",
+        "clay_opening_G3_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "D2",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        919,
+        758,
+        1027,
+        1188
+      ],
+      "views": [
+        "texture_opening_D2_front.png",
+        "texture_opening_D2_left.png",
+        "texture_opening_D2_right.png",
+        "clay_opening_D2_front.png",
+        "clay_opening_D2_left.png",
+        "clay_opening_D2_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    },
+    {
+      "id": "G4",
+      "status": "passed_registration_only",
+      "source_bounds": [
+        1240,
+        725,
+        1374,
+        971
+      ],
+      "views": [
+        "texture_opening_G4_front.png",
+        "texture_opening_G4_left.png",
+        "texture_opening_G4_right.png",
+        "clay_opening_G4_front.png",
+        "clay_opening_G4_left.png",
+        "clay_opening_G4_right.png"
+      ],
+      "finding": "Photographic insert inside aperture; own depthUV, no frame projected over return. Photographic inner divisions remain2D and source is low-resolution. Occluded original pixels reconstructed during earlier colourization; historic dimensions unverified.",
+      "confidence": "model_hypothesis",
+      "status_historical": "provisional",
+      "locked": false
+    }
+  ],
+  "final_checks": {
+    "own_reveal_uv": {
+      "status": "passed",
+      "evidence": [
+        "contact_texture_openings_0.jpg",
+        "contact_texture_openings_1.jpg",
+        "contact_texture_openings_2.jpg"
+      ],
+      "note": "Own metric depth UV, zero degenerate export UV. Photo inner divisions are still photographic, not fully modelled."
+    },
+    "entrance_steps_reviewed": {
+      "status": "passed",
+      "evidence": [
+        "texture_detail_threshold.png",
+        "texture_detail_threshold_below.png",
+        "clay_detail_threshold_below.png"
+      ],
+      "note": "BothD1/D2 threshold dimensions match registered lower edge; solid underfill instead of floating slab. Number of historic steps undetermined, no261 staircase copied; terrain grade provisional."
+    },
+    "base_coplanar_flicker": {
+      "status": "passed",
+      "evidence": [
+        "texture_detail_threshold_below.png",
+        "clay_detail_threshold_below.png"
+      ],
+      "note": "Offset base below walls, no overlapping parallel planes at threshold. Static and alternate camera review, not video performance claim."
+    },
+    "no_duplicate_geometry_in_albedo": {
+      "status": "passed_with_scope",
+      "evidence": [
+        "texture_axis_front.png",
+        "texture_detail_corner.png",
+        "texture_detail_cornice.png"
+      ],
+      "note": "No downpipes modelled because source does not establish them. Hypothetical gutter lies above the cropped albedo, no photo pipe erased. Source-backed sill/cornice fronts align to their original face strips; rear photo hidden by actual foreground geometry."
+    },
+    "dormer_and_arch": {
+      "status": "not_applicable",
+      "evidence": [
+        "texture_roof_front_left.png",
+        "texture_roof_front_right.png"
+      ],
+      "note": "No dormer convincingly documented in chosen photographed fragment. Earlier proposed roof light does not prove photographed state."
+    },
+    "roof_and_chimneys": {
+      "status": "passed_geometry_only",
+      "evidence": [
+        "texture_detail_chimneys.png",
+        "contact_texture_axes.jpg",
+        "contact_clay_axes.jpg"
+      ],
+      "note": "Chimneys now intersect roof; roof planes closed. Exact ridge/hip extent and roof phase not established because right edge truncated."
+    },
+    "colour_resolution": {
+      "status": "passed_with_limitations",
+      "evidence": [
+        "texture_hero.png",
+        "texture_opening_U4_left.png",
+        "../evidence/large_wall_qa.json"
+      ],
+      "note": "Front1536x1200 derives from small image and cannot add historical detail. Large hidden walls use calibrated unique albedo. Ochre/slate hues provisional contrary to earliercream/red assignment; no DB rewrite."
+    },
+    "bevel_C": {
+      "status": "passed",
+      "evidence": [
+        "texture_opening_U4_left.png",
+        "clay_opening_U4_left.png"
+      ],
+      "note": "Selected exposed frame/sill/cornice/threshold edges8mm,3segments; no subdivision. Major shell corners remain straight."
+    },
+    "lettering_damage": {
+      "status": "passed_with_scope",
+      "evidence": [
+        "texture_detail_damage.png",
+        "../textures/front_raw.png"
+      ],
+      "note": "No readable facade text; photographic visible patina retained. Earlier colourization occlusion fill not asserted exact original damage."
+    },
+    "identity_source_click": {
+      "status": "passed",
+      "evidence": [
+        "source_click_0.png",
+        "source_click_1.png",
+        "source_click_2.png"
+      ],
+      "note": "Actual source dialog click, card259label and both construction sheets reviewed. House label distinguished from full parcel boundary."
+    },
+    "historical_geometry": {
+      "status": "failed",
+      "evidence": [
+        "../figures/wrong_front_and_photo.jpg",
+        "../sources/ab9ff1b1-0bb0-4685-9fd8-19d8ef804487__cp_259_001.jpg"
+      ],
+      "note": "Four-axis1871plan differs from five-axis photographed fragment, exact correspondence and right extent unresolved. Do not propagate into street."
+    }
+  },
+  "views": [
+    {
+      "view": "hero",
+      "surface": "texture",
+      "file": "texture_hero.png",
+      "camera": {
+        "position": [
+          25,
+          16,
+          25
+        ],
+        "target": [
+          7,
+          4.6,
+          -4
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "cd6fe14f46a404efab6a9a90ff86216728de32067ca1b9a37a4d7c5b85728c53"
+    },
+    {
+      "view": "axis_front",
+      "surface": "texture",
+      "file": "texture_axis_front.png",
+      "camera": {
+        "position": [
+          7,
+          5.000000000000002,
+          30
+        ],
+        "target": [
+          7,
+          5,
+          -3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "10a0761d1a1d2a55c3988a037e43aa8fa9e999c14ae3f0fbba12ef860071b596"
+    },
+    {
+      "view": "axis_right",
+      "surface": "texture",
+      "file": "texture_axis_right.png",
+      "camera": {
+        "position": [
+          38,
+          5.000000000000002,
+          -4.999999999999998
+        ],
+        "target": [
+          7,
+          5,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "7ef670414d72a550703bb697337f8ba5d5bbe9da0279ed1522d16a6d869a7d57"
+    },
+    {
+      "view": "axis_back",
+      "surface": "texture",
+      "file": "texture_axis_back.png",
+      "camera": {
+        "position": [
+          7.000000000000004,
+          5.000000000000002,
+          -38
+        ],
+        "target": [
+          7,
+          5,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "b1553c98aef9f755800447bae478281a99741904e06344773e50f5f1bebcd5e2"
+    },
+    {
+      "view": "axis_left",
+      "surface": "texture",
+      "file": "texture_axis_left.png",
+      "camera": {
+        "position": [
+          -24,
+          5.000000000000002,
+          -4.999999999999998
+        ],
+        "target": [
+          7,
+          5,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "21de6c83e98857a1fe77c6c7a56026c7965203f51d46d3ad5677ecc20f489c90"
+    },
+    {
+      "view": "roof_front_left",
+      "surface": "texture",
+      "file": "texture_roof_front_left.png",
+      "camera": {
+        "position": [
+          -15,
+          23.000000000000004,
+          20.000000000000004
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "115d91c5a7a7a4a05ad8f6818ffeac470cd859885ad3079455dd17ca2607645f"
+    },
+    {
+      "view": "roof_front_right",
+      "surface": "texture",
+      "file": "texture_roof_front_right.png",
+      "camera": {
+        "position": [
+          29,
+          23.000000000000004,
+          20.000000000000004
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "4075fc8f3d07852e6e0a47e29db5af27f45099dce338a0fc3df0cfef755f43be"
+    },
+    {
+      "view": "roof_back_left",
+      "surface": "texture",
+      "file": "texture_roof_back_left.png",
+      "camera": {
+        "position": [
+          -15.000000000000004,
+          23.000000000000004,
+          -29.999999999999996
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "b32b6d0585af1af991f502c53a3c03f7a13145f584f691d5b8e73afbb5c51964"
+    },
+    {
+      "view": "roof_back_right",
+      "surface": "texture",
+      "file": "texture_roof_back_right.png",
+      "camera": {
+        "position": [
+          29.000000000000004,
+          23.000000000000004,
+          -29.999999999999996
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "d2f932ca3168a44f82679061b44024f83286ee0589c6f4ccccf0b4d01c2371ce"
+    },
+    {
+      "view": "detail_corner",
+      "surface": "texture",
+      "file": "texture_detail_corner.png",
+      "camera": {
+        "position": [
+          18,
+          6.000000000000001,
+          5
+        ],
+        "target": [
+          13.8,
+          4,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "d03d29d1daf6ddf2edd1d5f42b353d04cfd52bd8017c6e4556d6e66f54088b69"
+    },
+    {
+      "view": "detail_roof",
+      "surface": "texture",
+      "file": "texture_detail_roof.png",
+      "camera": {
+        "position": [
+          21,
+          19,
+          6.000000000000002
+        ],
+        "target": [
+          8,
+          10,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "f8a7e4ff22fc79e9216b106bdfd48156c48de9cbafb447a767c3eb1e5f41dbd2"
+    },
+    {
+      "view": "detail_chimneys",
+      "surface": "texture",
+      "file": "texture_detail_chimneys.png",
+      "camera": {
+        "position": [
+          15.999999999999998,
+          16,
+          -13.000000000000002
+        ],
+        "target": [
+          10,
+          11,
+          -6
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "7b0e5149ed84ef54026159cdd3d0b7441cc2fbd4b5f0dea0d9792eab28adf9c9"
+    },
+    {
+      "view": "detail_damage",
+      "surface": "texture",
+      "file": "texture_detail_damage.png",
+      "camera": {
+        "position": [
+          11,
+          0.8000000000000003,
+          4
+        ],
+        "target": [
+          11,
+          0.8,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "112bc32c139ef0ca946a443c39a3d0cef5c6cf4429e4daa4795b13242a5c7856"
+    },
+    {
+      "view": "detail_cornice",
+      "surface": "texture",
+      "file": "texture_detail_cornice.png",
+      "camera": {
+        "position": [
+          7,
+          4.499999999999999,
+          5
+        ],
+        "target": [
+          7,
+          4,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "71fa7ef9d6451ddccd2c3f4d15e40c18d74f88b2457dc9191c7e09cec219b0d9"
+    },
+    {
+      "view": "detail_threshold",
+      "surface": "texture",
+      "file": "texture_detail_threshold.png",
+      "camera": {
+        "position": [
+          2.38,
+          0.8,
+          3
+        ],
+        "target": [
+          2.38,
+          0.18,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "435ef347292da296855985ab4b18bfb76dc4702a157a1e459771f21a18f75317"
+    },
+    {
+      "view": "detail_threshold_below",
+      "surface": "texture",
+      "file": "texture_detail_threshold_below.png",
+      "camera": {
+        "position": [
+          2.38,
+          -0.16000000000000003,
+          3
+        ],
+        "target": [
+          2.38,
+          0.13,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "a3a1022079fd0240da916b59fc3cae8cc204263ea475c4557face0c3ec23586d"
+    },
+    {
+      "view": "opening_U1_front",
+      "surface": "texture",
+      "file": "texture_opening_U1_front.png",
+      "camera": {
+        "position": [
+          1.39453125,
+          6.097874999999999,
+          4.370625000000001
+        ],
+        "target": [
+          1.39453125,
+          6.037875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "2d2e371041f2d0df7d984c38343cad0900fce1daf186b1814cd07e78dc80e363"
+    },
+    {
+      "view": "opening_U1_left",
+      "surface": "texture",
+      "file": "texture_opening_U1_left.png",
+      "camera": {
+        "position": [
+          -1.1404312500000011,
+          6.097874999999999,
+          4.370625000000001
+        ],
+        "target": [
+          1.39453125,
+          6.037875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "7242c18f254db14007c0e5b26362bdc945cb0b0a20d6db12005ba0b5e1348cb3"
+    },
+    {
+      "view": "opening_U1_right",
+      "surface": "texture",
+      "file": "texture_opening_U1_right.png",
+      "camera": {
+        "position": [
+          3.929493750000001,
+          6.097874999999999,
+          4.370625000000001
+        ],
+        "target": [
+          1.39453125,
+          6.037875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "403f1a7f9b71ffb2e4e968b25b016af518e9cc7cbf9b3792b962535e2011a96a"
+    },
+    {
+      "view": "opening_U2_front",
+      "surface": "texture",
+      "file": "texture_opening_U2_front.png",
+      "camera": {
+        "position": [
+          3.8919270833333335,
+          6.050624999999999,
+          4.471875000000001
+        ],
+        "target": [
+          3.8919270833333335,
+          5.990625,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "12c42368ab895ea5e3c9846d83355bc308b346912669fbd7b7efa306be40a025"
+    },
+    {
+      "view": "opening_U2_left",
+      "surface": "texture",
+      "file": "texture_opening_U2_left.png",
+      "camera": {
+        "position": [
+          1.2982395833333333,
+          6.050624999999999,
+          4.471875000000002
+        ],
+        "target": [
+          3.8919270833333335,
+          5.990625,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "a5be57bc455fa3a761dca70323850a279c6f87021b50135fc197e67cac819e60"
+    },
+    {
+      "view": "opening_U2_right",
+      "surface": "texture",
+      "file": "texture_opening_U2_right.png",
+      "camera": {
+        "position": [
+          6.485614583333334,
+          6.050624999999999,
+          4.471875000000002
+        ],
+        "target": [
+          3.8919270833333335,
+          5.990625,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "36e853f22b8b6da9ee6fe6fabebdcfd882d5a8138ede64e58fc57c9698be2edf"
+    },
+    {
+      "view": "opening_U3_front",
+      "surface": "texture",
+      "file": "texture_opening_U3_front.png",
+      "camera": {
+        "position": [
+          6.357421875,
+          6.037124999999999,
+          4.471875000000002
+        ],
+        "target": [
+          6.357421875,
+          5.977124999999999,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "cf26418fc7c782b8fc9193b048f4dd3e783f58e06f94feb5b9ee0e857fa183c0"
+    },
+    {
+      "view": "opening_U3_left",
+      "surface": "texture",
+      "file": "texture_opening_U3_left.png",
+      "camera": {
+        "position": [
+          3.7637343749999985,
+          6.037124999999999,
+          4.4718750000000025
+        ],
+        "target": [
+          6.357421875,
+          5.977124999999999,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "cde78338b3029783bb1161e50b19f0fd3fda37bc86474de57e5353b0d57732bf"
+    },
+    {
+      "view": "opening_U3_right",
+      "surface": "texture",
+      "file": "texture_opening_U3_right.png",
+      "camera": {
+        "position": [
+          8.951109375000001,
+          6.037124999999999,
+          4.4718750000000025
+        ],
+        "target": [
+          6.357421875,
+          5.977124999999999,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "5395ec56fb4de68fdf9a4a01cf4f31a82992285a54cbbf2c33f339923007c616"
+    },
+    {
+      "view": "opening_U4_front",
+      "surface": "texture",
+      "file": "texture_opening_U4_front.png",
+      "camera": {
+        "position": [
+          8.991536458333332,
+          6.0573749999999995,
+          4.6743749999999995
+        ],
+        "target": [
+          8.991536458333332,
+          5.997375,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "c6ac8a5b7fc67dd25b110ff3816d4891d27933325cb7c6391e188f79f3e0edff"
+    },
+    {
+      "view": "opening_U4_left",
+      "surface": "texture",
+      "file": "texture_opening_U4_left.png",
+      "camera": {
+        "position": [
+          6.280398958333333,
+          6.0573749999999995,
+          4.674374999999999
+        ],
+        "target": [
+          8.991536458333332,
+          5.997375,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "1ae00a15d78435b3c7531fb76afb20cc64f346f6abb569a439fbc056e3f65b87"
+    },
+    {
+      "view": "opening_U4_right",
+      "surface": "texture",
+      "file": "texture_opening_U4_right.png",
+      "camera": {
+        "position": [
+          11.702673958333332,
+          6.0573749999999995,
+          4.674374999999999
+        ],
+        "target": [
+          8.991536458333332,
+          5.997375,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "1193c68b2b4e7478b99e90418b17f9335a164766380968e02b674b3cc41c018b"
+    },
+    {
+      "view": "opening_U5_front",
+      "surface": "texture",
+      "file": "texture_opening_U5_front.png",
+      "camera": {
+        "position": [
+          12.25,
+          6.074249999999999,
+          4.927499999999999
+        ],
+        "target": [
+          12.25,
+          6.01425,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "efb71e07c6b66fd7dd2daa0ac49bfcafd92cac4cfa2e2f31342c87d3badebd11"
+    },
+    {
+      "view": "opening_U5_left",
+      "surface": "texture",
+      "file": "texture_opening_U5_left.png",
+      "camera": {
+        "position": [
+          9.392050000000001,
+          6.074249999999999,
+          4.9275
+        ],
+        "target": [
+          12.25,
+          6.01425,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "420057721aea7872cada495a2f5ddac34c205430fdd8fcfaba783399fbffb436"
+    },
+    {
+      "view": "opening_U5_right",
+      "surface": "texture",
+      "file": "texture_opening_U5_right.png",
+      "camera": {
+        "position": [
+          15.107949999999999,
+          6.074249999999999,
+          4.9275
+        ],
+        "target": [
+          12.25,
+          6.01425,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "ad497a800031f3f586e3a201df993215c57d6ab3827b1b98f8b5c51cdc2cc2c9"
+    },
+    {
+      "view": "opening_G1_front",
+      "surface": "texture",
+      "file": "texture_opening_G1_front.png",
+      "camera": {
+        "position": [
+          0.8704427083333333,
+          2.1018749999999997,
+          5.315624999999999
+        ],
+        "target": [
+          0.8704427083333333,
+          2.041875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "319c422e029047a369e91f147baf904700a66f5d6630655aa677d925483be388"
+    },
+    {
+      "view": "opening_G1_left",
+      "surface": "texture",
+      "file": "texture_opening_G1_left.png",
+      "camera": {
+        "position": [
+          -2.212619791666665,
+          2.1018750000000006,
+          5.315624999999999
+        ],
+        "target": [
+          0.8704427083333333,
+          2.041875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "304ba41da0d465f40ba63674bd2f1f290b41f3ed6be1a16156030e9d6851edc9"
+    },
+    {
+      "view": "opening_G1_right",
+      "surface": "texture",
+      "file": "texture_opening_G1_right.png",
+      "camera": {
+        "position": [
+          3.9535052083333326,
+          2.1018750000000006,
+          5.315624999999999
+        ],
+        "target": [
+          0.8704427083333333,
+          2.041875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "34d0145b4ad7a4ae64cb7c165f99cbcf9c76dbd9989f38d400c139d8090dc5a2"
+    },
+    {
+      "view": "opening_D1_front",
+      "surface": "texture",
+      "file": "texture_opening_D1_front.png",
+      "camera": {
+        "position": [
+          2.374348958333333,
+          1.8420000000000007,
+          8.1
+        ],
+        "target": [
+          2.374348958333333,
+          1.7819999999999998,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "5fb7f5e3b492d356ff98190e62a31c038d6fe8d813a04d4ba76770c1587bb533"
+    },
+    {
+      "view": "opening_D1_left",
+      "surface": "texture",
+      "file": "texture_opening_D1_left.png",
+      "camera": {
+        "position": [
+          -2.3236510416666665,
+          1.841999999999999,
+          8.1
+        ],
+        "target": [
+          2.374348958333333,
+          1.7819999999999998,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "19123a94cce23918d2794368699adc361abec0c986c1e248457b6dca6b89b7ae"
+    },
+    {
+      "view": "opening_D1_right",
+      "surface": "texture",
+      "file": "texture_opening_D1_right.png",
+      "camera": {
+        "position": [
+          7.0723489583333325,
+          1.841999999999999,
+          8.1
+        ],
+        "target": [
+          2.374348958333333,
+          1.7819999999999998,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "9aa22b5858f5c5ca840c6af8737895136184dfe55c831f1d718dc80fbb0311b9"
+    },
+    {
+      "view": "opening_G2_front",
+      "surface": "texture",
+      "file": "texture_opening_G2_front.png",
+      "camera": {
+        "position": [
+          3.869140625,
+          1.9871249999999994,
+          5.8218749999999995
+        ],
+        "target": [
+          3.869140625,
+          1.927125,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "b28c4d82bcd909fa5f18a6fe08029cc40a27a25949b3f570f55b1b674f28776e"
+    },
+    {
+      "view": "opening_G2_left",
+      "surface": "texture",
+      "file": "texture_opening_G2_left.png",
+      "camera": {
+        "position": [
+          0.49245312499999994,
+          1.9871249999999994,
+          5.8218749999999995
+        ],
+        "target": [
+          3.869140625,
+          1.927125,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "8531094b2410015db67f558a5f6eaf007affb666e057e699fa77e050b95e1666"
+    },
+    {
+      "view": "opening_G2_right",
+      "surface": "texture",
+      "file": "texture_opening_G2_right.png",
+      "camera": {
+        "position": [
+          7.245828124999999,
+          1.9871249999999994,
+          5.8218749999999995
+        ],
+        "target": [
+          3.869140625,
+          1.927125,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "3037915a199955645893bf5585f062bcf55b3fab713e6f1f3d98824b3269e032"
+    },
+    {
+      "view": "opening_G3_front",
+      "surface": "texture",
+      "file": "texture_opening_G3_front.png",
+      "camera": {
+        "position": [
+          6.211588541666666,
+          2.3617499999999993,
+          4.050000000000001
+        ],
+        "target": [
+          6.211588541666666,
+          2.3017499999999997,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "274a1ff90925c3cbd5c7d9e144d75255a8a3043bb8423689e5c249922f6c4a8d"
+    },
+    {
+      "view": "opening_G3_left",
+      "surface": "texture",
+      "file": "texture_opening_G3_left.png",
+      "camera": {
+        "position": [
+          3.8625885416666663,
+          2.3617500000000002,
+          4.05
+        ],
+        "target": [
+          6.211588541666666,
+          2.3017499999999997,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "601594f236bae5b7a5533a43362d1362d376028612132ddc32081ccc41e29645"
+    },
+    {
+      "view": "opening_G3_right",
+      "surface": "texture",
+      "file": "texture_opening_G3_right.png",
+      "camera": {
+        "position": [
+          8.560588541666666,
+          2.3617500000000002,
+          4.05
+        ],
+        "target": [
+          6.211588541666666,
+          2.3017499999999997,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "8c42546a2c9d1d0cfe3601a9145ccad14144277677f4b73af224aa9184a2ac6c"
+    },
+    {
+      "view": "opening_D2_front",
+      "surface": "texture",
+      "file": "texture_opening_D2_front.png",
+      "camera": {
+        "position": [
+          8.868489583333332,
+          1.5922499999999995,
+          7.25625
+        ],
+        "target": [
+          8.868489583333332,
+          1.53225,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "6d68329b3852d73e917eca5c897234049d8179e4fe6bf9b5ec22f2b1414a8171"
+    },
+    {
+      "view": "opening_D2_left",
+      "surface": "texture",
+      "file": "texture_opening_D2_left.png",
+      "camera": {
+        "position": [
+          4.659864583333332,
+          1.5922499999999993,
+          7.2562500000000005
+        ],
+        "target": [
+          8.868489583333332,
+          1.53225,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "6f95352e5a1b134ee8213d4ebe5006b8623b4d5c1237f96d109ee13be80baadd"
+    },
+    {
+      "view": "opening_D2_right",
+      "surface": "texture",
+      "file": "texture_opening_D2_right.png",
+      "camera": {
+        "position": [
+          13.077114583333334,
+          1.5922499999999993,
+          7.2562500000000005
+        ],
+        "target": [
+          8.868489583333332,
+          1.53225,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "82e0f8e2bc029061224400ccc2c46ec93c5cde6f010349f9e5a1d7f2e87db35e"
+    },
+    {
+      "view": "opening_G4_front",
+      "surface": "texture",
+      "file": "texture_opening_G4_front.png",
+      "camera": {
+        "position": [
+          11.912760416666668,
+          2.436,
+          4.151249999999999
+        ],
+        "target": [
+          11.912760416666668,
+          2.376,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "8bc30bfa90c1b4a6a8182c6e92cc01dbb85c453ee768b4e1aafeb0404161365a"
+    },
+    {
+      "view": "opening_G4_left",
+      "surface": "texture",
+      "file": "texture_opening_G4_left.png",
+      "camera": {
+        "position": [
+          9.505035416666669,
+          2.4359999999999995,
+          4.15125
+        ],
+        "target": [
+          11.912760416666668,
+          2.376,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "826bcde37354cfb5241158cd462ec90b420247cb25226a83835eeb4192952eca"
+    },
+    {
+      "view": "opening_G4_right",
+      "surface": "texture",
+      "file": "texture_opening_G4_right.png",
+      "camera": {
+        "position": [
+          14.320485416666667,
+          2.4359999999999995,
+          4.15125
+        ],
+        "target": [
+          11.912760416666668,
+          2.376,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "0a38ec2b30243980d2923550646936da0c02c8f76398fb969a75e2df370411ba"
+    },
+    {
+      "view": "axis_front",
+      "surface": "clay",
+      "file": "clay_axis_front.png",
+      "camera": {
+        "position": [
+          7,
+          5.000000000000002,
+          30
+        ],
+        "target": [
+          7,
+          5,
+          -3
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "e5edf97be58917c5e90ed192240935acc448b15d4a90ae03afe3a6e430320c3b"
+    },
+    {
+      "view": "axis_right",
+      "surface": "clay",
+      "file": "clay_axis_right.png",
+      "camera": {
+        "position": [
+          38,
+          5.000000000000002,
+          -4.999999999999998
+        ],
+        "target": [
+          7,
+          5,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "1613b6e99b52033da8f51451a884f346623ae23a06ea293f91b400cf1b9ec58a"
+    },
+    {
+      "view": "axis_back",
+      "surface": "clay",
+      "file": "clay_axis_back.png",
+      "camera": {
+        "position": [
+          7.000000000000004,
+          5.000000000000002,
+          -38
+        ],
+        "target": [
+          7,
+          5,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "054632e13bff131c26cfe4eedebe468399a94b769ac7d3d9a228675322c71abe"
+    },
+    {
+      "view": "axis_left",
+      "surface": "clay",
+      "file": "clay_axis_left.png",
+      "camera": {
+        "position": [
+          -24,
+          5.000000000000002,
+          -4.999999999999998
+        ],
+        "target": [
+          7,
+          5,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "9dc06d1ae168f466f234e5b29b6d30a435ba74820b1194104b8354b4ffe517bf"
+    },
+    {
+      "view": "roof_front_left",
+      "surface": "clay",
+      "file": "clay_roof_front_left.png",
+      "camera": {
+        "position": [
+          -15,
+          23.000000000000004,
+          20.000000000000004
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "1f522c13e446b92a9384c023a7422253d313c6a80f9305211b08e1418412900f"
+    },
+    {
+      "view": "roof_front_right",
+      "surface": "clay",
+      "file": "clay_roof_front_right.png",
+      "camera": {
+        "position": [
+          29,
+          23.000000000000004,
+          20.000000000000004
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "c1c90ff2b5e8a3a34cf34e2ec83e19b799b06e3904c146d6295a3543bb4f142e"
+    },
+    {
+      "view": "roof_back_left",
+      "surface": "clay",
+      "file": "clay_roof_back_left.png",
+      "camera": {
+        "position": [
+          -15.000000000000004,
+          23.000000000000004,
+          -29.999999999999996
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "6269f5186a3ed0266e031351baaebc4d67d6c4a577cd7f72df57987bd41d6737"
+    },
+    {
+      "view": "roof_back_right",
+      "surface": "clay",
+      "file": "clay_roof_back_right.png",
+      "camera": {
+        "position": [
+          29.000000000000004,
+          23.000000000000004,
+          -29.999999999999996
+        ],
+        "target": [
+          7,
+          7,
+          -5
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "6067318c6550208591fa0db2dd4a04567d14d7acc3547d1071f4a8621d49fb8a"
+    },
+    {
+      "view": "detail_threshold",
+      "surface": "clay",
+      "file": "clay_detail_threshold.png",
+      "camera": {
+        "position": [
+          2.38,
+          0.8,
+          3
+        ],
+        "target": [
+          2.38,
+          0.18,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "4e5ea81201a5e773d921f25cf3e95f7162300582c5405bc73ab0a78984700727"
+    },
+    {
+      "view": "detail_threshold_below",
+      "surface": "clay",
+      "file": "clay_detail_threshold_below.png",
+      "camera": {
+        "position": [
+          2.38,
+          -0.16000000000000003,
+          3
+        ],
+        "target": [
+          2.38,
+          0.13,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "e149e9e821c229c1386bc9ee454145deeb7f686ac1233b97917db2f8ec4698a4"
+    },
+    {
+      "view": "opening_U1_front",
+      "surface": "clay",
+      "file": "clay_opening_U1_front.png",
+      "camera": {
+        "position": [
+          1.39453125,
+          6.097874999999999,
+          4.370625000000001
+        ],
+        "target": [
+          1.39453125,
+          6.037875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "ac443bef9edbd2f943cbf6fe7bff408f53b74c03ff6abf2a1d53cc7d704f69c8"
+    },
+    {
+      "view": "opening_U1_left",
+      "surface": "clay",
+      "file": "clay_opening_U1_left.png",
+      "camera": {
+        "position": [
+          -1.1404312500000011,
+          6.097874999999999,
+          4.370625000000001
+        ],
+        "target": [
+          1.39453125,
+          6.037875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "65585a68a9b29f6615891299137c450e5b0a0e54f90a07129d539cd0c756f0dd"
+    },
+    {
+      "view": "opening_U1_right",
+      "surface": "clay",
+      "file": "clay_opening_U1_right.png",
+      "camera": {
+        "position": [
+          3.929493750000001,
+          6.097874999999999,
+          4.370625000000001
+        ],
+        "target": [
+          1.39453125,
+          6.037875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "9571950e1c988dab5d87935aad75b88a0719111675a6173dc82e882528113b29"
+    },
+    {
+      "view": "opening_U2_front",
+      "surface": "clay",
+      "file": "clay_opening_U2_front.png",
+      "camera": {
+        "position": [
+          3.8919270833333335,
+          6.050624999999999,
+          4.471875000000001
+        ],
+        "target": [
+          3.8919270833333335,
+          5.990625,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "6388b2c63667a7067b67d894549b93c23b6f7c3bacce882a25b1bc9f6a85f7b2"
+    },
+    {
+      "view": "opening_U2_left",
+      "surface": "clay",
+      "file": "clay_opening_U2_left.png",
+      "camera": {
+        "position": [
+          1.2982395833333333,
+          6.050624999999999,
+          4.471875000000002
+        ],
+        "target": [
+          3.8919270833333335,
+          5.990625,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "1cb6b77b157cbb34764dd495313f6c202acd8e4c3eb2a9225370067d36d1f60a"
+    },
+    {
+      "view": "opening_U2_right",
+      "surface": "clay",
+      "file": "clay_opening_U2_right.png",
+      "camera": {
+        "position": [
+          6.485614583333334,
+          6.050624999999999,
+          4.471875000000002
+        ],
+        "target": [
+          3.8919270833333335,
+          5.990625,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "7b4754b37a5546a3e32cd25f907586f09bfc2afe99e628393d0150bad71a5722"
+    },
+    {
+      "view": "opening_U3_front",
+      "surface": "clay",
+      "file": "clay_opening_U3_front.png",
+      "camera": {
+        "position": [
+          6.357421875,
+          6.037124999999999,
+          4.471875000000002
+        ],
+        "target": [
+          6.357421875,
+          5.977124999999999,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "c24ee2492a7e2b9025aae8c22fe85a3b391c09f50c3af63b54b33f225e0ddf35"
+    },
+    {
+      "view": "opening_U3_left",
+      "surface": "clay",
+      "file": "clay_opening_U3_left.png",
+      "camera": {
+        "position": [
+          3.7637343749999985,
+          6.037124999999999,
+          4.4718750000000025
+        ],
+        "target": [
+          6.357421875,
+          5.977124999999999,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "8ac74c101bc864fc5bfbb954153b908b16daa053a8957f4a9e2ca05a70ee08a1"
+    },
+    {
+      "view": "opening_U3_right",
+      "surface": "clay",
+      "file": "clay_opening_U3_right.png",
+      "camera": {
+        "position": [
+          8.951109375000001,
+          6.037124999999999,
+          4.4718750000000025
+        ],
+        "target": [
+          6.357421875,
+          5.977124999999999,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "c51028df0e968a7089075aa322092dfcca18c1839218a2366018a581eedc8bd9"
+    },
+    {
+      "view": "opening_U4_front",
+      "surface": "clay",
+      "file": "clay_opening_U4_front.png",
+      "camera": {
+        "position": [
+          8.991536458333332,
+          6.0573749999999995,
+          4.6743749999999995
+        ],
+        "target": [
+          8.991536458333332,
+          5.997375,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "e8e2f4ea1ecab829314bb65148aee2e3e5795616eb764d0e79c2bc87e08a2087"
+    },
+    {
+      "view": "opening_U4_left",
+      "surface": "clay",
+      "file": "clay_opening_U4_left.png",
+      "camera": {
+        "position": [
+          6.280398958333333,
+          6.0573749999999995,
+          4.674374999999999
+        ],
+        "target": [
+          8.991536458333332,
+          5.997375,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "d0634a796d3bb78af254f403c5f473c1e3ff6fa0bdf866fd7262c94d6d9439f5"
+    },
+    {
+      "view": "opening_U4_right",
+      "surface": "clay",
+      "file": "clay_opening_U4_right.png",
+      "camera": {
+        "position": [
+          11.702673958333332,
+          6.0573749999999995,
+          4.674374999999999
+        ],
+        "target": [
+          8.991536458333332,
+          5.997375,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "ffec4f6f9b67d3998080db88712c1114734cb9975c29c3f920662cdef59843a0"
+    },
+    {
+      "view": "opening_U5_front",
+      "surface": "clay",
+      "file": "clay_opening_U5_front.png",
+      "camera": {
+        "position": [
+          12.25,
+          6.074249999999999,
+          4.927499999999999
+        ],
+        "target": [
+          12.25,
+          6.01425,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "e559467341571c9bb13296f3ab6968699ccc0edc1e3d02a3eb21cc3713f92207"
+    },
+    {
+      "view": "opening_U5_left",
+      "surface": "clay",
+      "file": "clay_opening_U5_left.png",
+      "camera": {
+        "position": [
+          9.392050000000001,
+          6.074249999999999,
+          4.9275
+        ],
+        "target": [
+          12.25,
+          6.01425,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "2ee32ccfc4cc987c5fb77ffef71459287d3214bc98c7f0f6db69f0e780d61fcc"
+    },
+    {
+      "view": "opening_U5_right",
+      "surface": "clay",
+      "file": "clay_opening_U5_right.png",
+      "camera": {
+        "position": [
+          15.107949999999999,
+          6.074249999999999,
+          4.9275
+        ],
+        "target": [
+          12.25,
+          6.01425,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "aa7516e21f841bfc6c9a8a4aa359092e2f107b5a193410064d29929b75dc8630"
+    },
+    {
+      "view": "opening_G1_front",
+      "surface": "clay",
+      "file": "clay_opening_G1_front.png",
+      "camera": {
+        "position": [
+          0.8704427083333333,
+          2.1018749999999997,
+          5.315624999999999
+        ],
+        "target": [
+          0.8704427083333333,
+          2.041875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "51403ea1fa64bedf986017961c039f453dc0dbf8e09191b26a6cb866a463091c"
+    },
+    {
+      "view": "opening_G1_left",
+      "surface": "clay",
+      "file": "clay_opening_G1_left.png",
+      "camera": {
+        "position": [
+          -2.212619791666665,
+          2.1018750000000006,
+          5.315624999999999
+        ],
+        "target": [
+          0.8704427083333333,
+          2.041875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "16d87993db560b168ff6d0deae815c4e4773858275503757f9940da6f7949599"
+    },
+    {
+      "view": "opening_G1_right",
+      "surface": "clay",
+      "file": "clay_opening_G1_right.png",
+      "camera": {
+        "position": [
+          3.9535052083333326,
+          2.1018750000000006,
+          5.315624999999999
+        ],
+        "target": [
+          0.8704427083333333,
+          2.041875,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "fe277ba39b9030f28c7aea6a9957a0f9fba4566412e189b12d6394e85d18ab8a"
+    },
+    {
+      "view": "opening_D1_front",
+      "surface": "clay",
+      "file": "clay_opening_D1_front.png",
+      "camera": {
+        "position": [
+          2.374348958333333,
+          1.8420000000000007,
+          8.1
+        ],
+        "target": [
+          2.374348958333333,
+          1.7819999999999998,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "21fd8fbf2bbddf23782480efa3022342ec116763f16b9159e984cd12767fe196"
+    },
+    {
+      "view": "opening_D1_left",
+      "surface": "clay",
+      "file": "clay_opening_D1_left.png",
+      "camera": {
+        "position": [
+          -2.3236510416666665,
+          1.841999999999999,
+          8.1
+        ],
+        "target": [
+          2.374348958333333,
+          1.7819999999999998,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "ac903510621c8ed0f8da26809ab478285aaad79dc247b4f2fad54c575d002f0f"
+    },
+    {
+      "view": "opening_D1_right",
+      "surface": "clay",
+      "file": "clay_opening_D1_right.png",
+      "camera": {
+        "position": [
+          7.0723489583333325,
+          1.841999999999999,
+          8.1
+        ],
+        "target": [
+          2.374348958333333,
+          1.7819999999999998,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "a6f6241fab4060eda2d9d18f0409daa53969cfd5b1133cdd6ee8a3b2ed50851e"
+    },
+    {
+      "view": "opening_G2_front",
+      "surface": "clay",
+      "file": "clay_opening_G2_front.png",
+      "camera": {
+        "position": [
+          3.869140625,
+          1.9871249999999994,
+          5.8218749999999995
+        ],
+        "target": [
+          3.869140625,
+          1.927125,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "6b57635970c7662b8aca0cd1c05d41c558c2c1589f58d6199b1b4e84e6fe3907"
+    },
+    {
+      "view": "opening_G2_left",
+      "surface": "clay",
+      "file": "clay_opening_G2_left.png",
+      "camera": {
+        "position": [
+          0.49245312499999994,
+          1.9871249999999994,
+          5.8218749999999995
+        ],
+        "target": [
+          3.869140625,
+          1.927125,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "a8b987d7ae925d225cc403c3fbbf0ee16f683120609351c920591923bad64eb1"
+    },
+    {
+      "view": "opening_G2_right",
+      "surface": "clay",
+      "file": "clay_opening_G2_right.png",
+      "camera": {
+        "position": [
+          7.245828124999999,
+          1.9871249999999994,
+          5.8218749999999995
+        ],
+        "target": [
+          3.869140625,
+          1.927125,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "e38a54b48d3704586ca70e397fa3e7e78b1de7b90b48e0e6ab3d84e19a85c0d5"
+    },
+    {
+      "view": "opening_G3_front",
+      "surface": "clay",
+      "file": "clay_opening_G3_front.png",
+      "camera": {
+        "position": [
+          6.211588541666666,
+          2.3617499999999993,
+          4.050000000000001
+        ],
+        "target": [
+          6.211588541666666,
+          2.3017499999999997,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "9350523bdbb3070042a7e5074a58a618c158c81d57e879a6140b713f63ac5ef6"
+    },
+    {
+      "view": "opening_G3_left",
+      "surface": "clay",
+      "file": "clay_opening_G3_left.png",
+      "camera": {
+        "position": [
+          3.8625885416666663,
+          2.3617500000000002,
+          4.05
+        ],
+        "target": [
+          6.211588541666666,
+          2.3017499999999997,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "c447c99bd80d7dc0bf7b41734511ac9ed3baeb467829cba49efc4164067acda5"
+    },
+    {
+      "view": "opening_G3_right",
+      "surface": "clay",
+      "file": "clay_opening_G3_right.png",
+      "camera": {
+        "position": [
+          8.560588541666666,
+          2.3617500000000002,
+          4.05
+        ],
+        "target": [
+          6.211588541666666,
+          2.3017499999999997,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "94b55c3293581f18b453f1d278a840fedb65c6dd469f9d4765cee4ffa643199a"
+    },
+    {
+      "view": "opening_D2_front",
+      "surface": "clay",
+      "file": "clay_opening_D2_front.png",
+      "camera": {
+        "position": [
+          8.868489583333332,
+          1.5922499999999995,
+          7.25625
+        ],
+        "target": [
+          8.868489583333332,
+          1.53225,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "6bae64695da2155ecaadeaa707fbfdefb67141c4f0edac1c290c56d9ed32f821"
+    },
+    {
+      "view": "opening_D2_left",
+      "surface": "clay",
+      "file": "clay_opening_D2_left.png",
+      "camera": {
+        "position": [
+          4.659864583333332,
+          1.5922499999999993,
+          7.2562500000000005
+        ],
+        "target": [
+          8.868489583333332,
+          1.53225,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "1b72e0612d70989149f1b6e3fd3098d32948fd626ce25057d193b399f1cc1177"
+    },
+    {
+      "view": "opening_D2_right",
+      "surface": "clay",
+      "file": "clay_opening_D2_right.png",
+      "camera": {
+        "position": [
+          13.077114583333334,
+          1.5922499999999993,
+          7.2562500000000005
+        ],
+        "target": [
+          8.868489583333332,
+          1.53225,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "8d709b35aca35d3bd41cf5f49dfb56bdc618108c5a2a93a99a39066fece2d6a9"
+    },
+    {
+      "view": "opening_G4_front",
+      "surface": "clay",
+      "file": "clay_opening_G4_front.png",
+      "camera": {
+        "position": [
+          11.912760416666668,
+          2.436,
+          4.151249999999999
+        ],
+        "target": [
+          11.912760416666668,
+          2.376,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "431e06926119f4d775d2ec1234656bcf1bdee05f135039cf26123a9cdec608c5"
+    },
+    {
+      "view": "opening_G4_left",
+      "surface": "clay",
+      "file": "clay_opening_G4_left.png",
+      "camera": {
+        "position": [
+          9.505035416666669,
+          2.4359999999999995,
+          4.15125
+        ],
+        "target": [
+          11.912760416666668,
+          2.376,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "7cd0f361d07ec60f505ead3d6af9364baba4d6d7951447ead14ab8dcf2077256"
+    },
+    {
+      "view": "opening_G4_right",
+      "surface": "clay",
+      "file": "clay_opening_G4_right.png",
+      "camera": {
+        "position": [
+          14.320485416666667,
+          2.4359999999999995,
+          4.15125
+        ],
+        "target": [
+          11.912760416666668,
+          2.376,
+          0
+        ],
+        "fov": 38,
+        "aspect": 1
+      },
+      "exposure": 0.8,
+      "width": 1000,
+      "height": 1000,
+      "status": "reviewed",
+      "note": "Registration/UV geometry reviewed in contact sheets; historical geometry not certified",
+      "sha256": "5ceee739fc3297c43d21c3fb8f5889d040548c21e8151526a46fe4cf3d3a0159"
+    }
+  ],
+  "critical_geometry_findings": [
+    {
+      "finding": "Exact plan/facade mapping and right continuation unresolved",
+      "decision": "Standalone working model retained, no street propagation; T not used",
+      "user_informed": true,
+      "evidence": "../figures/wrong_front_and_photo.jpg"
+    }
+  ],
+  "counts": {
+    "houses_working": 1,
+    "historically_complete": 0,
+    "selected_facades": 1,
+    "openings": 11,
+    "saved_views": 92,
+    "source_click_views": 3
+  },
+  "initial_model": "../models/initial/cp259_SOL61.blend",
+  "final_model": "../models/cp259_SOL61.glb",
+  "limitations": [
+    "No measured complete rear building",
+    "No controlled SOL/Astra comparison",
+    "9windows2door interpretation partly relies on colourization fills",
+    "Photographic inner window divisions not full mechanical geometry"
+  ]
+}

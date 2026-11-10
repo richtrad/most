@@ -1,0 +1,841 @@
+{
+  "passed": false,
+  "status": "blocked_historical_geometry",
+  "browser_review_completed": true,
+  "reviewed_by": "SOL 6.1",
+  "reviewed_at": "2026-10-02T06:17:44.304605+00:00",
+  "opening_strategy": "G",
+  "openings": [
+    {
+      "id": "A_W1",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_A_W1_front.png",
+        "texture_opening_A_W1_left.png",
+        "texture_opening_A_W1_right.png",
+        "clay_opening_A_W1_front.png",
+        "clay_opening_A_W1_left.png",
+        "clay_opening_A_W1_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Rectangular or curved G registration.",
+      "source_bounds": [
+        601,
+        120,
+        720,
+        324
+      ]
+    },
+    {
+      "id": "A_W2",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_A_W2_front.png",
+        "texture_opening_A_W2_left.png",
+        "texture_opening_A_W2_right.png",
+        "clay_opening_A_W2_front.png",
+        "clay_opening_A_W2_left.png",
+        "clay_opening_A_W2_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Rectangular or curved G registration.",
+      "source_bounds": [
+        1006,
+        99,
+        1108,
+        291
+      ]
+    },
+    {
+      "id": "A_W3",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_A_W3_front.png",
+        "texture_opening_A_W3_left.png",
+        "texture_opening_A_W3_right.png",
+        "clay_opening_A_W3_front.png",
+        "clay_opening_A_W3_left.png",
+        "clay_opening_A_W3_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Rectangular or curved G registration.",
+      "source_bounds": [
+        1264,
+        111,
+        1377,
+        294
+      ]
+    },
+    {
+      "id": "A_ARCH",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_A_ARCH_front.png",
+        "texture_opening_A_ARCH_left.png",
+        "texture_opening_A_ARCH_right.png",
+        "clay_opening_A_ARCH_front.png",
+        "clay_opening_A_ARCH_left.png",
+        "clay_opening_A_ARCH_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Rectangular or curved G registration.",
+      "source_bounds": [
+        974,
+        454,
+        1080,
+        615
+      ]
+    },
+    {
+      "id": "B_W1",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_B_W1_front.png",
+        "texture_opening_B_W1_left.png",
+        "texture_opening_B_W1_right.png",
+        "clay_opening_B_W1_front.png",
+        "clay_opening_B_W1_left.png",
+        "clay_opening_B_W1_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Rectangular or curved G registration.",
+      "source_bounds": [
+        343,
+        109,
+        505,
+        311
+      ]
+    },
+    {
+      "id": "B_D1",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_B_D1_front.png",
+        "texture_opening_B_D1_left.png",
+        "texture_opening_B_D1_right.png",
+        "clay_opening_B_D1_front.png",
+        "clay_opening_B_D1_left.png",
+        "clay_opening_B_D1_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Rectangular or curved G registration.",
+      "source_bounds": [
+        927,
+        192,
+        1130,
+        580
+      ]
+    },
+    {
+      "id": "C_W1",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_C_W1_front.png",
+        "texture_opening_C_W1_left.png",
+        "texture_opening_C_W1_right.png",
+        "clay_opening_C_W1_front.png",
+        "clay_opening_C_W1_left.png",
+        "clay_opening_C_W1_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Four-edge damaged/profile registration; skew not a measured distortion diagnosis.",
+      "source_bounds": [
+        48,
+        14,
+        211,
+        276
+      ]
+    },
+    {
+      "id": "C_W2",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_C_W2_front.png",
+        "texture_opening_C_W2_left.png",
+        "texture_opening_C_W2_right.png",
+        "clay_opening_C_W2_front.png",
+        "clay_opening_C_W2_left.png",
+        "clay_opening_C_W2_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Four-edge damaged/profile registration; skew not a measured distortion diagnosis.",
+      "source_bounds": [
+        390,
+        59,
+        653,
+        284
+      ]
+    },
+    {
+      "id": "C_W3",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_C_W3_front.png",
+        "texture_opening_C_W3_left.png",
+        "texture_opening_C_W3_right.png",
+        "clay_opening_C_W3_front.png",
+        "clay_opening_C_W3_left.png",
+        "clay_opening_C_W3_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Four-edge damaged/profile registration; skew not a measured distortion diagnosis.",
+      "source_bounds": [
+        800,
+        65,
+        1111,
+        361
+      ]
+    },
+    {
+      "id": "C_ARCH",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_C_ARCH_front.png",
+        "texture_opening_C_ARCH_left.png",
+        "texture_opening_C_ARCH_right.png",
+        "clay_opening_C_ARCH_front.png",
+        "clay_opening_C_ARCH_left.png",
+        "clay_opening_C_ARCH_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Rectangular or curved G registration.",
+      "source_bounds": [
+        44,
+        370,
+        198,
+        619
+      ]
+    },
+    {
+      "id": "D_W1",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_D_W1_front.png",
+        "texture_opening_D_W1_left.png",
+        "texture_opening_D_W1_right.png",
+        "clay_opening_D_W1_front.png",
+        "clay_opening_D_W1_left.png",
+        "clay_opening_D_W1_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Four-edge damaged/profile registration; skew not a measured distortion diagnosis.",
+      "source_bounds": [
+        233,
+        91,
+        360,
+        306
+      ]
+    },
+    {
+      "id": "D_D1",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_D_D1_front.png",
+        "texture_opening_D_D1_left.png",
+        "texture_opening_D_D1_right.png",
+        "clay_opening_D_D1_front.png",
+        "clay_opening_D_D1_left.png",
+        "clay_opening_D_D1_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Four-edge damaged/profile registration; skew not a measured distortion diagnosis.",
+      "source_bounds": [
+        711,
+        213,
+        960,
+        598
+      ]
+    },
+    {
+      "id": "E_W1",
+      "status": "passed",
+      "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
+      "views": [
+        "texture_opening_E_W1_front.png",
+        "texture_opening_E_W1_left.png",
+        "texture_opening_E_W1_right.png",
+        "clay_opening_E_W1_front.png",
+        "clay_opening_E_W1_left.png",
+        "clay_opening_E_W1_right.png"
+      ],
+      "finding": "Own returns, actual aperture; no photographic frame stretched across depth. Four-edge damaged/profile registration; skew not a measured distortion diagnosis.",
+      "source_bounds": [
+        522,
+        185,
+        727,
+        397
+      ]
+    }
+  ],
+  "final_checks": {
+    "own_reveal_uv": {
+      "status": "passed",
+      "evidence": [
+        "contact_texture_openings_0.jpg",
+        "contact_texture_openings_1.jpg",
+        "contact_texture_openings_2.jpg",
+        "contact_texture_openings_3.jpg"
+      ],
+      "note": "Metric material for depth; photographic colour and apparent grain differ with source resolution."
+    },
+    "entry_threshold_and_steps": {
+      "status": "passed",
+      "evidence": [
+        "texture_detail_threshold.png",
+        "texture_detail_threshold_below.png",
+        "clay_detail_threshold.png"
+      ],
+      "note": "Threshold aligned to registered aperture bottom and backed by wall; terrain datum provisional. No evidence for a flight of steps, none copied from 261."
+    },
+    "base_coplanar_flicker": {
+      "status": "passed",
+      "evidence": [
+        "texture_detail_threshold_below.png",
+        "clay_detail_threshold_below.png"
+      ],
+      "note": "Base top -0.045 m, threshold offset from masonry surface; final below-sill camera above the base. Initial below-ground camera was not usable and was replaced."
+    },
+    "duplicate_pipes": {
+      "status": "not_applicable",
+      "evidence": [
+        "contact_texture_axes.jpg"
+      ],
+      "note": "No gutter/downpipe is convincingly documented or modeled in this stripped ruin."
+    },
+    "duplicate_roof_timber": {
+      "status": "passed",
+      "evidence": [
+        "texture_facade_C_rear_main.png",
+        "../generated/cleanup_mask.png"
+      ],
+      "note": "Roof band cropped out of wall extent, remaining top strip edited and protected openings restored. Colour-calibrated donor feathered only inside mask."
+    },
+    "dormer_and_arch": {
+      "status": "not_applicable",
+      "evidence": [
+        "contact_texture_axes.jpg"
+      ],
+      "note": "No photographed dormer; low masonry arches are separately checked as A_ARCH and C_ARCH."
+    },
+    "roof_geometry_historical_agreement": {
+      "status": "failed",
+      "evidence": [
+        "../sources/cp_257_situation.jpg",
+        "../sources/cp_257_002_card.jpg",
+        "texture_roof_back_left.png",
+        "clay_roof_back_left.png"
+      ],
+      "note": "Roof wing/intersection and schematic fourth chimney vs three surviving photo chimneys not conclusively matched to one demolition phase. Regular timber reconstruction is provisional. This blocks street propagation."
+    },
+    "roof_material_direction": {
+      "status": "passed",
+      "evidence": [
+        "texture_roof_front_left.png",
+        "texture_roof_back_left.png",
+        "texture_detail_chimneys.png"
+      ],
+      "note": "Clay photographic donor; surviving patch moved to rear-wall slope after comparison with photo1 and photo2. Exact strip extents provisional."
+    },
+    "colour_and_resolution": {
+      "status": "passed",
+      "evidence": [
+        "texture_photo1.png",
+        "texture_detail_damage.png",
+        "texture_opening_A_W2_left.png"
+      ],
+      "note": "Colour hypotheses from database assignments, corrected return/inner tint preserved in GLB. Archived colour photo resolution limits front detail; upscaling is not evidence."
+    },
+    "bevel_C": {
+      "status": "passed",
+      "evidence": [
+        "texture_opening_A_W2_left.png",
+        "clay_opening_E_W1_left.png"
+      ],
+      "note": "Local sill bevel 8 mm / 3 segments; no global subdivision."
+    },
+    "lettering_and_damage": {
+      "status": "passed",
+      "evidence": [
+        "texture_detail_damage.png",
+        "../sources/cp_257_001_original.jpg"
+      ],
+      "note": "No facade lettering documented. Photographed visible damage kept outside cleanup masks; earlier colourization inferred occluded portions, not pixel-level original preservation."
+    },
+    "identity_source_click": {
+      "status": "passed",
+      "evidence": [
+        "source_click_0.png",
+        "source_click_1.png",
+        "source_click_2.png"
+      ],
+      "note": "Actual browser click, archival card numbers and situational sketch displayed. House identity 257 confirmed; side placement uncertainty distinct."
+    }
+  },
+  "critical_geometry_findings": [
+    {
+      "finding": "Rear wing/roof intersection and documentary phase unconfirmed",
+      "decision": "Save standalone working model; do not propagate to street or silently switch to T",
+      "user_informed": true,
+      "evidence": "../figures/roof_hypothesis.jpg"
+    }
+  ],
+  "cameras": "cameras.json",
+  "glb_sha256": "a10939f1c8c1928c16ef44dfb49be4326e526409853d36d24add754f29d1aae7",
+  "evidence_files": [
+    {
+      "path": "texture_hero.png",
+      "sha256": "f9028a64900d8cc4e1e9e079892ba2233d240f1fcb3f97ec6a7c968556dc0cc7"
+    },
+    {
+      "path": "texture_axis_front.png",
+      "sha256": "344f23882d869c0338d62af3f559e6f2ec767c520a541d1a879967592f66e629"
+    },
+    {
+      "path": "texture_axis_right.png",
+      "sha256": "de7afb3b2af502cf25cd1dc1e25b3b406437e0bb5846c81b72ea620713b643fb"
+    },
+    {
+      "path": "texture_axis_back.png",
+      "sha256": "7b1b72accc1357288c1f861b7b6506ac8a7c597483aacc07cfa482c146870a15"
+    },
+    {
+      "path": "texture_axis_left.png",
+      "sha256": "7b4c036be5a1e2fed427c0f089dabca32b038a842dbedc896b7c923234ccc3f6"
+    },
+    {
+      "path": "texture_roof_front_left.png",
+      "sha256": "a11ee1e4ab8ca35b4b671f5448c66f78de101979f5f1d14a3af2e3d0f4dc4cb8"
+    },
+    {
+      "path": "texture_roof_front_right.png",
+      "sha256": "8b30ee5cc5107790740450a6035d74a5fd9e10b45ba25836727d75c86877222f"
+    },
+    {
+      "path": "texture_roof_back_left.png",
+      "sha256": "5685c4b8429f97837d685e92d73b2da64175848b5c24fe1b33400410e59495b5"
+    },
+    {
+      "path": "texture_roof_back_right.png",
+      "sha256": "491ebb97a84ad2c02cb457f7dedb2d5a4415ea9e1b748d8184e148df04210815"
+    },
+    {
+      "path": "texture_detail_corner.png",
+      "sha256": "0b5937dcf54804e95c930ea3e81557b2a3ebe3ff57ad44a330600c2e85a13b78"
+    },
+    {
+      "path": "texture_detail_roof_frame.png",
+      "sha256": "b2d5076bb0abaae4636df8b90056f6b05ad61b2701ea79b876168cdc5447b2da"
+    },
+    {
+      "path": "texture_detail_chimneys.png",
+      "sha256": "f72b8efb528b2d95382f4280bc846993c5cf36245a3e887c7e61f781cfad6f12"
+    },
+    {
+      "path": "texture_detail_damage.png",
+      "sha256": "942e37f8f09675b7f2bb123849e1d8e008963d2cc4265ebd7b56e285dbcc1e39"
+    },
+    {
+      "path": "texture_detail_threshold.png",
+      "sha256": "c8ad39035f439ea6db24a9f445718e6d8fed8dbc2b9bd1c2b47a1c9d2c31222e"
+    },
+    {
+      "path": "texture_detail_threshold_below.png",
+      "sha256": "c61a2e51587654db4d3fcd5b91b1abdd2b19a60708b4ed4b5b515c9aafc194a3"
+    },
+    {
+      "path": "texture_detail_annex.png",
+      "sha256": "0909d639eb4e70e7b36ace937e321c70af069aeb1fa23cd08482e2d047cc4688"
+    },
+    {
+      "path": "texture_photo1.png",
+      "sha256": "01818624c6880ece01ac5aba98b36dccaec12feac17e81e6202c9d7868992ad3"
+    },
+    {
+      "path": "texture_facade_A_street_long.png",
+      "sha256": "1c7de5da05d348f6d05c4afc3258385449b10a27b333aa3179f88baad49175d7"
+    },
+    {
+      "path": "texture_facade_B_corner_return.png",
+      "sha256": "69f6f23d5b4b2ebb1338be3d3337f37e37aa4c1c69ef13119c482ff2f97c838a"
+    },
+    {
+      "path": "texture_facade_C_rear_main.png",
+      "sha256": "90973179746727e074ffea313ed431a344eee6925c2ce2a0ef5eb8449933af44"
+    },
+    {
+      "path": "texture_facade_D_annex_rear.png",
+      "sha256": "a03839521b3a8432ea67d2d39e492db4158e976a24dc50188bd779f0035e4a7b"
+    },
+    {
+      "path": "texture_facade_E_annex_inner.png",
+      "sha256": "ced34515dcfd83e7c5ef52a2fb70b981e3b6d1e6c85893a70c206afbc869a6cb"
+    },
+    {
+      "path": "texture_opening_A_W1_front.png",
+      "sha256": "cd9041c745d57bbc9d59586aadb49c8ae2e25dd246d116b8b584876a8b77e866"
+    },
+    {
+      "path": "texture_opening_A_W1_left.png",
+      "sha256": "0ece8c01bb28062cea13305e01973e242a3be91b33fa57fe96ce50cf05ea01f5"
+    },
+    {
+      "path": "texture_opening_A_W1_right.png",
+      "sha256": "e61f242f43e3f214ea79be6743c7443f6ab5bf5d658a22a1a22ea06b81adf134"
+    },
+    {
+      "path": "texture_opening_A_W2_front.png",
+      "sha256": "9a9f8c709508591e93308a7e08b984e67ad384708b301c88d7314982cfd92313"
+    },
+    {
+      "path": "texture_opening_A_W2_left.png",
+      "sha256": "9cd64b9f28d6a4e577c8c77dd07e411c811bbd865ee8fa739231318413de48f7"
+    },
+    {
+      "path": "texture_opening_A_W2_right.png",
+      "sha256": "176cea3470ce8831cee2e223381a76675a78ee93cd3ae621661a1514ff8ca83c"
+    },
+    {
+      "path": "texture_opening_A_W3_front.png",
+      "sha256": "2374b5e86d6ad0867d106247ebba5c86cd34896e8c3dcc7bd533a4a8a0919dda"
+    },
+    {
+      "path": "texture_opening_A_W3_left.png",
+      "sha256": "68a80f3df81a95fc62390b82f04f4e1deb43a8179967cb0bb555e3a9e84bcfcb"
+    },
+    {
+      "path": "texture_opening_A_W3_right.png",
+      "sha256": "b9075998fa2f77edb10b5926dcc26145558a4c0636ea4ef2724e36c033dc4241"
+    },
+    {
+      "path": "texture_opening_A_ARCH_front.png",
+      "sha256": "9e407662948acddf0d23840f66093e5ea608f20ef8a9ed272514061abcc41268"
+    },
+    {
+      "path": "texture_opening_A_ARCH_left.png",
+      "sha256": "3a81d29b5f6671d5224b70fde74a1ffd136e1391f550bff2549bd1eacd63386e"
+    },
+    {
+      "path": "texture_opening_A_ARCH_right.png",
+      "sha256": "f4a7a4790f6f37088055b86e7cd832c4247b76abc6e1882fc242b2d7aefec1f5"
+    },
+    {
+      "path": "texture_opening_B_W1_front.png",
+      "sha256": "c0e44b8ceb27e07952b50fcbc9bd511d4fdbcf87abaaa1522c37f251c180eb03"
+    },
+    {
+      "path": "texture_opening_B_W1_left.png",
+      "sha256": "239f6af371785e4eb695efba9d1c212cbd8c75be84c5c80fa2738bea30f8f58b"
+    },
+    {
+      "path": "texture_opening_B_W1_right.png",
+      "sha256": "0b45be7d224e1fdd60eafe741dd0d81e13521bf636c72467e130225c02351b98"
+    },
+    {
+      "path": "texture_opening_B_D1_front.png",
+      "sha256": "a6e87bc58b04912898489f2c879f80595e1cedef2f8e7054743a7ff25b03c7ba"
+    },
+    {
+      "path": "texture_opening_B_D1_left.png",
+      "sha256": "c3f0d09efa5a2de48555bf48ad47148defb0c8abb7fbc0dd3faf797c4f89bbb1"
+    },
+    {
+      "path": "texture_opening_B_D1_right.png",
+      "sha256": "6c8ebd9dec45ff8deb306308820e8626fde8196b7708db1abddff95275322eed"
+    },
+    {
+      "path": "texture_opening_C_W1_front.png",
+      "sha256": "9726b3345b47a70e2e217c251bbb992e15b63fb936b5ac5d3e89bf4899242779"
+    },
+    {
+      "path": "texture_opening_C_W1_left.png",
+      "sha256": "0fca959ee2bb6ba927c42811d2e707a94ac82aa0a0ab58eeebb8b0a15e29cce7"
+    },
+    {
+      "path": "texture_opening_C_W1_right.png",
+      "sha256": "93c7bda4a9c0a5fd54f1377ebb9684ab19d23209401990c6c157092f92ea8e06"
+    },
+    {
+      "path": "texture_opening_C_W2_front.png",
+      "sha256": "e0feccc2cb608c610a70e5e1f3f425277971e271ad43635b8d31ce6b03b31578"
+    },
+    {
+      "path": "texture_opening_C_W2_left.png",
+      "sha256": "de08533517fa6e6b9177463e3fbfb2ab2dce3b28ab0dfb5cbb03a1e74f743943"
+    },
+    {
+      "path": "texture_opening_C_W2_right.png",
+      "sha256": "80a95d5bf4605b4876768e1272cf08732d23a5c96147fb5a2a9cbd7f99879662"
+    },
+    {
+      "path": "texture_opening_C_W3_front.png",
+      "sha256": "44931e42b4c41a3e7782257717cbc2e2a29fa3966803613b6c840d4753ab5726"
+    },
+    {
+      "path": "texture_opening_C_W3_left.png",
+      "sha256": "145c867fc785223da96b5b3dbfb463f45dd46a9a92568ac7476fd3749b0608c8"
+    },
+    {
+      "path": "texture_opening_C_W3_right.png",
+      "sha256": "c262b8d0c8567c84f2a169fdd83324cfa2e993cd562f4f872a94e88154d931cc"
+    },
+    {
+      "path": "texture_opening_C_ARCH_front.png",
+      "sha256": "399a017d144dc980d5674e9ef4c4d8246621c3c970dedf0f819f16fe024e6151"
+    },
+    {
+      "path": "texture_opening_C_ARCH_left.png",
+      "sha256": "68d92e00cc20a78779d2b0371105879884ae2a3a2fe0cec8ca921b40de315f8b"
+    },
+    {
+      "path": "texture_opening_C_ARCH_right.png",
+      "sha256": "3005ee498d9af6508dcf4b90498228c4b46c06ba1bb2dc8f8e2d856cb99b114b"
+    },
+    {
+      "path": "texture_opening_D_W1_front.png",
+      "sha256": "2508b49298e233821a2c516770c2f3ddc19d666151a0efe0f488c754f66ab917"
+    },
+    {
+      "path": "texture_opening_D_W1_left.png",
+      "sha256": "a193c42cfaaf245854a32492b041fc0c79e251640fc14ad66b3711990fa3e5fa"
+    },
+    {
+      "path": "texture_opening_D_W1_right.png",
+      "sha256": "510f7955c1a72f743d46cd6b63b7635cbf1e3194ec2193573ed8c7e499ab9bec"
+    },
+    {
+      "path": "texture_opening_D_D1_front.png",
+      "sha256": "6db1369ad5bd45c328b02aef090ac7f03aed6d4ece9828f52371050604cff2c1"
+    },
+    {
+      "path": "texture_opening_D_D1_left.png",
+      "sha256": "7f3f4bc647ee0572e4ce858ff82eaadde593069f4a04eff8f3ab78261a51bceb"
+    },
+    {
+      "path": "texture_opening_D_D1_right.png",
+      "sha256": "b924d0307dcfd85516ed60cf19f9788c793f5a89622a3f828a705b41fee97c2b"
+    },
+    {
+      "path": "texture_opening_E_W1_front.png",
+      "sha256": "26d8de6c2883526f483ea8fc893049dbd4f5fb765770fb5eaeb64fb7c699f10e"
+    },
+    {
+      "path": "texture_opening_E_W1_left.png",
+      "sha256": "3234e27100034ee58d630d00e1e35d6727eab25527717ae78302a8760aedc741"
+    },
+    {
+      "path": "texture_opening_E_W1_right.png",
+      "sha256": "0a0e6c9162e5587ef95ed800454c122800b2f8126b12d7fbf827c655db15f1ee"
+    },
+    {
+      "path": "clay_axis_front.png",
+      "sha256": "67a746a199ea6f51dde2c36ea559e5823fae1516f0df2e96b789633ab2abd8b5"
+    },
+    {
+      "path": "clay_axis_right.png",
+      "sha256": "722106d026deac6e0f0565397b460409d6aef9287b979cf99cf348dcf5b81fdb"
+    },
+    {
+      "path": "clay_axis_back.png",
+      "sha256": "bc59378863928e30fffd514622abdfcce7b23f836c2f4113902170673da964ad"
+    },
+    {
+      "path": "clay_axis_left.png",
+      "sha256": "d1a83aa1d6e4adbc74389fbe7138ef29007984a504a6860d5a2bc70712a26843"
+    },
+    {
+      "path": "clay_roof_front_left.png",
+      "sha256": "cb2024fa8d8018ad6e3d90354f7957a6e82cfb54e7bcb502a8f4bb8fc570f185"
+    },
+    {
+      "path": "clay_roof_front_right.png",
+      "sha256": "2f27add3f081327ce1bd6c6c28bc84dc684a9fe3b77f6d947087221a68496e8e"
+    },
+    {
+      "path": "clay_roof_back_left.png",
+      "sha256": "7914ead87fe5c2d8b163e47797c22b239e14882f401c351022b28e0a17b592f9"
+    },
+    {
+      "path": "clay_roof_back_right.png",
+      "sha256": "925b15765fae810ecd9b1c8ac7c54c627d84c191361937377dd5924bb6b871dc"
+    },
+    {
+      "path": "clay_detail_threshold.png",
+      "sha256": "9a4a8eca0ccc4d85b03a7abc660fa0c337a2cf1402608d91afdadc47770581b2"
+    },
+    {
+      "path": "clay_detail_threshold_below.png",
+      "sha256": "a6126d9d8a8e74eb33bcdbbde290cccfc55ae207ba550dc5fc903bcb43efca2a"
+    },
+    {
+      "path": "clay_opening_A_W1_front.png",
+      "sha256": "b553f861049e629634f5778d481b943e39ae58a1671a52260d3c76bf6d8cc24f"
+    },
+    {
+      "path": "clay_opening_A_W1_left.png",
+      "sha256": "102a360d0a6c6b036413e48f30ea51b9be4f6fcedab2466f25f9d701cc858453"
+    },
+    {
+      "path": "clay_opening_A_W1_right.png",
+      "sha256": "586d29f3bb9023ed0098fc8b2077cc6ad1d8f52e850cab1e00ecd94025eda3b7"
+    },
+    {
+      "path": "clay_opening_A_W2_front.png",
+      "sha256": "7f49850e88cb0ae62674bca94ac62b375ad804de74ba7f2a121bed5b50bab099"
+    },
+    {
+      "path": "clay_opening_A_W2_left.png",
+      "sha256": "475918533f7fa1b39963b0e93d2c3182c53779bb3bc68803233816c834169f9c"
+    },
+    {
+      "path": "clay_opening_A_W2_right.png",
+      "sha256": "d424854bbfa58a6d38d7ba6622301e037c2f4cd7186867eaabf2d6533fa2a58e"
+    },
+    {
+      "path": "clay_opening_A_W3_front.png",
+      "sha256": "2abebd75d1609cb921448e9a47b1bc39c697a3b64484fb46bf3a0f827380a28f"
+    },
+    {
+      "path": "clay_opening_A_W3_left.png",
+      "sha256": "cf9c130b1c7ba5a9252630e775850a688ad72ec5786b9610f5b4ac4e895882d6"
+    },
+    {
+      "path": "clay_opening_A_W3_right.png",
+      "sha256": "7019ea28c279af2a3e870f1e84171f8d848f1c9ac3bd8b146f6bdfdf1fe54f9e"
+    },
+    {
+      "path": "clay_opening_A_ARCH_front.png",
+      "sha256": "0333b7a6a77279449b123b7e16dfbd807bcd6325fd82459c56cd8e6a8e695aa5"
+    },
+    {
+      "path": "clay_opening_A_ARCH_left.png",
+      "sha256": "5b7fa62908eea0c7014ee3573ef08846f15e7dc3c982447516c5dae22a9c34de"
+    },
+    {
+      "path": "clay_opening_A_ARCH_right.png",
+      "sha256": "088fc8146b5eea265d7730ca07b22e20bd2c02c59555faf8e88ebd7816cbb1fe"
+    },
+    {
+      "path": "clay_opening_B_W1_front.png",
+      "sha256": "afdb07e67ef56ceb8c486e520f0f5a17521c9d1862f2a59650d91140c1aee0b6"
+    },
+    {
+      "path": "clay_opening_B_W1_left.png",
+      "sha256": "da8908810e5886a1edcdbc847f1e1485705f33966f6b73d9c591e36b158463ed"
+    },
+    {
+      "path": "clay_opening_B_W1_right.png",
+      "sha256": "8323dec0439ded5208b46b0a5b3f91f5e650e89e3250c777894059e7924ab307"
+    },
+    {
+      "path": "clay_opening_B_D1_front.png",
+      "sha256": "bf1779d925b0942244257d17ecaf903961103718b6f2a8f8ea2fdd581f8f6d04"
+    },
+    {
+      "path": "clay_opening_B_D1_left.png",
+      "sha256": "d77845a558d72cb9815e833ec81e2bbcdb160a8cfaed1fb82b6352fc2bdf66f2"
+    },
+    {
+      "path": "clay_opening_B_D1_right.png",
+      "sha256": "715b24f4276170dfa7d6d4a46e993cf6dc8f456f5cc3052a510dac10584e2c8a"
+    },
+    {
+      "path": "clay_opening_C_W1_front.png",
+      "sha256": "3e829ce3686fc1f44398e7f78eaa1ca4a0ffd2745a2eff607580512be54dc7d1"
+    },
+    {
+      "path": "clay_opening_C_W1_left.png",
+      "sha256": "e7801a3d1363eaafa12cdb2ce4d968dc1f34377d5f32fbe1fdfa8ac63a885659"
+    },
+    {
+      "path": "clay_opening_C_W1_right.png",
+      "sha256": "e8c770992607f082ba9235d628de66da7ad9bba34b21de835574e189b3b94bc1"
+    },
+    {
+      "path": "clay_opening_C_W2_front.png",
+      "sha256": "083f85aba2f86fa42a9550bb96ee80d327b5fe4bed529325395fc522174678cd"
+    },
+    {
+      "path": "clay_opening_C_W2_left.png",
+      "sha256": "5698cd7458eee06df74622c259e7c28211f8dce3535c2bcb70eb87451f910983"
+    },
+    {
+      "path": "clay_opening_C_W2_right.png",
+      "sha256": "e9233276a3db95aad3c289b9998b27731a029dfc052691faa66a81bcfc489a71"
+    },
+    {
+      "path": "clay_opening_C_W3_front.png",
+      "sha256": "55e9426ea5f2d76b2fc2f1658fec278aae2d251e53a6ab12e47bf98dcc4b1e25"
+    },
+    {
+      "path": "clay_opening_C_W3_left.png",
+      "sha256": "5caa8a9f64e2a8b5b4c9a77339b26f420ddefca0a6def230f088c9fd77873ca9"
+    },
+    {
+      "path": "clay_opening_C_W3_right.png",
+      "sha256": "4701c02a87017155dbddd3a7cd05c59ecab95cc60affd41b33cb19f85216e98d"
+    },
+    {
+      "path": "clay_opening_C_ARCH_front.png",
+      "sha256": "b9d8b80bcf097df1c49634dbfda925d942b9af5b03edf1239aaa407bee4ab6ee"
+    },
+    {
+      "path": "clay_opening_C_ARCH_left.png",
+      "sha256": "378c6f210a4f326d34abf138e7b13ffe964c5da5b1ed0c48c18cc4a0dc5eb63d"
+    },
+    {
+      "path": "clay_opening_C_ARCH_right.png",
+      "sha256": "3476120d6459f1b2d8229dea32846ae8d7e2e60fef376583c1a5bfa2251f04fd"
+    },
+    {
+      "path": "clay_opening_D_W1_front.png",
+      "sha256": "a42fce6797b60b0ff338d9ba67a831e7b28b1034897ee954cd20c05bd4be82ba"
+    },
+    {
+      "path": "clay_opening_D_W1_left.png",
+      "sha256": "65042d365b80b140aaeb2a767e895ecd3071a3e9fa912c952c7b6718fa9bb011"
+    },
+    {
+      "path": "clay_opening_D_W1_right.png",
+      "sha256": "59eafff7296dc346252e74ea944cb4f6493d09712689999d55fcb8ee8470b9d4"
+    },
+    {
+      "path": "clay_opening_D_D1_front.png",
+      "sha256": "55059b70540edb1e1a4933c54f0d150b2cb4310f64578c36b1f562208c290685"
+    },
+    {
+      "path": "clay_opening_D_D1_left.png",
+      "sha256": "6b486f8bed08b6c0770c2aa25bdf55e3003957a25e37878a0bcfa7471065481e"
+    },
+    {
+      "path": "clay_opening_D_D1_right.png",
+      "sha256": "82d1510577d56f9606716d6fbb327850f51a1b7d64d3dab7c705ce70fd644c3f"
+    },
+    {
+      "path": "clay_opening_E_W1_front.png",
+      "sha256": "70a0eeb5de7ee742fe5e0935f260917a945cb19a2a7dd020fc6a3e4dfce58ae5"
+    },
+    {
+      "path": "clay_opening_E_W1_left.png",
+      "sha256": "4ea1ac341fe98b5c16d43298ca71f96def4d4d7fd5a2f1040a2e250a0bba8bbd"
+    },
+    {
+      "path": "clay_opening_E_W1_right.png",
+      "sha256": "fc392a83a2c324d5b7496a95ac94ded514a17747da264d2c825ac1ea5024ad96"
+    }
+  ],
+  "initial_model": "../models/initial/cp257_SOL61.blend",
+  "final_model": "../models/cp257_SOL61.glb",
+  "renderer": "Three.js/Edge SwiftShader, ACES exposure 0.8, common previous lighting",
+  "counts": {
+    "openings": 13,
+    "texture_opening_views": 39,
+    "clay_opening_views": 39,
+    "total_saved_views": 110
+  },
+  "limitations": [
+    "Different house than Astra; not controlled A/B",
+    "Source assignment to rear facets provisional",
+    "No dimensional survey or exact historical colours",
+    "No watertight-manifold claim; photographed ruin is open"
+  ]
+}
