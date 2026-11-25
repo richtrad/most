@@ -70,7 +70,7 @@ Pracovní složky: F:\MOST\outputudolfova_street_claude_2026-10-23 (geometrie, 
 
 ## Rozpory a hypotézy
 
-- **Čp. 692 – projekt × realizace.** Projekt F. Griesbacha z roku 1891 má sedlovou střechu; pohlednice z železniční lávky (před 1918) ukazuje mansardu s pěti vikýři a zkosené nároží s portálem a balkonem. Model sleduje pohlednici; mansarda je zjednodušena na valbu s vikýři (štítek částečné hypotézy).
+- **Čp. 692 – projekt × realizace.** Projekt F. Griesbacha z roku 1891 má sedlovou střechu; pohlednice z železniční lávky (před 1918) ukazuje mansardu s pěti vikýři a zkosené nároží s portálem a balkonem. Model sleduje pohlednici: mansarda obíhá obě ulice i nároží, vikýře jsou do Rudolfovy, nad nárožím i do Teplické; výšky zlomu a polohy vikýřů do Teplické jsou odhad (štítek částečné hypotézy).
 
 - **Čp. 1166 – zrcadlový pohled.** Výkres pohledu (říjen 1901) má zkosené nároží vpravo, situace a GIS je kladou na severovýchodní roh. Podle měřítka jde o průčelí do Goethovy (19 m); osy jsou vyneseny od nároží, strana do Rudolfovy (13 m) je bez výkresu a má čtyři osy jako hypotézu.
 
@@ -92,7 +92,7 @@ Všechny rozpory jsou zapsány s obrázky v knize nesouladů pramenů projektu (
 
 | Čp. | Strana | Typ | Štítek | Podlaží | Průčelí × okap (m) | Revize | Přílohy | Textury |
 |---|---|---|---|---|---|---|---|---|
-| 692 | západní | nárožní hostinec „Zum grünen Baum“ | částečně hypotéza | 2 + mansarda | 15,4 × 10,4 | r3 | 6 | bez textur (hypotéza – jen prosté materiály) |
+| 692 | západní | nárožní hostinec „Zum grünen Baum“ | částečně hypotéza | 2 + mansarda | 15,4 × 10,4 | r4 | 6 | bez textur (hypotéza – jen prosté materiály) |
 | 830 | západní | jednopatrový dům (projekt Griesbach 1891) | projektová hypotéza | 2 | 9,4 × 9,2 | r3 | 1 | bez textur (hypotéza – jen prosté materiály) |
 | 812 | západní | jednopatrový dům (projekt Griesbach) | projektová hypotéza | 2 | 9,5 × 9,0 | r3 | 2 | bez textur (hypotéza – jen prosté materiály) |
 | 851 | západní | jednopatrový dům (projekt Griesbach 1898) | projektová hypotéza | 2 | 9,3 × 8,9 | r3 | 1 | bez textur (hypotéza – jen prosté materiály) |
@@ -123,9 +123,9 @@ Všechny rozpory jsou zapsány s obrázky v knize nesouladů pramenů projektu (
 
 - Nárožní dům Teplická × Rudolfova se zkoseným nárožím (obloukový portál, balkon), pět os do Rudolfovy, mansardová střecha s vikýři. Realizace podle pohlednice z železniční lávky (před 1918) se liší od projektu F. Griesbacha z roku 1891 (sedlová střecha).
 - Prameny: pohlednice „Blick vom Eisenbahnsteg in die Teplitzer Strasse“, projekt 1891 (fasáda, řez, krov, situace parcel Griesbach), skica dvorního objektu 1943, GIS půdorys
-- Střecha: mansarda s pěti vikýři podle pohlednice; v modelu zjednodušena na valbu se štítovými vikýři (rozhodnutí k posouzení)
-- GIS půdorys id 1215 (ulice Rudolfova); geometrie revize r3, 825 polygonů.
-- Hypotézy: vysky podlazi (okap 10.4) odhad z pohlednice (projekt 1891: 4.25 + 4.25 + sklep 2.60 nad terenem ~1 m); polohy otvoru do Teplicke a na narozi = hypoteza z sikmeho zaberu pohlednice; mansarda zjednodusena na valbu (topologie strechy neodpovida prameni) - viz roof_check; dvorni objekt (Hofgebaeude 1943) nemodelovan
+- Střecha: mansarda podle pohlednice – strmá spodní část s vikýři kolem celého nároží, zlom asi 2,9 m nad okapem, horní mírná část s valbami; 14 vikýřů (5 do Rudolfovy, vyšší nad nárožím, 8 do Teplické – jejich polohy jsou hypotéza); výšky odhad ze šikmého pohledu
+- GIS půdorys id 1215 (ulice Rudolfova); geometrie revize r4, 1549 polygonů.
+- Hypotézy: vysky podlazi (okap 10.4) odhad z pohlednice (projekt 1891: 4.25 + 4.25 + sklep 2.60 nad terenem ~1 m); polohy otvoru do Teplicke a na narozi = hypoteza z sikmeho zaberu pohlednice; dvorni objekt (Hofgebaeude 1943) nemodelovan; mansarda r4: zlom 2.9 m nad okapem (sklon ~72 st.), horni cast 20 st. - odhad z pohlednice (sikmy pohled shora), ne z kotovaneho pramene; vikyre do Teplicke: polohy nad hypotetickymi osami fasady; tvar (obloukove zakonceni) a zdobny vikyr nad narozim zjednoduseny
 
 | Příloha | Typ | SHA-256 (12 znaků) |
 |---|---|---|

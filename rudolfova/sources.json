@@ -2775,34 +2775,34 @@
   ]
  },
  "assets/houses/cp692_front.jpg": {
-  "source": "web render of cp_692_G_r3.blend (gen/web_export_render.py)"
+  "source": "web render of cp_692_G_r4.blend (gen/web_export_render.py)"
  },
  "assets/houses/cp692_oblique.jpg": {
-  "source": "web render of cp_692_G_r3.blend (gen/web_export_render.py)"
+  "source": "web render of cp_692_G_r4.blend (gen/web_export_render.py)"
  },
  "assets/houses/cp692_back.jpg": {
-  "source": "web render of cp_692_G_r3.blend (gen/web_export_render.py)"
+  "source": "web render of cp_692_G_r4.blend (gen/web_export_render.py)"
  },
  "assets/houses/cp692_clay.jpg": {
-  "source": "web render of cp_692_G_r3.blend (gen/web_export_render.py)"
+  "source": "web render of cp_692_G_r4.blend (gen/web_export_render.py)"
  },
  "assets/houses/cp692_qa_mat.jpg": {
-  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\qa\\views_cp692_r3_mat.jpg"
+  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\qa\\views_cp692_r4_mat.jpg"
  },
  "assets/houses/cp692_qa_clay.jpg": {
-  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\qa\\views_cp692_r3_clay.jpg"
+  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\qa\\views_cp692_r4_clay.jpg"
  },
  "assets/houses/cp692_details.jpg": {
-  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\qa\\details_cp692_r3.jpg"
+  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\qa\\details_cp692_r4.jpg"
  },
  "assets/houses/cp692_rudolfova_postcard_r1.jpg": {
   "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\qa\\count_frames\\cp692_rudolfova_postcard_r1.jpg",
   "note": "red frame + opening ids (facade_evidence v2)"
  },
  "models/cp692.glb": {
-  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\houses\\cp692\\r3\\cp_692_G_r3.glb",
+  "source": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\houses\\cp692\\r4\\cp_692_G_r4.glb",
   "note": "web export without packed images",
-  "sha256": "0a7a064c184e3fe5a2d8e3e666fff6087b052b928d9f62efd6cdfe7cb12e9929"
+  "sha256": "dcb1149261a9f8d935bfe9c0b565d4a68afea92ac64c137a82917c16d467cc07"
  },
  "assets/houses/cp830_front.jpg": {
   "source": "web render of cp_830_G_r3.blend (gen/web_export_render.py)"
@@ -3468,13 +3468,13 @@
   "source": "F:\\MOST\\output\\grafit_rudolfova_publish_2026-10-24\\scene\\rudolfova_street.glb",
   "layout": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\street_layout_gis.json",
   "note": "web export without packed images",
-  "sha256": "aa23105fd89e15ef475b3be699f703e6c0d19d43b1c208fa3810d2daff6892b3"
+  "sha256": "7dc7873d687f240f4ccaef2389178ad2895852b19ce28e464e032bf7a97bba37"
  },
  "models/rudolfova_street.blend": {
   "source": "F:\\MOST\\output\\grafit_rudolfova_publish_2026-10-24\\scene\\rudolfova_street.blend",
   "layout": "F:\\MOST\\output\\rudolfova_street_claude_2026-10-23\\street_layout_gis.json",
   "note": "web export without packed images",
-  "sha256": "1af99f3943543aedfa792206af74736d344d867fd95a80b6b936536f09cbc308"
+  "sha256": "0e5acf5ac542938aca621bd502e054a2b3b0814adca3b39d3ea2b9cff566d51a"
  },
  "assets/map.svg": {
   "source": "gen/map.py from F:/MOST/analysis/gis_city_3d/scene-data.json (vectorised 1938 town plan)"
