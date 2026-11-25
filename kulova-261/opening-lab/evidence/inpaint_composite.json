@@ -17,7 +17,7 @@
   "status": "provisional",
   "locked": false,
   "door_refinement": {
-    "raw": "door_raw.png",
+    "raw": "door_raw.webp",
     "crop": [
       0,
       1100,

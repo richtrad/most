@@ -30,7 +30,7 @@
       "input": "evidence/facade_before.png",
       "prompt": "prompts/drainpipe_remove.txt",
       "mask": "evidence/drainpipe_mask.png",
-      "raw": "generated/drainpipe_removed_raw.png",
+      "raw": "generated/drainpipe_removed_raw.webp",
       "composite": "textures/registered_facade.png",
       "tool": "built-in imagegen edit",
       "generation_id": "exec-28918840-6ce6-48a4-bb65-296274488ae1",

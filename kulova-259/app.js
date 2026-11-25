@@ -14,7 +14,7 @@ for(const k of Object.keys(views)){const op=document.createElement('option');op.
 const model=(await new GLTFLoader().loadAsync('./models/cp259_SOL61.glb')).scene;scene.add(model);model.traverse(o=>{if(o.isMesh){o.userData.original=o.material;for(const m of(Array.isArray(o.material)?o.material:[o.material]))if(m.map)m.map.anisotropy=Math.min(16,renderer.capabilities.getMaxAnisotropy());}});
 const facadeMaterials=new Set();
 model.traverse(o=>{if(o.isMesh)for(const m of(Array.isArray(o.userData.original)?o.userData.original:[o.userData.original]))if(m.name==='SOURCE_PHOTO_REGISTERED'&&m.map){m.userData.originalMap=m.map;facadeMaterials.add(m);}});
-const hdImage=await new THREE.TextureLoader().loadAsync('./textures/front_regenerated_hd_v2.png');
+const hdImage=await new THREE.TextureLoader().loadAsync('./textures/front_regenerated_hd_v2.webp');
 const hdMaps=new Map();
 for(const m of facadeMaterials){const map=m.userData.originalMap.clone();map.source=new THREE.Source(hdImage.image);map.needsUpdate=true;hdMaps.set(m,map);}
 let textureVersion='original';

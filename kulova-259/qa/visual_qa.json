@@ -84,7 +84,7 @@
       ],
       "views": [
         "texture_opening_U4_front.png",
-        "texture_opening_U4_left.png",
+        "texture_opening_U4_left.webp",
         "texture_opening_U4_right.png",
         "clay_opening_U4_front.png",
         "clay_opening_U4_left.png",
@@ -151,7 +151,7 @@
       "views": [
         "texture_opening_D1_front.png",
         "texture_opening_D1_left.png",
-        "texture_opening_D1_right.png",
+        "texture_opening_D1_right.webp",
         "clay_opening_D1_front.png",
         "clay_opening_D1_left.png",
         "clay_opening_D1_right.png"
@@ -280,7 +280,7 @@
     "no_duplicate_geometry_in_albedo": {
       "status": "passed_with_scope",
       "evidence": [
-        "texture_axis_front.png",
+        "texture_axis_front.webp",
         "texture_detail_corner.png",
         "texture_detail_cornice.png"
       ],
@@ -290,7 +290,7 @@
       "status": "not_applicable",
       "evidence": [
         "texture_roof_front_left.png",
-        "texture_roof_front_right.png"
+        "texture_roof_front_right.webp"
       ],
       "note": "No dormer convincingly documented in chosen photographed fragment. Earlier proposed roof light does not prove photographed state."
     },
@@ -306,8 +306,8 @@
     "colour_resolution": {
       "status": "passed_with_limitations",
       "evidence": [
-        "texture_hero.png",
-        "texture_opening_U4_left.png",
+        "texture_hero.webp",
+        "texture_opening_U4_left.webp",
         "../evidence/large_wall_qa.json"
       ],
       "note": "Front1536x1200 derives from small image and cannot add historical detail. Large hidden walls use calibrated unique albedo. Ochre/slate hues provisional contrary to earliercream/red assignment; no DB rewrite."
@@ -315,7 +315,7 @@
     "bevel_C": {
       "status": "passed",
       "evidence": [
-        "texture_opening_U4_left.png",
+        "texture_opening_U4_left.webp",
         "clay_opening_U4_left.png"
       ],
       "note": "Selected exposed frame/sill/cornice/threshold edges8mm,3segments; no subdivision. Major shell corners remain straight."
@@ -350,7 +350,7 @@
     {
       "view": "hero",
       "surface": "texture",
-      "file": "texture_hero.png",
+      "file": "texture_hero.webp",
       "camera": {
         "position": [
           25,
@@ -375,7 +375,7 @@
     {
       "view": "axis_front",
       "surface": "texture",
-      "file": "texture_axis_front.png",
+      "file": "texture_axis_front.webp",
       "camera": {
         "position": [
           7,
@@ -500,7 +500,7 @@
     {
       "view": "roof_front_right",
       "surface": "texture",
-      "file": "texture_roof_front_right.png",
+      "file": "texture_roof_front_right.webp",
       "camera": {
         "position": [
           29,
@@ -1000,7 +1000,7 @@
     {
       "view": "opening_U4_left",
       "surface": "texture",
-      "file": "texture_opening_U4_left.png",
+      "file": "texture_opening_U4_left.webp",
       "camera": {
         "position": [
           6.280398958333333,
@@ -1250,7 +1250,7 @@
     {
       "view": "opening_D1_right",
       "surface": "texture",
-      "file": "texture_opening_D1_right.png",
+      "file": "texture_opening_D1_right.webp",
       "camera": {
         "position": [
           7.0723489583333325,

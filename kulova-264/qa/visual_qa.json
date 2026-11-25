@@ -110,7 +110,7 @@
     {
       "view": "roof_front_left",
       "surface": "texture",
-      "file": "texture_roof_front_left.png",
+      "file": "texture_roof_front_left.webp",
       "camera": {
         "position": [
           -20,
@@ -335,7 +335,7 @@
     {
       "view": "detail_threshold",
       "surface": "texture",
-      "file": "texture_detail_threshold.png",
+      "file": "texture_detail_threshold.webp",
       "camera": {
         "position": [
           4.200000000000001,
@@ -385,7 +385,7 @@
     {
       "view": "detail_shopfront",
       "surface": "texture",
-      "file": "texture_detail_shopfront.png",
+      "file": "texture_detail_shopfront.webp",
       "camera": {
         "position": [
           0.7000000000000002,
@@ -460,7 +460,7 @@
     {
       "view": "dormer_A_back",
       "surface": "texture",
-      "file": "texture_dormer_A_back.png",
+      "file": "texture_dormer_A_back.webp",
       "camera": {
         "position": [
           2.9240000000000004,
@@ -785,7 +785,7 @@
     {
       "view": "opening_U1_left",
       "surface": "texture",
-      "file": "texture_opening_U1_left.png",
+      "file": "texture_opening_U1_left.webp",
       "camera": {
         "position": [
           -0.6501428571428565,
@@ -860,7 +860,7 @@
     {
       "view": "opening_U2_left",
       "surface": "texture",
-      "file": "texture_opening_U2_left.png",
+      "file": "texture_opening_U2_left.webp",
       "camera": {
         "position": [
           0.964642857142858,
