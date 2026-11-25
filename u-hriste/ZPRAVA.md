@@ -1,8 +1,8 @@
 # U hřiště (1938 Seligerova): zpráva o 3D modelu ulice a jeho pramenech
 
-Projekt MOST, GRAFIT FIT ČVUT, 26. 10. 2026. Geometrie a stránka: Claude (Anthropic); textury doplňuje Codex. Web: https://grafitctu.github.io/most/u-hriste/
+Projekt MOST, GRAFIT FIT ČVUT, 25. 11. 2026. Geometrie a stránka: Claude (Anthropic); textury doplňuje Codex. Web: https://richtrad.github.io/most/u-hriste/
 
-Stav: ve 3D je 36 z 36 modelovaných budov. Model ulice (GLB) je k dispozici.
+Stav: ve 3D je 38 z 38 modelovaných budov. Model ulice (GLB) je k dispozici.
 
 ## Co kde stálo
 
@@ -11,7 +11,7 @@ Poloha všech domů pochází z GIS vrstvy projektu, která je vektorizací hist
 Čísla v mapě jsou podle pramenů, ne podle popisků GIS: budova 635 je 574 a budova 634 je 630 (v GIS mají popisky prohozené, viz [Rozpory](#rozpory)). Dílny 413 a a 413 b jsou hypotéza identity na budovách GIS bez čísla. Budovy bez čísla popisného (GIS 1526–1531 v areálu plynárny a GIS 1638) jsou označené „GIS“ a modelované jako hypotézy.
 
 ### Úseky ulice
-- S1 · jižní strana VSV ramene: 626, 625, 630, 574, 772
+- S1 · jižní strana VSV ramene: 626, 625, 630, 742, 574, 772, 627
 - S2 · severozápadní strana VSV ramene: 823, 831, 653, 659, 666, 673, 671
 - S3 · bývalá plynárna: 523 a, GIS 1530, 523 b, GIS 1529, GIS 1531, GIS 1527, GIS 1526
 - S4 · JZ rameno od Husova náměstí: 1733, 413 a, 413 b, 1313, 410
@@ -20,12 +20,7 @@ Poloha všech domů pochází z GIS vrstvy projektu, která je vektorizací hist
 
 ### Databázová oblast „U hřiště“ a co modelováno není
 
-Oblast U hřiště v databázi Libuše obsahuje 35 struktur. Dvě zbořené dvorní stavby nemají v GIS půdorys, a proto se nemodelují (blocked):
-
-| Čp. | Proč není modelováno | Přílohy |
-|---|---|---|
-| 627 | dvorní stavba hostince „Zur Linde“ (772), na skice cp_772_001 vyznačená jako zbořená; v databázi jen plány, v GIS bez půdorysu | 8 |
-| 742 | dvorní stavba za 625 a 630, na skicách KSPPOP vyznačená jako zbořená; jeden plán, v GIS bez půdorysu | 1 |
+Oblast U hřiště v databázi Libuše obsahuje 35 struktur. Zbořené dvorní stavby 627 (dvůr hostince U Lípy) a 742 (dvůr domu 630) v GIS půdorys nemají; jsou modelované jako výslovně označené hypotézy podle skic KSPPOP, plánů a Lageplanu plynárny z roku 1945 a mají uvedený rok platnosti (viz [Platnost budov](#platnost)).
 
 Dalších pět struktur obsahuje jen pohlednice nebo leží podle GIS v jiných ulicích; jejich přílohy jsme načetli a prohlédli, modelovány nejsou:
 
@@ -99,7 +94,7 @@ Pracovní složka: F:\MOST\output\u_hriste_street_claude_2026-10-25\ (domy, kont
 
 - **Plynárna bez čísel popisných: stav kolem 1938.** GIS plán 1938 zakresluje v areálu plynárny dva kruhové plynojemy a provozní budovy bez čísla popisného. Na žádost uživatele (26. 10. 2026) jsou domodelované jako výslovné hypotézy: plynojem 2150 m³ (budova GIS 1526) podle plánu firmy N. Rella & Neffe z roku 1903, plynojem 800 m³ (GIS 1527) podle nádrže z roku 1872, budovy GIS 1529 a 1531 jen jako objemy podle půdorysu. Karta KSPPOP ale uvádí, že plynárna byla za války zříceninou a potom zbořena – v 60. letech tu tyto stavby pravděpodobně už nestály, proto nesou štítek „hypotéza – stav kolem 1938“. Malá budova GIS 1530 u vjezdu je pracovně vrátnice, kterou fotografie 60. let ukazují; dvorní stavba GIS 1638 u nám. Dvouletky nemá žádný pramen.
 
-- **627 a 742: zbořené dvorní stavby.** Na skicách KSPPOP jsou vyznačené jako zbořené a v GIS nemají půdorys; nemodelují se (blocked).
+- **627 a 742: zbořené dvorní stavby bez GIS (hypotéza).** GIS 1938 dvorní stavby v blocích U hřiště soustavně nevede. Dvorní stavbu hostince U Lípy (627) zachytil Lageplan plynárny z února 1945: zadní zeď dlouhá asi 18 m se schodišťovým výstupkem, tvarem shodná s projektem pro Franze Siegla (ten je však dlouhý 23,7 m). Dvorní dům 742 kreslí dvě skici KSPPOP u hranice s 625 a plán uhelných kůlen z 6. 5. 1930 na stejném místě ukazuje „Wohnhaus“ široký 4,6 m; situace téhož plánu ale píše číslo 742 k levé hranici za 574. Oba domy jsou modelované jako hmoty bez otvorů se štítkem „hypotéza – zbořená dvorní stavba“ a rokem platnosti (627 do 1945, 742 poslední doklad 1930).
 
 - **Výšky a terén.** Výšky podlaží, říms a střech jsou odhady z rektifikací a plánů. Terén je plochý (z = 0), protože historický výškopis ulice nebyl k dispozici; je to provizorní hypotéza.
 
@@ -107,9 +102,24 @@ Pracovní složka: F:\MOST\output\u_hriste_street_claude_2026-10-25\ (domy, kont
 
 Údaje jsou v datech označené jako `model_hypothesis`, `status: provisional`, `locked: false`.
 
+## Platnost budov
+
+Scéna ulice spojuje různá období. Většina domů je ve stavu z fotografií 60. a 70. let (dokumentace KSPPOP). Budovy plynárny a zbořené dvorní stavby v té době už nestály; ve scéně jsou ponechány jako hypotézy staršího stavu a u každé je rok, do kdy platí (poslední doklad v pramenech):
+
+| Budova | Stav modelu | Platí od | Platí do | Poslední doklad |
+|---|---|---|---|---|
+| 742 | hypotéza – zbořená dvorní stavba (stav kolem 1930) | před 1930 | 1930 – poslední doklad 1930; zbořeno před dokumentací KSPPOP (GIS 1938 ho nevede) | plán 6. 5. 1930 (cp_742_001) |
+| 627 | hypotéza – zbořená dvorní stavba (stav kolem 1938–1945) | po 1888 | 1945 – doloženo do února 1945; zbořeno před dokumentací KSPPOP | Lageplan II/1945 (cp_523_010) |
+| GIS 1530 | hypotéza podle GIS 1938 (vrátnice) | před 1938 | – – pravděpodobně do 60.–70. let (fotografie vrátnice cp_523_009 – přiřazení je hypotéza) | fotografie cp_523_009 (KSPPOP) |
+| GIS 1529 | hypotéza – stav kolem 1938 (areál plynárny) | před 1938 | 1945 – nejpozději do 1945 – za války zřícenina, potom zbořeno; na fotografiích 60.–70. let volný dvůr | Lageplan II/1945 (cp_523_010): dlouhá stupňovitá budova podél ulice |
+| GIS 1531 | hypotéza – stav kolem 1938 (areál plynárny) | před 1938 | 1945 – nejpozději do 1945 – za války zřícenina, potom zbořeno; na fotografiích 60.–70. let volný dvůr | Lageplan II/1945 (cp_523_010): samostatná budova vzadu |
+| GIS 1527 | hypotéza – stav kolem 1938 (areál plynárny) | 1872 | 1945 – nejpozději do 1945 – za války zřícenina, potom zbořeno; na fotografiích 60.–70. let volný dvůr | Lageplan II/1945 (cp_523_010): nádrž „Kranz“ |
+| GIS 1526 | hypotéza – stav kolem 1938 (areál plynárny) | 1903 | 1945 – nejpozději do 1945 – za války zřícenina, potom zbořeno; na fotografiích 60.–70. let volný dvůr | Lageplan II/1945 (cp_523_010): nádrž „Kranz“ |
+| GIS 1638 | hypotéza podle GIS 1938 | před 1938 | 1938 – doloženo jen 1938 (GIS); později neověřeno | GIS 1938 |
+
 ## Kniha nesouladů pramenů
 
-Případy, kdy si prameny odporují (plán proti fotografii, GIS proti skice, kopie místo originálu), zapisujeme do interní knihy nesouladů pramenů projektu MOST. Ta se zatím nepublikuje, proto zde uvádíme jen identifikátory případů této ulice (11):
+Případy, kdy si prameny odporují (plán proti fotografii, GIS proti skice, kopie místo originálu), zapisujeme do interní knihy nesouladů pramenů projektu MOST. Ta se zatím nepublikuje, proto zde uvádíme jen identifikátory případů této ulice (14):
 - `2026-10-25_u-hriste_1733-projekt-1930-vs-realizace` – U hřiště 1733: palác SHD – projekt 1930 má jiné proporce než realizace na pohlednici
 - `2026-10-25_u-hriste_410-nastavba-nerealizovana` – U hřiště 410: projekt nástavby patra (Stockwerksaufbau) se neuskutečnil – fotografie 1975 ukazují dvě podlaží
 - `2026-10-25_u-hriste_413-dilny-bez-gis` – U hřiště 413: dílny ve dvoře SHD mají fotografie i skicu, ale v GIS nemají budovu s tímto čp.
@@ -121,6 +131,9 @@ Případy, kdy si prameny odporují (plán proti fotografii, GIS proti skice, ko
 - `2026-10-25_u-hriste_nizke-strechy-sparka-stitu` – Metodika: u nízkých střech proklouznou šikmé paprsky 1 cm spárou mezi štítem a krytinou
 - `2026-10-25_u-hriste_plynarna-epocha-1938` – U hřiště, areál plynárny: budovy GIS bez čp. jsou stav kolem 1938 – v 60. letech už plynárna nestála
 - `2026-10-25_u-hriste_s6-jen-kopie-nizkeho-rozliseni` – U hřiště, nám. Dvouletky (1230, 1186, 1188, 1178, 1192, 417): fotografie jen jako netagované kopie 1920×1080
+- `2026-11-25_u-hriste_627-dvorni-stavba-bez-gis` – Zbořená dvorní stavba hostince U Lípy (627) chybí v GIS – poloha z Lageplanu plynárny 1945, členění z projektu pro F. Siegla
+- `2026-11-25_u-hriste_742-dvorni-dum-bez-gis` – Zbořený dvorní dům 742 ve dvoře 630: dvě skici KSPPOP a plán uhelných kůlen 1930 – GIS ho nevede, situace 1930 nese číslo 742 jinde
+- `2026-11-25_u-hriste_jmena-ulice-v-planech` – Jedna ulice, čtyři jména: Gasgasse (1888, 1930), Seligerstraße, Paredler Strasse (1945) a „Strasse nach Paredl“
 
 ## Přehled domů
 
@@ -129,8 +142,10 @@ Případy, kdy si prameny odporují (plán proti fotografii, GIS proti skice, ko
 | 626 | S1 | řadový patrový dům v ohybu ulice | – | 2 | 8,5 × 8,4 | r2 | 28 | zatím bez textur |
 | 625 | S1 | řadový patrový dům | – | 2 | 8,9 × 8,4 | r2 | 26 | zatím bez textur |
 | 630 | S1 | patrový dům s obloukovým průjezdem a třemi vikýři | – | 2 + vikýře | 9,1 × 8,9 | r3 | 14 | zatím bez textur |
+| 742 | S1 | dvorní obytný dům ve dvoře 630 (zbořený) | hypotéza – zbořená dvorní stavba | 2 (hypotéza) | 10,6 × 5,8 | r1 | 1 | bez textur (hypotéza – zbořená dvorní stavba – jen prosté materiály) |
 | 574 | S1 | patrový dům se třemi vikýři | – | 2 + vikýře | 9,9 × 8,3 | r3 | 21 | zatím bez textur |
 | 772 | S1 | bývalý hostinec „Zur Linde“ na konci řady | – | 2 + atikový vlys | 18,5 × 9,2 | r1 | 20 | zatím bez textur |
+| 627 | S1 | dvorní stavba hostince U Lípy (zbořená) | hypotéza – zbořená dvorní stavba | 1 + 2 (hypotéza) | 9,8 × 5,0 | r1 | 8 | bez textur (hypotéza – zbořená dvorní stavba – jen prosté materiály) |
 | 823 | S2 | nárožní dům dvojdomu 823 | 831 | – | 2 | 9,2 × 7,5 | r2 | 12 | zatím bez textur |
 | 831 | S2 | pravá polovina dvojdomu 823 | 831 | – | 2 | 10,5 × 7,5 | r1 | 8 | zatím bez textur |
 | 653 | S2 | dům s nikou se sochou a nastaveným uličním štítem | – | 2 + pokoj v nastaveném štítu | 9,5 × 11,0 | r4 | 12 | zatím bez textur |
@@ -268,6 +283,22 @@ Případy, kdy si prameny odporují (plán proti fotografii, GIS proti skice, ko
 | cp_630_002.jpg | plán / výkres | 438d90be7d48 |
 | cp_630_003.jpg | plán / výkres | 46cbfb9cf408 |
 
+### Čp. 742: dvorní obytný dům ve dvoře 630 (zbořený)
+
+> **Upozornění – hypotéza – zbořená dvorní stavba:** Dvorní obytný dům (čp. 742) ve dvoře domu 630 u hranice s 625. Je doložen na plánu uhelných kůlen z 6. 5. 1930, před dokumentací KSPPOP byl zbořen; GIS 1938 ho nevede. Poloha podle dvou skic KSPPOP a plánu 1930, šířka 4,6 m podle plánu 1:100 (skici ukazují ~6 m), hloubka ~10,6 m podle skic. Výška (2 podlaží), střecha a průčelí do dvora jsou odhad, otvory nemodelovány.
+
+> **Poznámka k identitě a GIS:** GIS 1938 tento dvorní dům nevede; poloha je odvozena ze skic KSPPOP a plánu z roku 1930 vůči domu 630.
+
+- Skici KSPPOP k domům 630 a 574 kreslí ve dvoře domu 630 u hranice s 625 obdélník „(742) kdysi nádvorní dům / zde býval nádvorní dům“. Plán uhelných kůlen ve dvoře domu 630 v Gasgasse (Brüxer Kohlen-Bergbau-Gesellschaft, 6. 5. 1930, 1 : 100) ukazuje na stejném místě za kůlnami „Wohnhaus“ široký asi 4,6 m. Situace téhož plánu ale píše číslo 742 k levé hranici za domem 594 (= 574) – pravděpodobně jde o číslo parcely nebo posunutý popisek.
+- Prameny: skici KSPPOP cp_630_001 a cp_574_001; plán cp_742_001 (6. 5. 1930) – půdorys kůlen, řez a situace
+- Střecha: sedlová střecha 40° podél delší osy – odhad
+- GIS budova None (bez čp.); geometrie revize r1, 49 polygonů.
+- Hypotézy: šířka 4,6 m podle plánu 1930 (skici ukazují asi 6 m); hloubka 10,6 m a poloha jsou průměrem dvou skic KSPPOP; dvě podlaží, střecha a průčelí do dvora jsou odhad; otvory nejsou modelovány – fotografie neexistuje; poslední doklad 1930; zbořeno před dokumentací KSPPOP
+
+| Příloha | Typ | SHA-256 (12 znaků) |
+|---|---|---|
+| cp_742_001.jpg | plán / výkres | 2741c3abc84c |
+
 ### Čp. 574: patrový dům se třemi vikýři
 
 > **Poznámka k identitě a GIS:** GIS má u tohoto domu popisek 630: popisky 574 a 630 jsou v GIS u sousedních budov 634 a 635 prohozené. Model se řídí prameny (skici KSPPOP a popsané fotografie): 635 = 574, 634 = 630, rozhodnutí uživatele 25. 10. 2026. Kanonický GIS ani registr poloh se nemění.
@@ -332,6 +363,29 @@ Případy, kdy si prameny odporují (plán proti fotografii, GIS proti skice, ko
 | cp_772_004.jpg | fotografie | 5bd19932ff9c |
 | cp_772_004.jpg | kopie bez tagu (1920 × 1080) | ee809fc9ea5a |
 | cp_772_004.jpg | archivní karta | eabc309dbd68 |
+
+### Čp. 627: dvorní stavba hostince U Lípy (zbořená)
+
+> **Upozornění – hypotéza – zbořená dvorní stavba:** Dvorní stavba hostince U Lípy (čp. 627) v zadní části dvora 772 u zdi plynárny. Stála ještě v únoru 1945, před dokumentací KSPPOP byla zbořena; GIS 1938 ji nevede. Poloha a délka (~18 m) podle Lageplanu plynárny z února 1945 a skici KSPPOP, členění na kůlnu pro vozy a dvoupodlažní obytnou část se schodišťovým přístavkem podle stavebního plánu pro Franze Siegla (projekt je delší, 23,7 m). Hloubka, výšky a střechy jsou odhad, otvory nemodelovány.
+
+> **Poznámka k identitě a GIS:** GIS 1938 tuto dvorní stavbu nevede; poloha je zaměřena z Lageplanu plynárny z února 1945 vůči uliční čáře domu 772 a zdi plynárny.
+
+- Skica KSPPOP k domu 772 kreslí v zadní části dvora u hranice s pozemkem bývalé plynárny „sbořený nádvorní dům (627)“. Plány 627 patří hostinci U Lípy (Gasthof zur Linde, Seligerstraße čp. 627/772). Lageplan okolí plynárny z února 1945 (1 : 500) ukazuje na pozemku U Lípy zadní zeď dlouhou asi 18 m, rovnoběžnou s ulicí ve vzdálenosti asi 38 m, se schodišťovým výstupkem a se šikmou stěnou podél zdi plynárny. Tvarem odpovídá projektu obytné budovy s kůlnou pro Franze Siegla; projekt je však dlouhý 23,7 m, model se proto řídí zaměřením z roku 1945.
+- Prameny: skica KSPPOP cp_772_001; Lageplan über das Gelände beim städt. Gaswerk, únor 1945 (cp_523_010, struktura 523); Plan eines Wohn- und Schupfengebäudes für Herrn Franz Siegl (cp_627_001) – přízemí, pohled, řezy, situace; plány cp_627_002 a cp_627,772_005 (hostinec U Lípy)
+- Střecha: sedlové střechy 35° – odhad (kůlna okap 5,0 m, obytná část okap 8,5 m podle projektu)
+- GIS budova None (bez čp.); geometrie revize r1, 101 polygonů.
+- Hypotézy: délka a poloha podle Lageplanu 1945 (převod přes oba plynojemy), projekt je o 5 m delší; hloubka 9,5 m je odhad (Lageplan ≥ 6,5 m, projekt 12,8 m); výšky podle projektu, střechy odhad; otvory nejsou modelovány – fotografie neexistuje a projekt neodpovídá zaměřené délce; platí do února 1945 (poslední doklad); zbořeno před dokumentací KSPPOP
+
+| Příloha | Typ | SHA-256 (12 znaků) |
+|---|---|---|
+| cp_627,772_001.jpg | plán / výkres | c801eb6a7628 |
+| cp_627,772_002.jpg | plán / výkres | c04425e0a615 |
+| cp_627,772_003.jpg | plán / výkres | 0500352167c8 |
+| cp_627,772_004.jpg | plán / výkres | 15a0bd04ff88 |
+| cp_627,772_005.jpg | plán / výkres | b90cb15773a1 |
+| cp_627,772_006.jpg | plán / výkres | e59aec7a25fe |
+| cp_627_001.jpg | plán / výkres | b4552da17a5b |
+| cp_627_002.jpg | plán / výkres | 3e10b3a99b82 |
 
 ### Čp. 823: nárožní dům dvojdomu 823 | 831
 

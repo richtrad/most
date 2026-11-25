@@ -90,6 +90,8 @@
 <polygon points="636.7,102.7 593.8,33.1 589.3,35.9 575.8,13.9 579.5,11.7 537.3,-56.7 548.9,-63.8 590.6,4.0 598.7,-1.1 611.9,20.2 604.9,24.5 648.3,94.8" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
 <polygon points="572.4,-77.3 674.3,78.3 661.6,86.5 559.5,-69.4" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
 <polygon points="258.7,305.7 269.5,242.2 299.0,247.2 288.3,310.5" fill="#e2ded3" stroke="#8a857a" stroke-width="0.8"/>
+<a href="cp627/" aria-label="Čp. 627"><polygon points="485.5,571.5 441.6,595.3 455.2,620.3 463.9,615.6 466.9,621.2 471.1,618.9 468.1,613.3 503.4,594.2" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8" stroke-dasharray="2 1.5"/></a>
+<a href="cp742/" aria-label="Čp. 742"><polygon points="392.0,632.3 377.2,604.2 365.0,610.6 379.8,638.8" fill="#d08a3a" stroke="#8a857a" stroke-width="0.8" stroke-dasharray="2 1.5"/></a>
 <text x="256.4" y="740.4" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">410</text>
 <text x="265.3" y="663.1" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">1313</text>
 <text x="309.9" y="593.9" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">626</text>
@@ -126,6 +128,8 @@
 <text x="606.6" y="386.5" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">GIS 1530</text>
 <text x="808.9" y="298.4" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">GIS 1531</text>
 <text x="669.1" y="140.9" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">GIS 1638</text>
+<text x="469.5" y="609.8" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">627</text>
+<text x="378.5" y="625.0" font-size="10" text-anchor="middle" fill="#ffffff" pointer-events="none">742</text>
 <text x="654.8" y="855.2" font-size="10" fill="#2b6a7a" font-weight="400">Svatopluka Čecha</text>
 <text x="72.3" y="627.2" font-size="10" fill="#2b6a7a" font-weight="400">Nádražní</text>
 <text x="525.5" y="103.1" font-size="10" fill="#2b6a7a" font-weight="400">nám. Dvouletky</text>
