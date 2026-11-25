@@ -32,7 +32,7 @@
       "scope": "Visual registration and UV continuity only; historic dimensions remain provisional",
       "views": [
         "texture_opening_A_W2_front.png",
-        "texture_opening_A_W2_left.png",
+        "texture_opening_A_W2_left.webp",
         "texture_opening_A_W2_right.png",
         "clay_opening_A_W2_front.png",
         "clay_opening_A_W2_left.png",
@@ -113,7 +113,7 @@
       "views": [
         "texture_opening_B_D1_front.png",
         "texture_opening_B_D1_left.png",
-        "texture_opening_B_D1_right.png",
+        "texture_opening_B_D1_right.webp",
         "clay_opening_B_D1_front.png",
         "clay_opening_B_D1_left.png",
         "clay_opening_B_D1_right.png"
@@ -281,7 +281,7 @@
     "entry_threshold_and_steps": {
       "status": "passed",
       "evidence": [
-        "texture_detail_threshold.png",
+        "texture_detail_threshold.webp",
         "texture_detail_threshold_below.png",
         "clay_detail_threshold.png"
       ],
@@ -322,7 +322,7 @@
       "evidence": [
         "../sources/cp_257_situation.jpg",
         "../sources/cp_257_002_card.jpg",
-        "texture_roof_back_left.png",
+        "texture_roof_back_left.webp",
         "clay_roof_back_left.png"
       ],
       "note": "Roof wing/intersection and schematic fourth chimney vs three surviving photo chimneys not conclusively matched to one demolition phase. Regular timber reconstruction is provisional. This blocks street propagation."
@@ -331,8 +331,8 @@
       "status": "passed",
       "evidence": [
         "texture_roof_front_left.png",
-        "texture_roof_back_left.png",
-        "texture_detail_chimneys.png"
+        "texture_roof_back_left.webp",
+        "texture_detail_chimneys.webp"
       ],
       "note": "Clay photographic donor; surviving patch moved to rear-wall slope after comparison with photo1 and photo2. Exact strip extents provisional."
     },
@@ -341,14 +341,14 @@
       "evidence": [
         "texture_photo1.png",
         "texture_detail_damage.png",
-        "texture_opening_A_W2_left.png"
+        "texture_opening_A_W2_left.webp"
       ],
       "note": "Colour hypotheses from database assignments, corrected return/inner tint preserved in GLB. Archived colour photo resolution limits front detail; upscaling is not evidence."
     },
     "bevel_C": {
       "status": "passed",
       "evidence": [
-        "texture_opening_A_W2_left.png",
+        "texture_opening_A_W2_left.webp",
         "clay_opening_E_W1_left.png"
       ],
       "note": "Local sill bevel 8 mm / 3 segments; no global subdivision."
@@ -411,7 +411,7 @@
       "sha256": "8b30ee5cc5107790740450a6035d74a5fd9e10b45ba25836727d75c86877222f"
     },
     {
-      "path": "texture_roof_back_left.png",
+      "path": "texture_roof_back_left.webp",
       "sha256": "5685c4b8429f97837d685e92d73b2da64175848b5c24fe1b33400410e59495b5"
     },
     {
@@ -427,7 +427,7 @@
       "sha256": "b2d5076bb0abaae4636df8b90056f6b05ad61b2701ea79b876168cdc5447b2da"
     },
     {
-      "path": "texture_detail_chimneys.png",
+      "path": "texture_detail_chimneys.webp",
       "sha256": "f72b8efb528b2d95382f4280bc846993c5cf36245a3e887c7e61f781cfad6f12"
     },
     {
@@ -435,7 +435,7 @@
       "sha256": "942e37f8f09675b7f2bb123849e1d8e008963d2cc4265ebd7b56e285dbcc1e39"
     },
     {
-      "path": "texture_detail_threshold.png",
+      "path": "texture_detail_threshold.webp",
       "sha256": "c8ad39035f439ea6db24a9f445718e6d8fed8dbc2b9bd1c2b47a1c9d2c31222e"
     },
     {
@@ -487,7 +487,7 @@
       "sha256": "9a9f8c709508591e93308a7e08b984e67ad384708b301c88d7314982cfd92313"
     },
     {
-      "path": "texture_opening_A_W2_left.png",
+      "path": "texture_opening_A_W2_left.webp",
       "sha256": "9cd64b9f28d6a4e577c8c77dd07e411c811bbd865ee8fa739231318413de48f7"
     },
     {
@@ -539,7 +539,7 @@
       "sha256": "c3f0d09efa5a2de48555bf48ad47148defb0c8abb7fbc0dd3faf797c4f89bbb1"
     },
     {
-      "path": "texture_opening_B_D1_right.png",
+      "path": "texture_opening_B_D1_right.webp",
       "sha256": "6c8ebd9dec45ff8deb306308820e8626fde8196b7708db1abddff95275322eed"
     },
     {

@@ -48,7 +48,7 @@
     },
     {
       "name": "I_namesti_2_crop.png",
-      "file": "assets/d0a5e2c85c5ad550_I_namesti_2_crop.png",
+      "file": "assets/d0a5e2c85c5ad550_I_namesti_2_crop.webp",
       "sha256": "d0a5e2c85c5ad5503a9da97c162b03146d167b8640b65145f032dadf04795672",
       "bytes": 356413,
       "dimensions": [
@@ -59,7 +59,7 @@
     },
     {
       "name": "cp_3_001_col.png",
-      "file": "assets/671f88e6b17b8918_cp_3_001_col.png",
+      "file": "assets/671f88e6b17b8918_cp_3_001_col.webp",
       "sha256": "671f88e6b17b8918f6bd2567acb516aae9dc4452319f2cefe5752623c3f05ab3",
       "bytes": 2321497,
       "dimensions": [
@@ -70,7 +70,7 @@
     },
     {
       "name": "cp_3_001_col_cr_front.png",
-      "file": "assets/2afafb0d0cb9c476_cp_3_001_col_cr_front.png",
+      "file": "assets/2afafb0d0cb9c476_cp_3_001_col_cr_front.webp",
       "sha256": "2afafb0d0cb9c476e356896b3deb2021d3a6f474aa88606ef98f523c8acfece6",
       "bytes": 2522574,
       "dimensions": [
@@ -81,7 +81,7 @@
     },
     {
       "name": "cp_3_001_mult.png",
-      "file": "assets/76ac28169e035b5f_cp_3_001_mult.png",
+      "file": "assets/76ac28169e035b5f_cp_3_001_mult.webp",
       "sha256": "76ac28169e035b5fafcff6ef0ab4c2e3cccfd399c35d2ad3ff6b919ae1480b35",
       "bytes": 780478,
       "dimensions": [
@@ -98,7 +98,7 @@
     },
     {
       "name": "i-namesti_3_crop.png",
-      "file": "assets/8b903f83bbe78f62_i-namesti_3_crop.png",
+      "file": "assets/8b903f83bbe78f62_i-namesti_3_crop.webp",
       "sha256": "8b903f83bbe78f626d10e3b5880c26e0bfee883ceb1cd780c997abe96ebf9643",
       "bytes": 575421,
       "dimensions": [
@@ -120,7 +120,7 @@
     },
     {
       "name": "cp_4_003_col.png",
-      "file": "assets/5da33bf3a23765a3_cp_4_003_col.png",
+      "file": "assets/5da33bf3a23765a3_cp_4_003_col.webp",
       "sha256": "5da33bf3a23765a3ce6851a945d937918dded1e43a0dcbca1f4b213e724c0983",
       "bytes": 1947222,
       "dimensions": [
@@ -131,7 +131,7 @@
     },
     {
       "name": "cp_4_003_col_cr_front.png",
-      "file": "assets/c8ec31f8abdcffb0_cp_4_003_col_cr_front.png",
+      "file": "assets/c8ec31f8abdcffb0_cp_4_003_col_cr_front.webp",
       "sha256": "c8ec31f8abdcffb0926674bc317111688eb5359e891a92c3ab3bbdd3c7c7427a",
       "bytes": 2426837,
       "dimensions": [
@@ -142,7 +142,7 @@
     },
     {
       "name": "cp_4_003_mult.png",
-      "file": "assets/aa40fb791c27ef20_cp_4_003_mult.png",
+      "file": "assets/aa40fb791c27ef20_cp_4_003_mult.webp",
       "sha256": "aa40fb791c27ef2033223532113cb70178242552f710955ddbbc88025128e001",
       "bytes": 972419,
       "dimensions": [
@@ -170,7 +170,7 @@
     },
     {
       "name": "i-namesti_4_crop.png",
-      "file": "assets/829fabf94d9e2261_i-namesti_4_crop.png",
+      "file": "assets/829fabf94d9e2261_i-namesti_4_crop.webp",
       "sha256": "829fabf94d9e22615b37343eb9dbf029e96e3a43d0c5ec13c4269361a8f27400",
       "bytes": 762339,
       "dimensions": [
@@ -225,7 +225,7 @@
     },
     {
       "name": "cp_5_001_col.png",
-      "file": "assets/2f27743813d4add8_cp_5_001_col.png",
+      "file": "assets/2f27743813d4add8_cp_5_001_col.webp",
       "sha256": "2f27743813d4add8861a9aceea38c20a8178c01c770956859c0f04be27b81b21",
       "bytes": 1870608,
       "dimensions": [
@@ -236,7 +236,7 @@
     },
     {
       "name": "cp_5_001_col_cr_front.png",
-      "file": "assets/d30e271e61d5f5a5_cp_5_001_col_cr_front.png",
+      "file": "assets/d30e271e61d5f5a5_cp_5_001_col_cr_front.webp",
       "sha256": "d30e271e61d5f5a5c4b50367cb4fc026ada663e7d2f03cdb179fa40eb62826c4",
       "bytes": 2376904,
       "dimensions": [
@@ -247,7 +247,7 @@
     },
     {
       "name": "cp_5_001_mult.png",
-      "file": "assets/7e7308153e0dbf97_cp_5_001_mult.png",
+      "file": "assets/7e7308153e0dbf97_cp_5_001_mult.webp",
       "sha256": "7e7308153e0dbf97c6bb3dad7043bc8078bbf77bebbb9dff3f9841e8439c46ae",
       "bytes": 856537,
       "dimensions": [
@@ -275,7 +275,7 @@
     },
     {
       "name": "i-namesti_5_crop.png",
-      "file": "assets/17b0f16701c3b014_i-namesti_5_crop.png",
+      "file": "assets/17b0f16701c3b014_i-namesti_5_crop.webp",
       "sha256": "17b0f16701c3b014d33e58887e1d9d96ba4dfff801434478b1f1485e96c89214",
       "bytes": 633026,
       "dimensions": [
@@ -363,7 +363,7 @@
     },
     {
       "name": "cp_6_003_col.png",
-      "file": "assets/a4681c5f5e4a5abc_cp_6_003_col.png",
+      "file": "assets/a4681c5f5e4a5abc_cp_6_003_col.webp",
       "sha256": "a4681c5f5e4a5abc8c9bada3505a6dcdd4367387aa27f6dc24c3aa38c25d9f01",
       "bytes": 3242194,
       "dimensions": [
@@ -374,7 +374,7 @@
     },
     {
       "name": "cp_6_003_col_cr_front.png",
-      "file": "assets/ba32a5c7fe7548f7_cp_6_003_col_cr_front.png",
+      "file": "assets/ba32a5c7fe7548f7_cp_6_003_col_cr_front.webp",
       "sha256": "ba32a5c7fe7548f7fd114dc243d18d341052d39bc732fba0d1ebf25a1a332d7c",
       "bytes": 2237308,
       "dimensions": [
@@ -385,7 +385,7 @@
     },
     {
       "name": "cp_6_003_mult.png",
-      "file": "assets/8213f75002484739_cp_6_003_mult.png",
+      "file": "assets/8213f75002484739_cp_6_003_mult.webp",
       "sha256": "8213f75002484739ffbf8a3125c89973a622742889ed7a4a77add83a5d87ba04",
       "bytes": 968172,
       "dimensions": [
@@ -468,7 +468,7 @@
     },
     {
       "name": "cp_7_001_col.png",
-      "file": "assets/20f2840660cbe661_cp_7_001_col.png",
+      "file": "assets/20f2840660cbe661_cp_7_001_col.webp",
       "sha256": "20f2840660cbe66187a4c8b3f55ab552adc37b9751ff976d63bbbde5e1af2fb5",
       "bytes": 2129702,
       "dimensions": [
@@ -479,7 +479,7 @@
     },
     {
       "name": "cp_7_001_col_cr_front.png",
-      "file": "assets/0477356496abec87_cp_7_001_col_cr_front.png",
+      "file": "assets/0477356496abec87_cp_7_001_col_cr_front.webp",
       "sha256": "0477356496abec87585c493d0e9d9a5be46d1decdc2abb56598ac3c8ef78e7fc",
       "bytes": 2542010,
       "dimensions": [
@@ -490,7 +490,7 @@
     },
     {
       "name": "cp_7_001_mult.png",
-      "file": "assets/31115a9b1540e9c4_cp_7_001_mult.png",
+      "file": "assets/31115a9b1540e9c4_cp_7_001_mult.webp",
       "sha256": "31115a9b1540e9c4c6d364324ae13b08e0457964976d33ea97fa53119d03a7db",
       "bytes": 1194720,
       "dimensions": [
@@ -551,7 +551,7 @@
     },
     {
       "name": "cp_8_001_col.png",
-      "file": "assets/f6c4e9bd50ef6660_cp_8_001_col.png",
+      "file": "assets/f6c4e9bd50ef6660_cp_8_001_col.webp",
       "sha256": "f6c4e9bd50ef6660ce2e61412be7df4770c8404464db08309a6cd47a84a98bfe",
       "bytes": 2405674,
       "dimensions": [
@@ -562,7 +562,7 @@
     },
     {
       "name": "cp_8_001_col_cr_front.png",
-      "file": "assets/6d3c66a0f5004ec5_cp_8_001_col_cr_front.png",
+      "file": "assets/6d3c66a0f5004ec5_cp_8_001_col_cr_front.webp",
       "sha256": "6d3c66a0f5004ec57fc5cf5c1145bf354d87d482072220c281d6fbc7d5bfa883",
       "bytes": 2386018,
       "dimensions": [
@@ -573,7 +573,7 @@
     },
     {
       "name": "cp_8_001_mult.png",
-      "file": "assets/2568dadb056045b6_cp_8_001_mult.png",
+      "file": "assets/2568dadb056045b6_cp_8_001_mult.webp",
       "sha256": "2568dadb056045b67fa954cf6f1e481ab95d4d2626c81c5213cabe759ee107dc",
       "bytes": 962418,
       "dimensions": [
@@ -678,7 +678,7 @@
     },
     {
       "name": "cp_42_001_col.png",
-      "file": "assets/a9b8fcae15199c7c_cp_42_001_col.png",
+      "file": "assets/a9b8fcae15199c7c_cp_42_001_col.webp",
       "sha256": "a9b8fcae15199c7cd0d6bd2632760c2dd8c18f5722f52a93244a3e9b8ce8bb35",
       "bytes": 1802848,
       "dimensions": [
@@ -689,7 +689,7 @@
     },
     {
       "name": "cp_42_001_col_cr_front.png",
-      "file": "assets/13bce913ee5d934d_cp_42_001_col_cr_front.png",
+      "file": "assets/13bce913ee5d934d_cp_42_001_col_cr_front.webp",
       "sha256": "13bce913ee5d934d87b58f7a16b47f056fc8bab97cc8d2b0c5740aa5b38c486f",
       "bytes": 2468568,
       "dimensions": [
@@ -700,7 +700,7 @@
     },
     {
       "name": "cp_42_001_mult.png",
-      "file": "assets/84a8c1834fe30b23_cp_42_001_mult.png",
+      "file": "assets/84a8c1834fe30b23_cp_42_001_mult.webp",
       "sha256": "84a8c1834fe30b239325a08fd05afdf4caf4b1b4b9d49f2db9f514c6dd3351df",
       "bytes": 901358,
       "dimensions": [
@@ -739,7 +739,7 @@
     },
     {
       "name": "cp_43,44_001_col.png",
-      "file": "assets/d8e457c8038cf1f8_cp_43,44_001_col.png",
+      "file": "assets/d8e457c8038cf1f8_cp_43,44_001_col.webp",
       "sha256": "d8e457c8038cf1f825f34a8c0a7be16191927c3a3fa060247a37ca1beeb7ea07",
       "bytes": 1644883,
       "dimensions": [
@@ -750,7 +750,7 @@
     },
     {
       "name": "cp_44_001_col_cr_front.png",
-      "file": "assets/e116505cd99520e5_cp_44_001_col_cr_front.png",
+      "file": "assets/e116505cd99520e5_cp_44_001_col_cr_front.webp",
       "sha256": "e116505cd99520e5f99a922c92fd1d296740a7edb20e5824418b32353bd01222",
       "bytes": 2289846,
       "dimensions": [
@@ -761,7 +761,7 @@
     },
     {
       "name": "cp_44_001_mult.png",
-      "file": "assets/5e20c6f4ff48c50a_cp_44_001_mult.png",
+      "file": "assets/5e20c6f4ff48c50a_cp_44_001_mult.webp",
       "sha256": "5e20c6f4ff48c50ad4762e435de1d63fba78bc77e2d6d1d9683dacc66825889e",
       "bytes": 979070,
       "dimensions": [
@@ -844,7 +844,7 @@
     },
     {
       "name": "cp_45,46,47_001_col.png",
-      "file": "assets/702b07415e8edebe_cp_45,46,47_001_col.png",
+      "file": "assets/702b07415e8edebe_cp_45,46,47_001_col.webp",
       "sha256": "702b07415e8edebe8d01f5d20c379e9cd583a90795512f0fe6515369559727a5",
       "bytes": 1910342,
       "dimensions": [
@@ -855,7 +855,7 @@
     },
     {
       "name": "cp_45_001_col_cr_front.png",
-      "file": "assets/ef16d520cb5b568a_cp_45_001_col_cr_front.png",
+      "file": "assets/ef16d520cb5b568a_cp_45_001_col_cr_front.webp",
       "sha256": "ef16d520cb5b568a980ed9fad5e37576ab892c345370d62c1ee90e556fbcf6dc",
       "bytes": 2054227,
       "dimensions": [
@@ -866,7 +866,7 @@
     },
     {
       "name": "cp_45_001_mult.png",
-      "file": "assets/7ac168cc6c98784d_cp_45_001_mult.png",
+      "file": "assets/7ac168cc6c98784d_cp_45_001_mult.webp",
       "sha256": "7ac168cc6c98784da3a30f8ee53dd374968964cb6158cda15f4ed56da7cd8aa3",
       "bytes": 979593,
       "dimensions": [
@@ -927,7 +927,7 @@
     },
     {
       "name": "cp_45,46,47_001__cp_45_crop.png",
-      "file": "assets/4bf2dba671d0d7a4_cp_45,46,47_001__cp_45_crop.png",
+      "file": "assets/4bf2dba671d0d7a4_cp_45,46,47_001__cp_45_crop.webp",
       "sha256": "4bf2dba671d0d7a47b40eb3e8ee202be47fe79e75b8c44e57b7aeeabd42198b2",
       "bytes": 365761,
       "dimensions": [
@@ -960,7 +960,7 @@
     },
     {
       "name": "cp_46_001_col_cr_front.png",
-      "file": "assets/bae9c2e6d204d5a3_cp_46_001_col_cr_front.png",
+      "file": "assets/bae9c2e6d204d5a3_cp_46_001_col_cr_front.webp",
       "sha256": "bae9c2e6d204d5a3b41587012dd8473f7488b3491a054416cd64c2d5cc5e12d7",
       "bytes": 2194249,
       "dimensions": [
@@ -971,7 +971,7 @@
     },
     {
       "name": "cp_46_001_mult.png",
-      "file": "assets/310becba30e6d75b_cp_46_001_mult.png",
+      "file": "assets/310becba30e6d75b_cp_46_001_mult.webp",
       "sha256": "310becba30e6d75b9904ac709f86ccb7fcad72fc082f57b2a0e7fc37a9de734d",
       "bytes": 1001461,
       "dimensions": [
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "cp_45,46,47_001__cp_46_crop.png",
-      "file": "assets/c6df00190f64bb42_cp_45,46,47_001__cp_46_crop.png",
+      "file": "assets/c6df00190f64bb42_cp_45,46,47_001__cp_46_crop.webp",
       "sha256": "c6df00190f64bb42fe900b445abff3f638d80e1bec9088e8b161978b583b774d",
       "bytes": 230820,
       "dimensions": [
@@ -1021,7 +1021,7 @@
     },
     {
       "name": "cp_47_001_col_cr_front.png",
-      "file": "assets/6f6bf43c4bfa7192_cp_47_001_col_cr_front.png",
+      "file": "assets/6f6bf43c4bfa7192_cp_47_001_col_cr_front.webp",
       "sha256": "6f6bf43c4bfa7192187c978b7ec1a9ba1fe5b2bcac8cbb050893f057d101f849",
       "bytes": 2352627,
       "dimensions": [
@@ -1032,7 +1032,7 @@
     },
     {
       "name": "cp_47_001_mult.png",
-      "file": "assets/bae4df9f2e2e4c28_cp_47_001_mult.png",
+      "file": "assets/bae4df9f2e2e4c28_cp_47_001_mult.webp",
       "sha256": "bae4df9f2e2e4c2891a2ed9c076a7c344292acdc30ece0ed01980fd7854d7fff",
       "bytes": 1010921,
       "dimensions": [
@@ -1071,7 +1071,7 @@
     },
     {
       "name": "cp_48_001_col.png",
-      "file": "assets/a056b4977d065a1c_cp_48_001_col.png",
+      "file": "assets/a056b4977d065a1c_cp_48_001_col.webp",
       "sha256": "a056b4977d065a1cd77a8354eb36817022918090360fcf5c79e892b87c95be2e",
       "bytes": 1924143,
       "dimensions": [
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "cp_48_001_col_cr_front.png",
-      "file": "assets/96cef3a39e994821_cp_48_001_col_cr_front.png",
+      "file": "assets/96cef3a39e994821_cp_48_001_col_cr_front.webp",
       "sha256": "96cef3a39e994821d7835ec9eb5bfc4cbfa3efb6f36a66cd91bd024ab4bb8a4b",
       "bytes": 2218455,
       "dimensions": [
@@ -1093,7 +1093,7 @@
     },
     {
       "name": "cp_48_001_mult.png",
-      "file": "assets/e586bab8a2763a39_cp_48_001_mult.png",
+      "file": "assets/e586bab8a2763a39_cp_48_001_mult.webp",
       "sha256": "e586bab8a2763a397d2ec82e2f0941d6dec58a04d35a6437902517d454cff0e5",
       "bytes": 858983,
       "dimensions": [
@@ -1165,7 +1165,7 @@
     },
     {
       "name": "cp_49_001_col.png",
-      "file": "assets/54570071fe6dad4a_cp_49_001_col.png",
+      "file": "assets/54570071fe6dad4a_cp_49_001_col.webp",
       "sha256": "54570071fe6dad4a7f05125b5b7ae79587846cf2aa9a17a6163475571ed66c4e",
       "bytes": 2944337,
       "dimensions": [
@@ -1176,7 +1176,7 @@
     },
     {
       "name": "cp_49_001_col_cr_front.png",
-      "file": "assets/0c8152c73397f766_cp_49_001_col_cr_front.png",
+      "file": "assets/0c8152c73397f766_cp_49_001_col_cr_front.webp",
       "sha256": "0c8152c73397f7660750cbea2935890fc73790987aea51e40e5edc0188e152a7",
       "bytes": 2263453,
       "dimensions": [
@@ -1187,7 +1187,7 @@
     },
     {
       "name": "cp_49_001_mult.png",
-      "file": "assets/d462a0b98e48d526_cp_49_001_mult.png",
+      "file": "assets/d462a0b98e48d526_cp_49_001_mult.webp",
       "sha256": "d462a0b98e48d5267937cf4801e6897f81fcea441ce9d8455af4802a27931446",
       "bytes": 872686,
       "dimensions": [
@@ -1270,7 +1270,7 @@
     },
     {
       "name": "cp_50_002_col.png",
-      "file": "assets/acface7e1c61b384_cp_50_002_col.png",
+      "file": "assets/acface7e1c61b384_cp_50_002_col.webp",
       "sha256": "acface7e1c61b384356a1de0832d21f35ac07065044a6b7185ab1246dab2e9d3",
       "bytes": 2230603,
       "dimensions": [
@@ -1281,7 +1281,7 @@
     },
     {
       "name": "cp_50_002_col_cr_front.png",
-      "file": "assets/42f60411e2874816_cp_50_002_col_cr_front.png",
+      "file": "assets/42f60411e2874816_cp_50_002_col_cr_front.webp",
       "sha256": "42f60411e28748163a2ceb581fdc363b4690bf1739993fc5c0ccfda6fb3de26a",
       "bytes": 2466581,
       "dimensions": [
@@ -1292,7 +1292,7 @@
     },
     {
       "name": "cp_50_002_mult.png",
-      "file": "assets/b65626c76d37c170_cp_50_002_mult.png",
+      "file": "assets/b65626c76d37c170_cp_50_002_mult.webp",
       "sha256": "b65626c76d37c170dc00d2aa3aac73c999727c23b58d99cc5ded4841554f5d34",
       "bytes": 1154153,
       "dimensions": [
@@ -1364,7 +1364,7 @@
     },
     {
       "name": "cp_51_001_col.png",
-      "file": "assets/f6ba1d0185e91dbe_cp_51_001_col.png",
+      "file": "assets/f6ba1d0185e91dbe_cp_51_001_col.webp",
       "sha256": "f6ba1d0185e91dbe5e6a068bff3b58a316330a81655394ba61d5d491c09f63ec",
       "bytes": 1986968,
       "dimensions": [
@@ -1375,7 +1375,7 @@
     },
     {
       "name": "cp_51_001_col_cr_front.png",
-      "file": "assets/88e3842fff769821_cp_51_001_col_cr_front.png",
+      "file": "assets/88e3842fff769821_cp_51_001_col_cr_front.webp",
       "sha256": "88e3842fff7698216b73f0f348eff5eacdfeb69e5fd7050a45f2f964d5bb4b34",
       "bytes": 2581041,
       "dimensions": [
@@ -1386,7 +1386,7 @@
     },
     {
       "name": "cp_51_001_mult.png",
-      "file": "assets/544424e70b4759ad_cp_51_001_mult.png",
+      "file": "assets/544424e70b4759ad_cp_51_001_mult.webp",
       "sha256": "544424e70b4759ad79b1f1f8318e4424b4315624756f011336aa7375b99e6150",
       "bytes": 1020435,
       "dimensions": [
@@ -1414,7 +1414,7 @@
     },
     {
       "name": "cp_54-61_001_col.png",
-      "file": "assets/b19af9d5400dbefb_cp_54-61_001_col.png",
+      "file": "assets/b19af9d5400dbefb_cp_54-61_001_col.webp",
       "sha256": "b19af9d5400dbefb9dc4003d61b4c2b0f77334cb1c96ad3dd787e21c7b3ee6d6",
       "bytes": 1893631,
       "dimensions": [
@@ -1425,7 +1425,7 @@
     },
     {
       "name": "cp_54_001_col_cr_front.png",
-      "file": "assets/e57ac89cfd1bf8fe_cp_54_001_col_cr_front.png",
+      "file": "assets/e57ac89cfd1bf8fe_cp_54_001_col_cr_front.webp",
       "sha256": "e57ac89cfd1bf8fe23d146a7fb8fcbe8f15791d55eed60861624a0bc750b8c6b",
       "bytes": 1955311,
       "dimensions": [
@@ -1436,7 +1436,7 @@
     },
     {
       "name": "cp_54_001_mult.png",
-      "file": "assets/252e734eb2f90db0_cp_54_001_mult.png",
+      "file": "assets/252e734eb2f90db0_cp_54_001_mult.webp",
       "sha256": "252e734eb2f90db081081ed1ff0badb4b1ed676d6e9b8fb1d77d0394270dd8bb",
       "bytes": 1055369,
       "dimensions": [
@@ -1475,7 +1475,7 @@
     },
     {
       "name": "cp_55_001_col_cr_front.png",
-      "file": "assets/983349cfe89a1ee7_cp_55_001_col_cr_front.png",
+      "file": "assets/983349cfe89a1ee7_cp_55_001_col_cr_front.webp",
       "sha256": "983349cfe89a1ee733effcbfd885b1dec4c8bd9d844e1c2a862e1034397d4173",
       "bytes": 2054737,
       "dimensions": [
@@ -1486,7 +1486,7 @@
     },
     {
       "name": "cp_55_001_mult.png",
-      "file": "assets/598c855fbcb1c20b_cp_55_001_mult.png",
+      "file": "assets/598c855fbcb1c20b_cp_55_001_mult.webp",
       "sha256": "598c855fbcb1c20ba6b881970c3d3d6b7edeb192f5b288628399f6639d8fc37c",
       "bytes": 925422,
       "dimensions": [
@@ -1547,7 +1547,7 @@
     },
     {
       "name": "cp_56_001_col_cr_front.png",
-      "file": "assets/3b13786d00becd12_cp_56_001_col_cr_front.png",
+      "file": "assets/3b13786d00becd12_cp_56_001_col_cr_front.webp",
       "sha256": "3b13786d00becd12ed1582a0517b63e3c3ba2ce4fd999cd8b6b2e4a70de6e7cf",
       "bytes": 1620604,
       "dimensions": [
@@ -1558,7 +1558,7 @@
     },
     {
       "name": "cp_56_001_mult.png",
-      "file": "assets/3b8cf3452dd028e2_cp_56_001_mult.png",
+      "file": "assets/3b8cf3452dd028e2_cp_56_001_mult.webp",
       "sha256": "3b8cf3452dd028e2c6876c374cdc562a4020d9d016d7aece9add0328c0e1137a",
       "bytes": 966843,
       "dimensions": [
@@ -1663,7 +1663,7 @@
     },
     {
       "name": "cp_57_001_col_cr_front.png",
-      "file": "assets/a10d7b784154e76c_cp_57_001_col_cr_front.png",
+      "file": "assets/a10d7b784154e76c_cp_57_001_col_cr_front.webp",
       "sha256": "a10d7b784154e76c053f476f3650f7640a8fe8ca54a230705285902732934a8f",
       "bytes": 2013224,
       "dimensions": [
@@ -1674,7 +1674,7 @@
     },
     {
       "name": "cp_57_001_mult.png",
-      "file": "assets/e58f021958be3452_cp_57_001_mult.png",
+      "file": "assets/e58f021958be3452_cp_57_001_mult.webp",
       "sha256": "e58f021958be3452f7edc8b3c475fd38d2acad4424ce5f2ea5e6afc3fa793f11",
       "bytes": 1033397,
       "dimensions": [
@@ -1823,7 +1823,7 @@
     },
     {
       "name": "cp_58_001_col_cr_front.png",
-      "file": "assets/5e957fb43f067f45_cp_58_001_col_cr_front.png",
+      "file": "assets/5e957fb43f067f45_cp_58_001_col_cr_front.webp",
       "sha256": "5e957fb43f067f4560a4caece4cd99950ecebd82e84246bb4fdd7cfa3432d25f",
       "bytes": 1590931,
       "dimensions": [
@@ -1834,7 +1834,7 @@
     },
     {
       "name": "cp_58_001_mult.png",
-      "file": "assets/0f60141f6b0389df_cp_58_001_mult.png",
+      "file": "assets/0f60141f6b0389df_cp_58_001_mult.webp",
       "sha256": "0f60141f6b0389df86aff3ec8ba679abc4f1b47b067d7880053cb89431d0f66e",
       "bytes": 858375,
       "dimensions": [
@@ -1845,7 +1845,7 @@
     },
     {
       "name": "cp_59_001_col_cr_front.png",
-      "file": "assets/94eebe1859ede472_cp_59_001_col_cr_front.png",
+      "file": "assets/94eebe1859ede472_cp_59_001_col_cr_front.webp",
       "sha256": "94eebe1859ede472fda6bb86385761e72c3c937f78d5eab902569377b246d4b8",
       "bytes": 1740730,
       "dimensions": [
@@ -1856,7 +1856,7 @@
     },
     {
       "name": "cp_59_001_mult.png",
-      "file": "assets/83ec8aef49da72d7_cp_59_001_mult.png",
+      "file": "assets/83ec8aef49da72d7_cp_59_001_mult.webp",
       "sha256": "83ec8aef49da72d73245135e7d50e1bab6c8005ecdbac6b86cb6ac0d31c2c41e",
       "bytes": 914909,
       "dimensions": [
@@ -1928,7 +1928,7 @@
     },
     {
       "name": "cp_60_001_col_cr_front.png",
-      "file": "assets/895414a547e5ab49_cp_60_001_col_cr_front.png",
+      "file": "assets/895414a547e5ab49_cp_60_001_col_cr_front.webp",
       "sha256": "895414a547e5ab49cd5cd9def197cd61bb63578928c6ea74502f2d2c35aaf0a5",
       "bytes": 2280175,
       "dimensions": [
@@ -1939,7 +1939,7 @@
     },
     {
       "name": "cp_60_001_mult.png",
-      "file": "assets/6be2e65a21e4ac03_cp_60_001_mult.png",
+      "file": "assets/6be2e65a21e4ac03_cp_60_001_mult.webp",
       "sha256": "6be2e65a21e4ac03f1c9e19f292e6700d2b47eb313203603914fe1b6d056e987",
       "bytes": 1095767,
       "dimensions": [
@@ -1967,7 +1967,7 @@
     },
     {
       "name": "cp_54-61_001__cp_60_crop.png",
-      "file": "assets/d63a9d93e563be76_cp_54-61_001__cp_60_crop.png",
+      "file": "assets/d63a9d93e563be76_cp_54-61_001__cp_60_crop.webp",
       "sha256": "d63a9d93e563be769d59edf794cc9271f97486d975961374994efd123ae6a5cf",
       "bytes": 410038,
       "dimensions": [
@@ -2022,7 +2022,7 @@
     },
     {
       "name": "cp_54-61_001__cp_61_crop.png",
-      "file": "assets/064d20392152ffed_cp_54-61_001__cp_61_crop.png",
+      "file": "assets/064d20392152ffed_cp_54-61_001__cp_61_crop.webp",
       "sha256": "064d20392152ffed49a548c615a8b050d77cfe241d18b3f1c3e9a66f2d9b445d",
       "bytes": 293215,
       "dimensions": [
@@ -2033,7 +2033,7 @@
     },
     {
       "name": "cp_78,79_001__cp_78_crop.png",
-      "file": "assets/68bf001f169f96c0_cp_78,79_001__cp_78_crop.png",
+      "file": "assets/68bf001f169f96c0_cp_78,79_001__cp_78_crop.webp",
       "sha256": "68bf001f169f96c07bc571a5ac1dca73a9cbd1d728a3f9707baec44d8c4c8d1d",
       "bytes": 610862,
       "dimensions": [
@@ -2066,7 +2066,7 @@
     },
     {
       "name": "cp_78,79_001_col.png",
-      "file": "assets/0668a3cca76d0a49_cp_78,79_001_col.png",
+      "file": "assets/0668a3cca76d0a49_cp_78,79_001_col.webp",
       "sha256": "0668a3cca76d0a49a0406a63f7aa0ae8a2494909efc956045e7719c716de0b35",
       "bytes": 1738159,
       "dimensions": [
@@ -2077,7 +2077,7 @@
     },
     {
       "name": "cp_79_001_col_cr_front.png",
-      "file": "assets/dfe07d5a788ce607_cp_79_001_col_cr_front.png",
+      "file": "assets/dfe07d5a788ce607_cp_79_001_col_cr_front.webp",
       "sha256": "dfe07d5a788ce607248f03f16fab1bdf90c4888b9262d7caacb4fa429460728e",
       "bytes": 2377954,
       "dimensions": [
@@ -2088,7 +2088,7 @@
     },
     {
       "name": "cp_79_001_mult.png",
-      "file": "assets/7f018328d3397a49_cp_79_001_mult.png",
+      "file": "assets/7f018328d3397a49_cp_79_001_mult.webp",
       "sha256": "7f018328d3397a4925d88d5dc7c82a25ec04fd90bc3c4dc956e1492471390cc0",
       "bytes": 900105,
       "dimensions": [
@@ -2138,7 +2138,7 @@
     },
     {
       "name": "cp_78,79_001__cp_79_crop.png",
-      "file": "assets/241174375688746e_cp_78,79_001__cp_79_crop.png",
+      "file": "assets/241174375688746e_cp_78,79_001__cp_79_crop.webp",
       "sha256": "241174375688746ee6efbb6369f9584e005a591b39bcd7ce2d9153a9ae51f116",
       "bytes": 552515,
       "dimensions": [
@@ -2149,7 +2149,7 @@
     },
     {
       "name": "cp_80A,82,83_001_col.png",
-      "file": "assets/aa0d72636056fded_cp_80A,82,83_001_col.png",
+      "file": "assets/aa0d72636056fded_cp_80A,82,83_001_col.webp",
       "sha256": "aa0d72636056fded8de244ab73ee107aa5ce8a1b91e6cb05ba52dc1c7d10d8ac",
       "bytes": 2603076,
       "dimensions": [
@@ -2160,7 +2160,7 @@
     },
     {
       "name": "cp_80_001_col_cr_front.png",
-      "file": "assets/aadc7f17744808f4_cp_80_001_col_cr_front.png",
+      "file": "assets/aadc7f17744808f4_cp_80_001_col_cr_front.webp",
       "sha256": "aadc7f17744808f4dde025dab20d6f780c9e00ef7f1ed9f1e9fc9ee6ff7ee772",
       "bytes": 2082369,
       "dimensions": [
@@ -2171,7 +2171,7 @@
     },
     {
       "name": "cp_80_001_mult.png",
-      "file": "assets/bc8670f94bcce10a_cp_80_001_mult.png",
+      "file": "assets/bc8670f94bcce10a_cp_80_001_mult.webp",
       "sha256": "bc8670f94bcce10a77db79345e4fb634489fd2c023e11484faf874632c0f7db5",
       "bytes": 975084,
       "dimensions": [
@@ -2232,7 +2232,7 @@
     },
     {
       "name": "cp_82_001_col_cr_front.png",
-      "file": "assets/d0e4183980b7bc05_cp_82_001_col_cr_front.png",
+      "file": "assets/d0e4183980b7bc05_cp_82_001_col_cr_front.webp",
       "sha256": "d0e4183980b7bc05c1d6e00ab263af75ba7566c88c6fedca0558bfa26de2ad0d",
       "bytes": 2362365,
       "dimensions": [
@@ -2243,7 +2243,7 @@
     },
     {
       "name": "cp_82_001_mult.png",
-      "file": "assets/714bb09643596e02_cp_82_001_mult.png",
+      "file": "assets/714bb09643596e02_cp_82_001_mult.webp",
       "sha256": "714bb09643596e0279186ca09c4b6b8af01353fd8f583516ab9c44960fc7fd12",
       "bytes": 1027508,
       "dimensions": [
@@ -2282,7 +2282,7 @@
     },
     {
       "name": "cp_83_001_col_cr_front.png",
-      "file": "assets/8fcac21da6d53f48_cp_83_001_col_cr_front.png",
+      "file": "assets/8fcac21da6d53f48_cp_83_001_col_cr_front.webp",
       "sha256": "8fcac21da6d53f48345a04aac4ca5cf33f426dbff119c4a7e3d1a48564d8ccb0",
       "bytes": 2220265,
       "dimensions": [
@@ -2293,7 +2293,7 @@
     },
     {
       "name": "cp_83_001_mult.png",
-      "file": "assets/89998ef2d02e35a3_cp_83_001_mult.png",
+      "file": "assets/89998ef2d02e35a3_cp_83_001_mult.webp",
       "sha256": "89998ef2d02e35a33157d8ea83ee3a5ef752cb6fb4a18331a39b265747819c1f",
       "bytes": 987733,
       "dimensions": [
@@ -2332,7 +2332,7 @@
     },
     {
       "name": "cp_134_001_col.png",
-      "file": "assets/c09456af0c995ae8_cp_134_001_col.png",
+      "file": "assets/c09456af0c995ae8_cp_134_001_col.webp",
       "sha256": "c09456af0c995ae8273a986e84451e52e75fa98bf1568e77ffd8b5a7aee8777e",
       "bytes": 2448802,
       "dimensions": [
@@ -2343,7 +2343,7 @@
     },
     {
       "name": "cp_134_001_col_cr_front.png",
-      "file": "assets/5de6c711ab93db2a_cp_134_001_col_cr_front.png",
+      "file": "assets/5de6c711ab93db2a_cp_134_001_col_cr_front.webp",
       "sha256": "5de6c711ab93db2a9ac97ad84348fb5d3c236b00893d2886fa26717de3e18628",
       "bytes": 1767736,
       "dimensions": [
@@ -2354,7 +2354,7 @@
     },
     {
       "name": "cp_134_001_mult.png",
-      "file": "assets/a404a075284e8e6c_cp_134_001_mult.png",
+      "file": "assets/a404a075284e8e6c_cp_134_001_mult.webp",
       "sha256": "a404a075284e8e6cebaf5c5c82b48d6158d39662303b17464f018834051ec39f",
       "bytes": 961298,
       "dimensions": [
@@ -2382,7 +2382,7 @@
     },
     {
       "name": "cp57_detail_front.png",
-      "file": "assets/e2d142d93802d36a_cp57_detail_front.png",
+      "file": "assets/e2d142d93802d36a_cp57_detail_front.webp",
       "sha256": "e2d142d93802d36a4ae17118d5633b32ce11d2a619486cf0bf3e1cd0e08a3d4e",
       "bytes": 2426102,
       "dimensions": [
@@ -2401,7 +2401,7 @@
     },
     {
       "name": "cp60_detail_front.png",
-      "file": "assets/a4f2cac7b41c75bc_cp60_detail_front.png",
+      "file": "assets/a4f2cac7b41c75bc_cp60_detail_front.webp",
       "sha256": "a4f2cac7b41c75bcbae794514e78ba51ff492d8c038ee0714a295cd346d71be6",
       "bytes": 2277230,
       "dimensions": [
@@ -2420,7 +2420,7 @@
     },
     {
       "name": "overview.png",
-      "file": "assets/21bf2b6d811d4044_overview.png",
+      "file": "assets/21bf2b6d811d4044_overview.webp",
       "sha256": "21bf2b6d811d4044cc260680bcd2ef0fb06cfacbefa2a7e933c95b4acd7b791a",
       "bytes": 250353,
       "dimensions": [
@@ -2431,7 +2431,7 @@
     },
     {
       "name": "Square_overview.png",
-      "file": "assets/02f0d545b07194fc_Square_overview.png",
+      "file": "assets/02f0d545b07194fc_Square_overview.webp",
       "sha256": "7707cdb398ebc113f4f94443efed240305469b82a46dd6423597c771a62a8e89",
       "bytes": 2553333,
       "dimensions": [
@@ -2444,7 +2444,7 @@
     },
     {
       "name": "CP57_detail.png",
-      "file": "assets/3f206c598d94866d_CP57_detail.png",
+      "file": "assets/3f206c598d94866d_CP57_detail.webp",
       "sha256": "8a1c735314f45cfe44ada85ec2fdc017862b2c1059a22fb4d5fbfb326ad97327",
       "bytes": 2642769,
       "dimensions": [
