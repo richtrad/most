@@ -6173,36 +6173,36 @@
   "sha256": "2863ef9478bb01957bc1ef6d9a98e9be30821afa8c8ea3aa8ad402ce818a91a3"
  },
  "models/u_hriste_street.glb": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\u_hriste_street.glb",
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\u_hriste_street.glb",
   "note": "street assembly (assemble_street.py), no packed images",
-  "sha256": "33483a9da0c42ebe54e9f527d6f942f2a0665fd72b08db76ca75c81a94c2df20"
+  "sha256": "fa3793b12692d87ad493f65616c04b387ae519935042fc773b543f35ccb83387"
  },
  "assets/renders/bend_626_from_W.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\bend_626_from_W.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\bend_626_from_W.png"
  },
  "assets/renders/dvouletky_from_E.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\dvouletky_from_E.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\dvouletky_from_E.png"
  },
  "assets/renders/gasworks_from_N.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\gasworks_from_N.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\gasworks_from_N.png"
  },
  "assets/renders/oblique_from_NE.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\oblique_from_NE.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\oblique_from_NE.png"
  },
  "assets/renders/oblique_from_S.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\oblique_from_S.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\oblique_from_S.png"
  },
  "assets/renders/street_level_bend_to_E.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\street_level_bend_to_E.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\street_level_bend_to_E.png"
  },
  "assets/renders/street_level_E_to_W.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\street_level_E_to_W.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\street_level_E_to_W.png"
  },
  "assets/renders/street_level_husovo_to_N.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\street_level_husovo_to_N.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\street_level_husovo_to_N.png"
  },
  "assets/renders/top_ortho.jpg": {
-  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r3\\renders\\top_ortho.png"
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\top_ortho.png"
  },
  "assets/houses/cpG1530_oblique.jpg": {
   "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cpG1530\\r3\\qa\\cp_G1530_G_r3_mat_roof_front_right.png",
@@ -6365,5 +6365,101 @@
   "revision": "r1",
   "note": "copy of the batch GLB (no packed images, material IDs only)",
   "sha256": "9a6adcf2272118b44d8e40c9baa25136d97e55a11e191ebf6549ae14835945b6"
+ },
+ "assets/src/2741c3abc84c6226.jpg": {
+  "source": "cp_742_001.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "2741c3abc84c62267ef868da157e74fcc2d7441754113c99f9bd48d30b1adeee",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   723
+  ]
+ },
+ "assets/src/3e10b3a99b828375.jpg": {
+  "source": "cp_627_002.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "3e10b3a99b82837507249711c429b72d028d366942e918f0b44e7301693485a2",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   619,
+   900
+  ]
+ },
+ "assets/src/b4552da17a5b48c3.jpg": {
+  "source": "cp_627_001.jpg",
+  "tags": [
+   "PLANE",
+   "BW"
+  ],
+  "source_sha256": "b4552da17a5b48c30e04acc32146a7255e18405c02ebbe05448cd4081aa71bae",
+  "note": "downscaled to 900 px (database attachment, read only)",
+  "size": [
+   900,
+   813
+  ]
+ },
+ "assets/houses/cp742_oblique.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp742\\r1\\qa\\cp_742_G_r1_mat_roof_front_right.png",
+  "note": "QA render of cp_742_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp742_front.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp742\\r1\\qa\\cp_742_G_r1_mat_front.png",
+  "note": "QA render of cp_742_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp742_clay.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp742\\r1\\qa\\cp_742_G_r1_clay_roof_front_left.png",
+  "note": "QA render of cp_742_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp742_qa_mat.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\qa\\views_cp742_r1_mat.jpg"
+ },
+ "assets/houses/cp742_qa_clay.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\qa\\views_cp742_r1_clay.jpg"
+ },
+ "assets/houses/cp742_details.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\qa\\details_cp742_r1.jpg"
+ },
+ "models/cp742.glb": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp742\\r1\\cp_742_G_r1.glb",
+  "revision": "r1",
+  "note": "copy of the batch GLB (no packed images, material IDs only)",
+  "sha256": "8d59982f5ee4a79a35e973a3bd2044c26bdbf0288cced0e3ad8e81d4b9577222"
+ },
+ "assets/houses/cp627_oblique.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp627\\r1\\qa\\cp_627_G_r1_mat_roof_front_right.png",
+  "note": "QA render of cp_627_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp627_front.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp627\\r1\\qa\\cp_627_G_r1_mat_front.png",
+  "note": "QA render of cp_627_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp627_clay.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp627\\r1\\qa\\cp_627_G_r1_clay_roof_front_left.png",
+  "note": "QA render of cp_627_G_r1.blend, downscaled"
+ },
+ "assets/houses/cp627_qa_mat.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\qa\\views_cp627_r1_mat.jpg"
+ },
+ "assets/houses/cp627_qa_clay.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\qa\\views_cp627_r1_clay.jpg"
+ },
+ "assets/houses/cp627_details.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\qa\\details_cp627_r1.jpg"
+ },
+ "models/cp627.glb": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\houses\\cp627\\r1\\cp_627_G_r1.glb",
+  "revision": "r1",
+  "note": "copy of the batch GLB (no packed images, material IDs only)",
+  "sha256": "80fd865faec672c4bb884482d1440e813926939bcd67a2c59dbe4e3bf4c5805d"
+ },
+ "assets/renders/yards_627_742_from_S.jpg": {
+  "source": "F:\\MOST\\output\\u_hriste_street_claude_2026-10-25\\street_r4\\renders\\yards_627_742_from_S.png"
  }
 }

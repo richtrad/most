@@ -358,5 +358,25 @@
   "updated": "2026-10-25",
   "by": null,
   "qa": null
+ },
+ "742": {
+  "status": "none",
+  "label": "bez textur (hypotéza – zbořená dvorní stavba – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp742.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
+ },
+ "627": {
+  "status": "none",
+  "label": "bez textur (hypotéza – zbořená dvorní stavba – jen prosté materiály)",
+  "glb": null,
+  "geometry_revision": "r1",
+  "geometry_glb": "models/cp627.glb",
+  "updated": "2026-10-25",
+  "by": null,
+  "qa": null
  }
 }
